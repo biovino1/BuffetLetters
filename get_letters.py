@@ -1,33 +1,53 @@
 """================================================================================================
 This script accesses each 'Letter to Shareholders' from Berkshire Hathaway's online archive.
 
-12/23/22   Ben Iovino   WarrenLetters
+12/23/22   Ben Iovino   BuffettLetters
 ================================================================================================"""
 
-import requests
 import os
+import requests
 import PyPDF2
 from bs4 import BeautifulSoup
 
 
-def get_html(url, links):
+def get_links(url, headers):
+    """=============================================================================================
+    This function takes a url and gathers all links. It returns a list of the desired links.
+
+    :param url: root url
+    :param headers: headers used for requests
+    :return: list of links
+    ============================================================================================="""
+
+    # Request url and parse html
+    page = requests.get(url, headers=headers, timeout=5)
+    soup = BeautifulSoup(page.text, 'html.parser')
+
+    # Get links to individual letters
+    links = []
+    for link in soup.find_all('a'):
+        links.append(link.get('href'))
+    links = links[1:-1]
+
+    return links
+
+
+def get_html(url, links, headers):
     """=============================================================================================
     This function takes a url and list of sublinks that lead to html webpages and writes their
     text content to an individual file.
 
     :param url: root url
     :param links: list of links leading to individual webpages
+    :param headers: headers used for requests
     ============================================================================================="""
-
-    # Set headers (example from wikipedia)
-    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/12.0'}
 
     # Iterate over each webpage
     for link in links:
 
         # Get content of webpage, parse with beautiful soup
-        content = requests.get(url+link, headers=headers, timeout=10)
-        letter = BeautifulSoup(content.content, 'html.parser')
+        content = requests.get(url+link, headers=headers, timeout=5)
+        letter = BeautifulSoup(content.text, 'html.parser')
 
         # Write to file as is
         if not os.path.exists('html_letters'):
@@ -40,22 +60,32 @@ def main():
     """=============================================================================================
     ============================================================================================="""
 
-    # All letters under same url structure
-    url = 'https://www.berkshirehathaway.com/letters/'
+    # Set user-agent hearder for requests (UA below sent by personal machine)
+    headers = {'User-Agent':
+        'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0'}
+
+    # Get all links from url
+    url = 'https://www.berkshirehathaway.com/letters/letters.html'
+    links = get_links(url, headers)
 
     # Get letters from html webpages
-    html_letters = ['1977.html', '1978.html', '1979.html', '1980.html', '1981.html', '1982.html',
-        '1983.html', '1984.html', '1985.html', '1986.html', '1987.html', '1988.html', '1989.html',
-        '1990.html', '1991.html', '1992.html', '1993.html', '1994.html', '1995.html', '1996.html',
-        '1997.html']
-    get_html(url, html_letters)
+    url = 'https://www.berkshirehathaway.com/letters/'
+    html_letters = links[:21]
+    #get_html(url, html_letters, headers)
 
-    # Get letters from pdf webpages
-    pdf_letters = ['1998pdf.pdf', '1999pdf.pdf', '2000pdf.pdf', '2001pdf.pdf', '2002pdf.pdf',
-        '2003ltr.pdf', '2004ltr.pdf', '2005ltr.pdf', '2006ltr.pdf', '2007ltr.pdf', '2008ltr.pdf',
-        '2009ltr.pdf', '2010ltr.pdf', '2011ltr.pdf', '2012ltr.pdf', '2013ltr.pdf', '2014ltr.pdf',
-        '2015ltr.pdf', '2016ltr.pdf', '2017ltr.pdf', '2018ltr.pdf', '2019ltr.pdf', '2020ltr.pdf',
-        '2021ltr.pdf']
+    # Some links to pdfs are behind another link - manually alter list of pdf links
+    pdf_letters = links[21:]
+    for i, link in enumerate(pdf_letters):
+        if i < 5:
+            pdf_letters[i] = link[:4] + 'pdf.pdf'
+        if i == 5:
+            pdf_letters[i] = link[:4] + 'ltr.pdf'
+
+    # Download pdf letters and extract text
+    r = requests.get(url+pdf_letters[0], stream=True, timeout=5)
+
+    with open('/home/ben/Code/BuffettLetters/test.pdf', 'wb') as f:
+        f.write(r.content)
 
 if __name__ == '__main__':
     main()
