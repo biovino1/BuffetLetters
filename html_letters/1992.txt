@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1992</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1992
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
 
      Our per-share book value increased 20.3% during 1992.  Over 
@@ -86,7 +80,7 @@ industrial company.
 to indicate the impact that market movements have on short-term 
 results - we show on the facing page our annual change in per-
 share net worth and compare it with the annual results (including 
-dividends) of the S&amp;P 500.
+dividends) of the S&P 500.
 
      You should keep at least three points in mind as you 
 evaluate this data.  The first point concerns the many businesses 
@@ -97,22 +91,22 @@ Early on, returns from our textile operation, which then
 represented a significant portion of our net worth, were a major 
 drag on performance, averaging far less than would have been the 
 case if the money invested in that business had instead been 
-invested in the S&amp;P 500.  In more recent years, as we assembled 
+invested in the S&P 500.  In more recent years, as we assembled 
 our collection of exceptional businesses run by equally 
 exceptional managers, the returns from our operating businesses 
 have been high - usually well in excess of the returns achieved 
-by the S&amp;P.
+by the S&P.
 
      A second important factor to consider - and one that 
 significantly hurts our relative performance - is that both the 
 income and capital gains from our securities are burdened by a 
-substantial corporate tax liability whereas the S&amp;P returns are 
+substantial corporate tax liability whereas the S&P returns are 
 pre-tax.  To comprehend the damage, imagine that Berkshire had 
-owned nothing other than the S&amp;P index during the 28-year period 
+owned nothing other than the S&P index during the 28-year period 
 covered. In that case, the tax bite would have caused our 
 corporate performance to be appreciably below the record shown in 
-the table for the S&amp;P.  Under present tax laws, a gain for the 
-S&amp;P of 18% delivers a corporate holder of that index a return 
+the table for the S&P.  Under present tax laws, a gain for the 
+S&P of 18% delivers a corporate holder of that index a return 
 well short of 13%.  And this problem would be intensified if 
 corporate tax rates were to rise.  This is a structural 
 disadvantage we simply have to live with; there is no antidote 
@@ -121,7 +115,7 @@ for it.
      The third point incorporates two predictions:  Charlie 
 Munger, Berkshire's Vice Chairman and my partner, and I are 
 virtually certain that the return over the next decade from an 
-investment in the S&amp;P index will be far less than that of the 
+investment in the S&P index will be far less than that of the 
 past decade, and we are dead certain that the drag exerted by 
 Berkshire's expanding capital base will substantially reduce our 
 historical advantage relative to the index.
@@ -152,7 +146,7 @@ but welcome it:  A tolerance for short-term swings improves our
 long-term prospects.  In baseball lingo, our performance 
 yardstick is slugging percentage, not batting average.
 
-<b>The Salomon Interlude</b>
+The Salomon Interlude
 
      Last June, I stepped down as Interim Chairman of Salomon Inc 
 after ten months in the job.  You can tell from Berkshire's 1991-
@@ -179,7 +173,7 @@ effective, supportive and selfless, and I will forever be
 grateful to them.
 
      Salomon's lead lawyer in its Government matters, Ron Olson 
-of Munger, Tolles &amp; Olson, was also key to our success in getting 
+of Munger, Tolles & Olson, was also key to our success in getting 
 through this trouble.  The firm's problems were not only severe, 
 but complex.  At least five authorities - the SEC, the Federal 
 Reserve Bank of New York, the U.S. Treasury, the U.S. Attorney 
@@ -189,7 +183,7 @@ Salomon.  If we were to resolve our problems in a coordinated and
 prompt manner, we needed a lawyer with exceptional legal, 
 business and human skills.  Ron had them all.
 
-<b>Acquisitions</b>
+Acquisitions
 
      Of all our activities at Berkshire, the most exhilarating 
 for Charlie and me is the acquisition of a business with 
@@ -272,7 +266,7 @@ eight children.  In 1992 our only deal was with Bill Kizer,
 father of nine.  It won't be easy to keep this string going in 
 1993.
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table below shows the major sources of Berkshire's 
 reported earnings.  In this presentation, amortization of 
@@ -287,7 +281,7 @@ GAAP, which requires purchase-price adjustments to be made on a
 business-by-business basis.  The total net earnings we show in 
 the table are, of course, identical to the GAAP total in our 
 audited financial statements.
-<i>				         
+				         
                                           (000s omitted)
                             -----------------------------------------------
                                                           Berkshire's Share  
@@ -295,7 +289,7 @@ audited financial statements.
                                                           (after taxes and  
                                  Pre-Tax Earnings        minority interests)
                               ----------------------  ----------------------  
-                                 1992        1991        1992        1991</i>
+                                 1992        1991        1992        1991
                               ----------  ----------  ----------  ----------
 Operating Earnings:
   Insurance Group:
@@ -325,9 +319,9 @@ Sales of Securities .........    89,937     192,478      59,559     124,155
 Total Earnings - All Entities $ 550,617   $ 592,986   $ 407,285   $ 439,908 
                               ==========  ==========  ==========  ==========
 
-<i>*Excludes interest expense of Scott Fetzer Financial Group and Mutual 
- Savings &amp; Loan.  Includes $22.5 million in 1992 and $5.7 million in 
- 1991 of premiums paid on the early redemption of debt.</i>
+*Excludes interest expense of Scott Fetzer Financial Group and Mutual 
+ Savings & Loan.  Includes $22.5 million in 1992 and $5.7 million in 
+ 1991 of premiums paid on the early redemption of debt.
 
 
      A large amount of additional information about these 
@@ -336,7 +330,7 @@ segment earnings reported on a GAAP basis.  Our goal is to give you
 all of the financial information that Charlie and I consider 
 significant in making our own evaluation of Berkshire.
 
-<b>"Look-Through" Earnings</b>
+"Look-Through" Earnings
 
      We've previously discussed look-through earnings, which 
 consist of: (1) the operating earnings reported in the previous 
@@ -369,7 +363,7 @@ ago, and the moves we made then should now be paying off.  If
 plantings made confidently are repeatedly followed by disappointing 
 harvests, something is wrong with the farmer.  (Or perhaps with the 
 farm:  Investors should understand that for certain companies, and 
-even for some industries, there simply is <i>no</i> good long-term 
+even for some industries, there simply is no good long-term 
 strategy.)  Just as you should be suspicious of managers who pump 
 up short-term earnings by accounting maneuvers, asset sales and the 
 like, so also should you be suspicious of those managers who fail 
@@ -379,7 +373,7 @@ focus.  (Even Alice, after listening to the Queen lecture her about
 today.")
 
      The following table shows you how we calculate look-through 
-earnings, though I warn you that the figures are necessarily <i>very</i> 
+earnings, though I warn you that the figures are necessarily very 
 rough.  (The dividends paid to us by these investees have been 
 included in the operating earnings itemized on page 8, mostly 
 under "Insurance Group:  Net Investment Income.") 
@@ -399,7 +393,7 @@ General Dynamics Corp. ........   14.1%       --            11(2)     --
 The Gillette Company ..........   10.9%      11.0%          38        23(2)
 Guinness PLC ..................    2.0%       1.6%           7        -- 
 The Washington Post Company ...   14.6%      14.6%          11        10
-Wells Fargo &amp; Company .........   11.5%       9.6%          16(2)    (17)(2)
+Wells Fargo & Company .........   11.5%       9.6%          16(2)    (17)(2)
                                  --------   --------     --------  --------
 Berkshire's share of 
   undistributed earnings of major investees               $298      $230
@@ -414,15 +408,15 @@ Reported operating earnings of Berkshire                   348       316
      (3) Excludes realized capital gains, which have been both 
 recurring and significant
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      Shown below is an updated version of our usual table 
 presenting key figures for the property-casualty insurance 
 industry:
-<i>
+
                                  Yearly Change        Combined Ratio 
                                   in Premiums       After Policyholder
-                                  Written (%)           Dividends</i>
+                                  Written (%)           Dividends
                                  -------------      ------------------
 
 1981 ...........................      3.8                 106.0
@@ -529,8 +523,8 @@ atmospheric conditions can produce momentous changes in weather
 patterns.  Furthermore, in recent years there has been a 
 mushrooming of population and insured values in U.S. coastal 
 areas that are particularly vulnerable to hurricanes, the number 
-one creator of super-cats.  A hurricane that caused <i>x</i> dollars of 
-damage 20 years ago could easily cost 10<i>x</i> now.
+one creator of super-cats.  A hurricane that caused x dollars of 
+damage 20 years ago could easily cost 10x now.
 
      Occasionally, also, the unthinkable happens.  Who would have 
 guessed, for example, that a major earthquake could occur in 
@@ -637,14 +631,14 @@ either indirectly as we have done through GEICO or directly as we
 did by acquiring Central States Indemnity.
 
 
-<b>Common Stock Investments</b>
+Common Stock Investments
 
      Below we list our common stock holdings having a value of over 
 $100 million.  A small portion of these investments belongs to 
 subsidiaries of which Berkshire owns less than 100%.
-<i>
+
                                                           12/31/92
-   Shares   Company                                   Cost        Market</i>
+   Shares   Company                                   Cost        Market
    ------   -------                                ----------   ----------
                                                        (000s omitted)
  3,000,000  Capital Cities/ABC, Inc. ............. $  517,500   $1,523,500
@@ -656,7 +650,7 @@ subsidiaries of which Berkshire owns less than 100%.
 24,000,000  The Gillette Company .................    600,000    1,365,000
 38,335,000  Guinness PLC .........................    333,019      299,581
  1,727,765  The Washington Post Company ..........      9,731      396,954
- 6,358,418  Wells Fargo &amp; Company ................    380,983      485,624
+ 6,358,418  Wells Fargo & Company ................    380,983      485,624
 
      Leaving aside splits, the number of shares we held in these 
 companies changed during 1992 in only four cases:  We added 
@@ -715,7 +709,7 @@ dressing.
 
      We view that as fuzzy thinking (in which, it must be 
 confessed, I myself engaged some years ago).  In our opinion, the 
-two approaches are joined at the hip:  Growth is <i>always</i> a component 
+two approaches are joined at the hip:  Growth is always a component 
 in the calculation of value, constituting a variable whose 
 importance can range from negligible to enormous and whose impact 
 can be negative as well as positive.
@@ -755,12 +749,12 @@ only when each dollar used to finance the growth creates over a
 dollar of long-term market value.  In the case of a low-return 
 business requiring incremental funds, growth hurts the investor.
 
-     In <u>The Theory of Investment Value</u>, written over 50 years ago, 
+     In The Theory of Investment Value, written over 50 years ago, 
 John Burr Williams set forth the equation for value, which we 
-condense here:  <i>The value of any stock, bond or business today is 
+condense here:  The value of any stock, bond or business today is 
 determined by the cash inflows and outflows - discounted at an 
 appropriate interest rate - that can be expected to occur during 
-the remaining life of the asset.</i>  Note that the formula is the same 
+the remaining life of the asset.  Note that the formula is the same 
 for stocks as for bonds.  Even so, there is an important, and 
 difficult to deal with, difference between the two:  A bond has a 
 coupon and maturity date that define future cash flows; but in the 
@@ -784,7 +778,7 @@ they should be bought.
      Leaving the question of price aside, the best business to own 
 is one that over an extended period can employ large amounts of 
 incremental capital at very high rates of return.  The worst 
-business to own is one that must, or <i>will</i>, do the opposite - that 
+business to own is one that must, or will, do the opposite - that 
 is, consistently employ ever-greater amounts of capital at very low 
 rates of return.  Unfortunately, the first type of business is very 
 hard to find:  Most high-return businesses need relatively little 
@@ -813,7 +807,7 @@ buying.  We believe this margin-of-safety principle, so strongly
 emphasized by Ben Graham, to be the cornerstone of investment 
 success.
 
-<b>Fixed-Income Securities</b>
+Fixed-Income Securities
 
      Below we list our largest holdings of fixed-income securities:
 
@@ -858,17 +852,17 @@ instance.  The secondary market, which is periodically ruled by
 mass folly, is constantly setting a "clearing" price.  No matter 
 how foolish that price may be, it's what counts for the holder of a 
 stock or bond who needs or wishes to sell, of whom there are always 
-going to be a few at any moment.  In many instances, shares worth <i>x</i>
-in business value have sold in the market for 1/2<i>x</i> or less.
+going to be a few at any moment.  In many instances, shares worth x
+in business value have sold in the market for 1/2x or less.
 
      The new-issue market, on the other hand, is ruled by 
 controlling stockholders and corporations, who can usually select 
 the timing of offerings or, if the market looks unfavorable, can 
 avoid an offering altogether.  Understandably, these sellers are 
 not going to offer any bargains, either by way of a public offering 
-or in a negotiated transaction:  It's rare you'll find <i>x</i> for
-1/2<i>x</i> here.  Indeed, in the case of common-stock offerings, selling 
-shareholders are often motivated to unload <i>only</i> when they feel the 
+or in a negotiated transaction:  It's rare you'll find x for
+1/2x here.  Indeed, in the case of common-stock offerings, selling 
+shareholders are often motivated to unload only when they feel the 
 market is overpaying.  (These sellers, of course, would state that 
 proposition somewhat differently, averring instead that they simply 
 resist selling when the market is underpaying for their goods.)
@@ -926,7 +920,7 @@ our investees to work hard to increase the value of the businesses
 they run, and there are times when large owners should do their bit 
 as well.
 
-<b>Two New Accounting Rules and a Plea for One More</b>
+Two New Accounting Rules and a Plea for One More
 
      A new accounting rule having to do with deferred taxes becomes 
 effective in 1993.  It undoes a dichotomy in our books that I have 
@@ -1094,7 +1088,7 @@ credibility on issues of significance to society - about which it
 may have much of value to say - when it advocates the incredible on 
 issues of significance to itself.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      We have two pieces of regrettable news this year.  First, 
 Gladys Kaiser, my friend and assistant for twenty-five years, will 
@@ -1379,6 +1373,5 @@ See's candies, and other lesser goodies.  I hope you will join us.
                                           Warren E. Buffett
 March 1, 1993                             Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+

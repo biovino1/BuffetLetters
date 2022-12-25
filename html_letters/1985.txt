@@ -1,31 +1,25 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1985</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1985
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      You may remember the wildly upbeat message of last years 
 report: nothing much was in the works but our experience had been 
 that something big popped up occasionally.  This carefully-
 crafted corporate strategy paid off in 1985.  Later sections of 
 this report discuss (a) our purchase of a major position in 
-Capital Cities/ABC, (b) our acquisition of Scott &amp; Fetzer, (c) 
+Capital Cities/ABC, (b) our acquisition of Scott & Fetzer, (c) 
 our entry into a large, extended term participation in the 
 insurance business of Firemans Fund, and (d) our sale of our 
 stock in General Foods.
@@ -165,7 +159,7 @@ comfortable.  The prospector paused.  No, he said, I think
 Ill go along with the rest of the boys.  There might be some 
 truth to that rumor after all.
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table on the next page shows the major sources of 
 Berkshires reported earnings.  These numbers, along with far 
@@ -198,7 +192,7 @@ information regarding our businesses is provided, including
 Goodwill and Goodwill Amortization figures for each of the 
 segments.  I urge you to read those sections as well as Charlie 
 Mungers letter to Wesco shareholders, which starts on page 56.
-<i>
+
                                                 (000s omitted) 
                                   -----------------------------------------
                                                          Berkshire's Share 
@@ -206,7 +200,7 @@ Mungers letter to Wesco shareholders, which starts on page 56.
                                                          (after taxes and 
                                     Pre-Tax Earnings    minority interests)
                                   -------------------   -------------------
-                                    1985       1984       1985       1984 </i>
+                                    1985       1984       1985       1984 
                                   --------   --------   --------   --------
 Operating Earnings:
   Insurance Group:
@@ -315,7 +309,7 @@ there. Youll immediately see why we make a good team: Charlie
 likes to study errors and I have generated ample material for 
 him, particularly in our textile and insurance businesses.
 
-<b>Shutdown of Textile Business</b>
+Shutdown of Textile Business
 
      In July we decided to close our textile operation, and by 
 yearend this unpleasant job was largely completed.  The history 
@@ -398,7 +392,7 @@ major acquisition, Waumbec Mills, with the expectation of
 important synergy (a term widely used in business to explain an 
 acquisition that otherwise makes no sense).  But in the end 
 nothing worked and I should be faulted for not quitting sooner.  
-A recent <i>Business Week</i> article stated that 250 textile mills have 
+A recent Business Week article stated that 250 textile mills have 
 closed since 1980.  Their owners were not privy to any 
 information that was unknown to me; they simply processed it more 
 objectively.  I ignored Comtes advice - the intellect should be 
@@ -541,8 +535,8 @@ exceeds the proceeds we received from this massive collection of
 tangible assets that not too many years ago, under different 
 competitive conditions, was able to employ over 1,000 people.
 
-<b>Three Very Good Businesses (and a Few Thoughts About Incentive 
-Compensation)</b>
+Three Very Good Businesses (and a Few Thoughts About Incentive 
+Compensation)
 
      When I was 12, I lived with my grandfather for about four 
 months.  A grocer by trade, he was also working on a book and 
@@ -750,7 +744,7 @@ market prices can be as an index of real value.  But why, then,
 should these same depressed prices be the valuations at which 
 managers sell portions of their businesses to themselves? (They 
 may go further: officers and directors sometimes consult the Tax 
-Code to determine the <i>lowest</i> prices at which they can, in effect, 
+Code to determine the lowest prices at which they can, in effect, 
 sell part of the business to insiders.  While theyre at it, they 
 often elect plans that produce the worst tax result for the 
 company.) Except in highly unusual cases, owners are not well 
@@ -848,14 +842,14 @@ Steve - a three-generation miracle of management.
 with managers such as these.  I like them personally as much as I 
 admire them professionally.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      Shown below is an updated version of our usual table, 
 listing two key figures for the insurance industry:
-<i>
+
                          Yearly Change       Combined Ratio
                           in Premiums      after Policyholder
-                          Written (%)          Dividends</i>
+                          Written (%)          Dividends
                          -------------     ------------------
      1972 ...............    10.2                  96.2
      1973 ...............     8.0                  99.2
@@ -990,7 +984,7 @@ has been almost always based upon reinsurance arrangements that
 allow the insurer to keep just a small portion of the risk itself 
 while passing on (laying off) most of the risk to its 
 reinsurers.  Imagine, for example, a directors and officers 
-(D &amp; O) liability policy providing $25 million of coverage.  
+(D & O) liability policy providing $25 million of coverage.  
 By various excess-of-loss reinsurance contracts, the company 
 issuing that policy might keep the liability for only the first 
 $1 million of any loss that occurs.  The liability for any loss 
@@ -1002,7 +996,7 @@ net line.
 
      In any reinsurance arrangement, a key question is how the 
 premiums paid for the policy should be divided among the various 
-layers of risk.  In our D &amp; O policy, for example. what part of 
+layers of risk.  In our D & O policy, for example. what part of 
 the premium received should be kept by the issuing company to 
 compensate it fairly for taking the first $1 million of risk and 
 how much should be passed on to the reinsurers to compensate them 
@@ -1037,7 +1031,7 @@ generally knew no more than reinsurers did about the ultimate
 costs that would be experienced at higher layers of risk.) 
 Inequities of this sort have been particularly pronounced in 
 lines of insurance in which much change was occurring and losses 
-were soaring; e.g., professional malpractice, D &amp; 0, products 
+were soaring; e.g., professional malpractice, D & 0, products 
 liability, etc.  Given these circumstances, it is not surprising 
 that issuing companies remained enthusiastic about writing 
 business long after premiums became woefully inadequate on a 
@@ -1177,7 +1171,7 @@ identifying, attracting and developing Bill and Lou, Jack
 extended the benefits of his managerial stewardship well beyond 
 his tenure.
 
-<b>Firemans Fund Quota-Share Contract</b>
+Firemans Fund Quota-Share Contract
 
      Never one to let go of a meal ticket, we have followed Jack 
 Byrne to Firemans Fund (FFIC) where he is Chairman and CEO of 
@@ -1230,21 +1224,21 @@ more business than they themselves can prudently handle.  Our
 financial strength makes us an attractive partner for such 
 companies.
 
-<b>Marketable Securities</b>
+Marketable Securities
 
 We show below our 1985 yearend net holdings in marketable 
 equities.  All positions with a market value over $25 million are 
 listed, and the interests attributable to minority shareholders 
 of Wesco and Nebraska Furniture Mart are excluded.
-<i>
+
 No. of Shares                                           Cost       Market
 -------------                                        ----------  ----------
-                                                         (000s omitted)</i>
+                                                         (000s omitted)
   1,036,461    Affiliated Publications, Inc. .......   $ 3,516    $  55,710
     900,800    American Broadcasting Companies, Inc.    54,435      108,997
   2,350,922    Beatrice Companies, Inc. ............   106,811      108,142
   6,850,000    GEICO Corporation ...................    45,713      595,950
-  2,379,200    Handy &amp; Harman ......................    27,318       43,718
+  2,379,200    Handy & Harman ......................    27,318       43,718
     847,788    Time, Inc. ..........................    20,385       52,669
   1,727,765    The Washington Post Company .........     9,731      205,172
                                                      ----------  ----------
@@ -1358,7 +1352,7 @@ movement of bonds generally, and the remainder from a more
 positive investor view toward WPPSS 1, 2, and 3s.  Annual tax-
 exempt income from our WPPSS issues is about $30 million.
 
-<b>Capital Cities/ABC, Inc.</b>
+Capital Cities/ABC, Inc.
 
      Right after yearend, Berkshire purchased 3 million shares of 
 Capital Cities/ABC, Inc. (Cap Cities) at $172.50 per share, the 
@@ -1442,9 +1436,9 @@ would reconcile these acts.
 
      A little more time, please.
 
-<b>Acquisition of Scott &amp; Fetzer</b>
+Acquisition of Scott & Fetzer
 
-     Right after yearend we acquired The Scott &amp; Fetzer Company 
+     Right after yearend we acquired The Scott & Fetzer Company 
 (Scott Fetzer) of Cleveland for about $320 million. (In 
 addition, about $90 million of pre-existing Scott Fetzer debt 
 remains in place.) In the next section of this report I describe 
@@ -1509,7 +1503,7 @@ October 22 and signed an acquisition contract the following week.
 insurance business, should push revenues above $2 billion in 
 1986, more than double those of 1985.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      The Scott Fetzer purchase illustrates our somewhat haphazard 
 approach to acquisitions.  We have no master strategy, no 
@@ -1647,6 +1641,5 @@ meeting.
 
 March 4, 1986
 
-</pre>
-</body>
-</html>
+
+

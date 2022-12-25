@@ -1,23 +1,17 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1979</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
-<i>To the Shareholders of Berkshire Hathaway Inc.:</i>
+
+
+
+Chairman's Letter - 1979
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Again, we must lead off with a few words about accounting.  
 Since our last annual report, the accounting profession has 
@@ -44,11 +38,11 @@ balance sheet at two different values. (That should keep you on
 your toes.) Market values of Blue Chip Stamps equity holdings 
 are given in footnote 3 on page 18.
 
-<i>1979 Operating Results</i>
+1979 Operating Results
 
      We continue to feel that the ratio of operating earnings 
-(before securities gains or losses) to shareholders equity <i>with 
-all securities valued at cost</i> is the most appropriate way to 
+(before securities gains or losses) to shareholders equity with 
+all securities valued at cost is the most appropriate way to 
 measure any single years operating performance.
 
      Measuring such results against shareholders equity with 
@@ -89,7 +83,7 @@ shareholder owners, as well as the general public, if managements
 and financial analysts modified the primary emphasis they place 
 upon earnings per share, and upon yearly changes in that figure.
 
-<i>Long Term Results</i>
+Long Term Results
 
      In measuring long term economic performance - in contrast to 
 yearly performance - we believe it is appropriate to recognize 
@@ -167,9 +161,9 @@ ordinary income tax on dividends and capital gains tax on
 retained earnings) - can be thought of as an investors misery 
 index.  When this index exceeds the rate of return earned on 
 equity by the business, the investors purchasing power (real 
-capital) shrinks even though he consumes nothing at all.  <i>We have 
+capital) shrinks even though he consumes nothing at all.  We have 
 no corporate solution to this problem; high inflation rates will 
-not help us earn higher rates of return on equity.</i>
+not help us earn higher rates of return on equity.
 
      One friendly but sharp-eyed commentator on Berkshire has 
 pointed out that our book value at the end of 1964 would have 
@@ -188,7 +182,7 @@ very well be the most important factor in determining whether
 there are any real rewards from your investment in Berkshire 
 Hathaway.
 
-<i>Sources of Earnings</i>
+Sources of Earnings
 
      We again present a table showing the sources of Berkshires 
 earnings.  As explained last year, Berkshire owns about 60% of 
@@ -199,13 +193,13 @@ the significant capital gains or losses attributable to any of
 the business entities are aggregated in the realized securities 
 gain figure at the bottom of the table, and are not included in 
 operating earnings.
-<i>
+
                                                                          Net Earnings
                                    Earnings Before Income Taxes            After Tax
                               --------------------------------------  ------------------
                                     Total          Berkshire Share     Berkshire Share
                               ------------------  ------------------  ------------------
-(in thousands of dollars)       1979      1978      1979      1978      1979      1978</i>
+(in thousands of dollars)       1979      1978      1979      1978      1979      1978
                               --------  --------  --------  --------  --------  --------
 Total - all entities ......... $68,632   $66,180   $56,427   $54,350   $42,817   $39,242
                               ========  ========  ========  ========  ========  ========
@@ -256,7 +250,7 @@ Los Angeles, California 90040, or to Mrs. Bette Deckard for Wesco
 Financial Corporation, 315 East Colorado Boulevard, Pasadena, 
 California 91109.
 
-<i>Textiles and Retailing</i>
+Textiles and Retailing
 
      The relative significance of these two areas has diminished 
 somewhat over the years as our insurance business has grown 
@@ -303,7 +297,7 @@ strongest franchise) at New Bedford, and its possible that we
 may be able to run profitably on a considerably reduced scale at 
 Manchester.  However, our original rationale did not prove out.
 
-<i>Insurance Underwriting</i>
+Insurance Underwriting
 
      We predicted last year that the combined underwriting ratio 
 (see definition on page 36) for the insurance industry would 
@@ -452,7 +446,7 @@ terrible results in a single specific year.  If accident
 frequency should turn around quickly in the auto field, we, along 
 with others, are likely to experience such a year.
 
-<i>Insurance Investments</i>
+Insurance Investments
 
      In recent years we have written at length in this section 
 about our insurance equity investments.  In 1979 they continued 
@@ -469,20 +463,20 @@ part, our unrealized gains reflect this process.
 
      Below we show the equity investments which had a yearend 
 market value of over $5 million:
-<i>
+
 No. of Sh.  Company                                     Cost       Market
 ----------  -------                                  ----------  ----------
-                                                         (000s omitted)</i>
+                                                         (000s omitted)
   289,700   Affiliated Publications, Inc. ........... $  2,821    $  8,800
   112,545   Amerada Hess ............................    2,861       5,487
   246,450   American Broadcasting Companies, Inc. ...    6,082       9,673
 5,730,114   GEICO Corp. (Common Stock) ..............   28,288      68,045
   328,700   General Foods, Inc. .....................   11,437      11,053
-1,007,500   Handy &amp; Harman ..........................   21,825      38,537
+1,007,500   Handy & Harman ..........................   21,825      38,537
   711,180   Interpublic Group of Companies, Inc. ....    4,531      23,736
-1,211,834   Kaiser Aluminum &amp; Chemical Corp. ........   20,629      23,328
+1,211,834   Kaiser Aluminum & Chemical Corp. ........   20,629      23,328
   282,500   Media General, Inc. .....................    4,545       7,345
-  391,400   Ogilvy &amp; Mather International ...........    3,709       7,828
+  391,400   Ogilvy & Mather International ...........    3,709       7,828
   953,750   SAFECO Corporation ......................   23,867      35,527
 1,868,000   The Washington Post Company .............   10,628      39,241
   771,900   F. W. Woolworth Company .................   15,515      19,394
@@ -627,7 +621,7 @@ a price on money now for use in those years.  Overall, we opt for
 Polonius (slightly restated): Neither a short-term borrower nor 
 a long-term lender be.
 
-<i>Banking</i>
+Banking
 
      This will be the last year that we can report on the 
 Illinois National Bank and Trust Company as a subsidiary of 
@@ -666,7 +660,7 @@ the bank.  You simply cant buy high quality businesses at the
 sort of price/earnings multiple likely to prevail on our bank 
 sale.
 
-<i>Financial Reporting</i>
+Financial Reporting
 
      During 1979, NASDAQ trading was initiated in the stock of 
 Berkshire Hathaway This means that the stock now is quoted on the 
@@ -768,7 +762,7 @@ low turnover among our owners, reflecting a constituency that
 understands our operation, approves of our policies, and shares 
 our expectations.  And we hope to deliver on those expectations.
 
-<i>Prospects</i>
+Prospects
 
      Last year we said that we expected operating earnings in 
 dollars to improve but return on equity to decrease.  This turned 
@@ -817,6 +811,5 @@ have far exceeded that trust.
                                     Warren E. Buffett, Chairman
 March 3, 1980
 
-</pre>
-</body>
-</html>
+
+

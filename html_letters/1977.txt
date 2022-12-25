@@ -1,23 +1,17 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1977</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
-<i>To the Stockholders of Berkshire Hathaway Inc.:</i>
+
+
+
+Chairman's Letter - 1977
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+To the Stockholders of Berkshire Hathaway Inc.:
 
      Operating earnings in 1977 of $21,904,000, or $22.54 per 
 share, were moderately better than anticipated a year ago.  Of 
@@ -70,7 +64,7 @@ present estimate, subject to the usual caveats regarding the
 frailties of forecasts, is that operating earnings will improve 
 somewhat on a per share basis during 1978.
 
-<i>Textile Operations</i>
+Textile Operations
 
      The textile business again had a very poor year in 1977.  We 
 have mistakenly predicted better results in each of the last two 
@@ -101,7 +95,7 @@ and marketing configurations, it seems reasonable that at least
 modest profits in the textile division can be achieved in the 
 future.
 
-<i>Insurance Underwriting</i>
+Insurance Underwriting
 
      Our insurance operation continued to grow significantly in 
 1977.  It was early in 1967 that we made our entry into this 
@@ -236,7 +230,7 @@ the insurance business magnifies the effect which individual
 managers have on company performance.  We are very fortunate to 
 have the group of managers that are associated with us.
 
-<i>Insurance Investments</i>
+Insurance Investments
 
      During the past two years insurance investments at cost 
 (excluding the investment in our affiliate, Blue Chip Stamps) 
@@ -282,20 +276,20 @@ of a business.
 
      Equity holdings of our insurance companies with a market 
 value of over $5 million on December 31, 1977 were as follows:
-<i>
+
 No. of Shares  Company                                     Cost      Market
 -------------  -------                                   --------   --------
-                                                           (000s omitted)</i>
+                                                           (000s omitted)
     220,000    Capital Cities Communications, Inc. ..... $ 10,909   $ 13,228  
   1,986,953    Government Employees Insurance 
                   Company Convertible Preferred ........   19,417     33,033  
   1,294,308    Government Employees Insurance 
                   Company Common Stock .................    4,116     10,516
     592,650    The Interpublic Group of Companies, Inc.     4,531     17,187  
-    324,580    Kaiser Aluminum&amp; Chemical Corporation ...   11,218      9,981
+    324,580    Kaiser Aluminum& Chemical Corporation ...   11,218      9,981
   1,305,800    Kaiser Industries, Inc. .................      778      6,039
     226,900    Knight-Ridder Newspapers, Inc. ..........    7,534      8,736
-    170,800    Ogilvy &amp; Mather International, Inc. .....    2,762      6,960
+    170,800    Ogilvy & Mather International, Inc. .....    2,762      6,960
     934,300    The Washington Post Company Class B .....   10,628     33,401
                                                          --------   --------
                Total ................................... $ 71,893   $139,081
@@ -398,6 +392,5 @@ Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.
 
 March 14,1978
 
-</pre>
-</body>
-</html>
+
+

@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1987</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1987
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
  
      Our gain in net worth during 1987 was $464 million, or 
 19.5%.  Over the last 23 years (that is, since present management 
@@ -72,11 +66,11 @@ amounted to $178 million.  And this equity - again on an
 historical-cost basis - was only $175 million. 
 
      If these seven business units had operated as a single 
-company, their 1987 <i>after</i>-tax earnings would have been 
+company, their 1987 after-tax earnings would have been 
 approximately $100 million - a return of about 57% on equity 
 capital.  You'll seldom see such a percentage anywhere, let alone 
 at large, diversified companies with nominal leverage.  Here's a 
-benchmark: In its 1988 Investor's Guide issue, <u>Fortune</u> reported 
+benchmark: In its 1988 Investor's Guide issue, Fortune reported 
 that among the 500 largest industrial companies and 500 largest 
 service companies, only six had averaged a return on equity of 
 over 30% during the previous decade.  The best performer among 
@@ -145,7 +139,7 @@ virtuoso performance.  Only one response to the 1987 performance
 of our operating managers is appropriate: sustained, deafening 
 applause. 
 
-<b>Sources of Reported Earnings </b>
+Sources of Reported Earnings 
 
      The table on the following page shows the major sources of 
 Berkshire's reported earnings.  In the table, amortization of 
@@ -169,7 +163,7 @@ you will also find our segment earnings reported on a GAAP basis.
 I urge you to read that material, as well as Charlie Munger's 
 letter to Wesco shareholders, describing the various businesses 
 of that subsidiary, which starts on page 45. 
-<i>
+
                                                (000s omitted) 
                                  ------------------------------------------
                                                          Berkshire's Share 
@@ -177,7 +171,7 @@ of that subsidiary, which starts on page 45.
                                                          (after taxes and 
                                    Pre-Tax Earnings     minority interests)
                                  -------------------    -------------------
-                                   1987       1986        1987       1986 </i>
+                                   1987       1986        1987       1986 
                                  --------   --------    --------   --------
 Operating Earnings: 
   Insurance Group: 
@@ -235,14 +229,14 @@ shifting violently is ground on which it is difficult to build a
 fortress-like business franchise.  Such a franchise is usually 
 the key to sustained high returns. 
 
-     The <u>Fortune</u> study I mentioned earlier supports our view.  
+     The Fortune study I mentioned earlier supports our view.  
 Only 25 of the 1,000 companies met two tests of economic 
 excellence - an average return on equity of over 20% in the ten 
 years, 1977 through 1986, and no year worse than 15%.  These 
 business superstars were also stock market superstars: During the 
-decade, 24 of the 25 outperformed the S&amp;P 500. 
+decade, 24 of the 25 outperformed the S&P 500. 
  
-     The <u>Fortune</u> champs may surprise you in two respects.  First, 
+     The Fortune champs may surprise you in two respects.  First, 
 most use very little leverage compared to their interest-paying 
 capacity.  Really good businesses usually don't need to borrow.  
 Second, except for one company that is "high-tech" and several 
@@ -265,7 +259,7 @@ businesses, and it shows.
 
      Here's an update: 
 
-   <b>o</b> Agatha Christie, whose husband was an archaeologist, said 
+   o Agatha Christie, whose husband was an archaeologist, said 
 that was the perfect profession for one's spouse: "The older you 
 become, the more interested they are in you." It is students of 
 business management, not archaeologists, who should be interested 
@@ -310,7 +304,7 @@ Your raising prices to a reasonable profit will help.  Thank you.
      NFM will continue to grow and prosper by following Mrs. B's 
 maxim:  "Sell cheap and tell the truth." 
 
-   <b>o</b> Among dominant papers of its size or larger, the Buffalo 
+   o Among dominant papers of its size or larger, the Buffalo 
 News continues to be the national leader in two important ways: 
 (1) its weekday and Sunday penetration rate (the percentage of 
 households in the paper's primary market area that purchase it); 
@@ -364,7 +358,7 @@ the cutting of essential people or activities because
 profitability is shrinking.  That kind of yo-yo approach is 
 neither business-like nor humane.  Our goal is to do what makes 
 sense for Berkshire's customers and employees at all times, and 
-never to add the unneeded. ("But what about <font size="-1">the corporate jet</font>?" 
+never to add the unneeded. ("But what about the corporate jet?" 
 you rudely ask.  Well, occasionally a man must rise above 
 principle.) 
 
@@ -376,7 +370,7 @@ This year I will not let vou down: Margins will, without
 question, shrink in 1988 and profit may fall as well.  
 Skyrocketing newsprint costs will be the major cause. 
 
-   <b>o</b> Fechheimer Bros. Company is another of our family 
+   o Fechheimer Bros. Company is another of our family 
 businesses - and, like the Blumkins, what a family.  Three 
 generations of Heldmans have for decades consistently, built the 
 sales and profits of this manufacturer and distributor of 
@@ -390,7 +384,7 @@ magic is in the Heldmans.  Bob, George, Gary, Roger and Fred know
 the business inside and out, and they have fun running it.  We 
 are fortunate to be in partnership with them. 
 
-   <b>o</b> Chuck Huggins continues to set new records at See's, just as 
+   o Chuck Huggins continues to set new records at See's, just as 
 he has ever since we put him in charge on the day of our purchase 
 some 16 years ago.  In 1987, volume hit a new high at slightly 
 Under 25 million pounds.  For the second year in a row, moreover, 
@@ -441,7 +435,7 @@ In 1988 we have raised prices somewhat more, though still
 moderately.  To date, sales have been weak and it may be 
 difficult for See's to improve its earnings this year. 
 
-   <b>o</b> World Book, Kirby, and the Scott Fetzer Manufacturing Group 
+   o World Book, Kirby, and the Scott Fetzer Manufacturing Group 
 are all under the management of Ralph Schey.  And what a lucky 
 thing for us that they are.  I told you last year that Scott 
 Fetzer performance in 1986 had far exceeded the expectations that 
@@ -469,15 +463,15 @@ and profits also grew substantially.  The outlook is good for
 Scott Fetzer operations in aggregate, and for World Book in 
 particular. 
 
-<b>Insurance Operations </b>
+Insurance Operations 
 
      Shown below is an updated version of our usual table 
 presenting key figures for the insurance industry: 
-<i>
+
                               Statutory
           Yearly Change    Combined Ratio    Yearly Change   Inflation Rate 
            in Premiums   After Policyholder   in Incurred     Measured by 
-           Written (%)        Dividends        Losses (%)   GNP Deflator (%)</i>
+           Written (%)        Dividends        Losses (%)   GNP Deflator (%)
           -------------  ------------------  -------------  ----------------
 1981 .....     3.8              106.0             6.5              9.6 
 1982 .....     4.4              109.8             8.4              6.4 
@@ -749,7 +743,7 @@ At some point, likely to be at least a few years away, we may see
 some major opportunities, for which we are now much better 
 prepared than we were in 1985. 
  
-<b>Marketable Securities - Permanent Holdings</b>
+Marketable Securities - Permanent Holdings
 
      Whenever Charlie and I buy common stocks for Berkshire's 
 insurance companies (leaving aside arbitrage purchases, discussed 
@@ -809,7 +803,7 @@ fall under his influence.  Indeed, if you aren't certain that you
 understand and can value your business far better than Mr. 
 Market, you don't belong in the game.  As they say in poker, "If 
 you've been in the game 30 minutes and you don't know who the 
-patsy is, <i>you're</i> the patsy." 
+patsy is, you're the patsy." 
 
      Ben's Mr. Market allegory may seem out-of-date in today's 
 investment world, in which most professionals and academicians 
@@ -888,10 +882,10 @@ relationships for uninteresting or unpleasant ones.  And we will
 never find people we like and admire more than some of the main 
 participants at the three companies - our permanent holdings - 
 shown below: 
-<i>
+
 No. of Shares                                          Cost       Market
 -------------                                       ----------  ----------
-                                                        (000s omitted) </i>
+                                                        (000s omitted) 
   3,000,000    Capital Cities/ABC, Inc. ...........  $517,500   $1,035,000 
   6,850,000    GEICO Corporation ..................    45,713      756,925 
   1,727,765    The Washington Post Company ........     9,731      323,092 
@@ -1031,7 +1025,7 @@ It is this business value that we hope to increase at a
 reasonable (or, preferably, unreasonable) rate in the years 
 ahead. 
 
-<b>Marketable Securities - Other</b>
+Marketable Securities - Other
 
      In addition to our three permanent common stock holdings, we 
 hold large quantities of marketable securities in our insurance 
@@ -1049,7 +1043,7 @@ alternatives we think we understand.  Our criteria have nothing
 to do with maximizing immediately reportable earnings; our goal, 
 rather, is to maximize eventual net worth. 
 
-   <b>o</b> Let's look first at common stocks.  During 1987 the stock 
+   o Let's look first at common stocks.  During 1987 the stock 
 market was an area of much excitement but little net movement: 
 The Dow advanced 2.3% for the year.  You are aware, of course, of 
 the roller coaster ride that produced this minor change.  Mr. 
@@ -1090,7 +1084,7 @@ enterprises such as Ford or General Electric.  The less these
 companies are being valued at, says this approach, the more 
 vigorously they should be sold.  As a "logical" corollary, the 
 approach commands the institutions to repurchase these companies 
-- <i>I'm not making this up</i> - once their prices have rebounded 
+- I'm not making this up - once their prices have rebounded 
 significantly.  Considering that huge sums are controlled by 
 managers following such Alice-in-Wonderland practices, is it any 
 surprise that markets sometimes behave in aberrational fashion? 
@@ -1117,7 +1111,7 @@ However, Mr. Market will offer us opportunities - you can be sure
 of that - and, when he does, we will be willing and able to 
 participate. 
 
-   <b>o</b> In the meantime, our major parking place for money is 
+   o In the meantime, our major parking place for money is 
 medium-term tax-exempt bonds, whose limited virtues I explained 
 in last year's annual report.  Though we both bought and sold 
 some of these bonds in 1987, our position changed little overall, 
@@ -1133,7 +1127,7 @@ a bit above our cost.  Regardless of their market price, we are
 ready to dispose of our bonds whenever something better comes 
 along. 
 
-   <b>o</b> We continue to have an aversion to long-term bonds (and may 
+   o We continue to have an aversion to long-term bonds (and may 
 be making a serious mistake by not disliking medium-term bonds as 
 well).  Bonds are no better than the currency in which they are 
 denominated, and nothing we have seen in the past year - or past 
@@ -1145,7 +1139,7 @@ currency.
 deposits, etc. - to pile up in the hands of foreigners at a 
 distressing rate.  By default, our government has adopted an 
 approach to its finances patterned on that of Blanche DuBois, of 
-<i>A Streetcar Named Desire</i>, who said, "I have always depended on 
+A Streetcar Named Desire, who said, "I have always depended on 
 the kindness of strangers." In this case, of course, the 
 "strangers" are relying on the integrity of our claim checks 
 although the plunging dollar has already made that proposition 
@@ -1191,7 +1185,7 @@ during 1987.  At yearend, we had holdings with an amortized cost
 of $240 million and a market value of $316 million, paying us 
 tax-exempt income of $34 million annually. 
 
-   <b>o</b> We continued to do well in arbitrage last year, though - or 
+   o We continued to do well in arbitrage last year, though - or 
 perhaps because - we operated on a very limited scale.  We enter 
 into only a few arbitrage commitments each year and restrict 
 ourselves to large transactions that have been publicly 
@@ -1211,7 +1205,7 @@ change the figures dramatically.
 was 1,096,200 shares of Allegis, with a cost of $76 million and a 
 market value of $78 million. 
 
-   <b>o</b> We had two other large holdings at yearend that do not fit 
+   o We had two other large holdings at yearend that do not fit 
 precisely into any of our five categories.  One was various 
 Texaco, Inc. bonds with short maturities, all purchased after 
 Texaco went into bankruptcy.  Were it not for the extraordinarily 
@@ -1304,7 +1298,7 @@ But perhaps that is too simple.  Usually, I suspect, they find it
 more exciting to buy what is being talked about.  Whether that 
 strategy is more profitable is another question. 
 
-<b>Financing</b>
+Financing
  
      Shortly after yearend, Berkshire sold two issues of 
 debentures, totaling $250 million.  Both issues mature in 2018 
@@ -1387,7 +1381,7 @@ instruments.  If we find the right sort of business elephant
 within the next five years or so, the wait will have been 
 worthwhile. 
 
-<b>Miscellaneous </b>
+Miscellaneous 
 
      We hope to buy more businesses that are similar to the ones 
 we have, and we can use some help.  If you have a business that 
@@ -1438,7 +1432,7 @@ long-term investment, as we did at Salomon.
 
                           *  *  * 
 
-     And now a bit of <i>deja vu</i>.  Most of Berkshire's major 
+     And now a bit of deja vu.  Most of Berkshire's major 
 stockholders received their shares at yearend 1969 in a 
 liquidating distribution from Buffett Partnership, Ltd.  Some of 
 these former partners will remember that in 1962 I encountered 
@@ -1455,15 +1449,15 @@ Beatrice, Nebraska, running Dempster.  Our problems disappeared
 almost immediately.  In my 1962 annual letter to partners, I 
 named Harry "Man of the Year." 
 
-     Fade to 24 years later: The scene is K &amp; W Products, a small 
+     Fade to 24 years later: The scene is K & W Products, a small 
 Berkshire subsidiary that produces automotive compounds.  For 
-years K &amp; W did well, but in 1985-86 it stumbled badly, as it 
+years K & W did well, but in 1985-86 it stumbled badly, as it 
 pursued the unattainable to the neglect of the achievable.  
-Charlie, who oversees K &amp; W, knew there was no need to consult 
+Charlie, who oversees K & W, knew there was no need to consult 
 me.  Instead, he called Harry, now 68 years old, made him CEO, 
 and sat back to await the inevitable.  He didn't wait long.  In 
-1987 K &amp; W's profits set a record, up more than 300% from 1986.  
-And, as profits went up, capital employed went down: K &amp; W's 
+1987 K & W's profits set a record, up more than 300% from 1986.  
+And, as profits went up, capital employed went down: K & W's 
 investment in accounts receivable and inventories has decreased 
 20%. 
 
@@ -1533,6 +1527,5 @@ disappointed.
                                           Warren E. Buffett 
 February 29, 1988                         Chairman of the Board 
 
-</pre>
-</body>
-</html>
+
+

@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1991</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1991
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Our gain in net worth during 1991 was $2.1 billion, or 
 39.6%. Over the last 27 years (that is, since present management 
@@ -39,7 +33,7 @@ than to make $370 million.
 
      Charlie Munger, Berkshire's Vice Chairman, and I have set a 
 goal of attaining a 15% average annual increase in Berkshire's 
-intrinsic value. If our growth in <i>book</i> value is to keep up with a 
+intrinsic value. If our growth in book value is to keep up with a 
 15% pace, we must earn $22 billion during the next decade. Wish 
 us luck - we'll need it.
 
@@ -62,7 +56,7 @@ market's reappraisal of these stocks. We believe this reappraisal
 was warranted. But it can't recur annually:  We'll have to settle 
 for a single dip in the future.
 
-<b>A Second Job</b>
+A Second Job
 
      In 1989 when I - a happy consumer of five cans of Cherry 
 Coke daily - announced our purchase of $1 billion worth of Coca-
@@ -103,7 +97,7 @@ fade: At the Harvard Business School last year, a student asked
 me when I planned to retire and I replied, "About five to ten 
 years after I die."
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table below shows the major sources of Berkshire's 
 reported earnings. In this presentation, amortization of Goodwill 
@@ -126,7 +120,7 @@ not in this letter discuss each of our non-insurance operations,
 as we have in the past. Our businesses have grown in number - and 
 will continue to grow - so it now makes sense to rotate coverage, 
 discussing one or two in detail each year.
-<i>				          
+				          
                                               (000s omitted)
                               ----------------------------------------------
                                                          Berkshire's Share  
@@ -134,7 +128,7 @@ discussing one or two in detail each year.
                                                          (after taxes and  
                                  Pre-Tax Earnings       minority interests)
                               ----------------------  ---------------------- 
-                                 1991        1990        1991        1990</i>
+                                 1991        1990        1991        1990
                               ----------  ----------  ----------  ----------
 Operating Earnings:
   Insurance Group:
@@ -162,11 +156,11 @@ Operating Earnings              400,508     482,477     315,753     370,745
 Sales of Securities             192,478      33,989     124,155      23,348 
 Total Earnings - All Entities $ 592,986   $ 516,466   $ 439,908   $ 394,093 
 
-<i>*Excludes interest expense of Scott Fetzer Financial Group and 
- Mutual Savings &amp; Loan.</i>
+*Excludes interest expense of Scott Fetzer Financial Group and 
+ Mutual Savings & Loan.
 
 
-<b>"Look-Through" Earnings</b>
+"Look-Through" Earnings
 
      We've previously discussed look-through earnings, which 
 consist of: (1) the operating earnings reported in the previous 
@@ -225,7 +219,7 @@ Federal Home Loan Mortgage Corp.     3.4%(1)    3.2%(1)      15        10
 The Gillette Company ...........    11.0%       ---          23(2)    --- 
 GEICO Corp. ....................    48.2%      46.1%         69        76
 The Washington Post Company ....    14.6%      14.6%         10        18
-Wells Fargo &amp; Company ..........     9.6%       9.7%        (17)       19(3)
+Wells Fargo & Company ..........     9.6%       9.7%        (17)       19(3)
                                                           --------  --------
 Berkshire's share of 
    undistributed earnings of major investees               $230      $266
@@ -259,7 +253,7 @@ by future earnings. In investing, just as in baseball, to put runs
 on the scoreboard one must watch the playing field, not the 
 scoreboard.
 
-<b>A Change in Media Economics and Some Valuation Math</b>
+A Change in Media Economics and Some Valuation Math
 
      In last year's report, I stated my opinion that the decline in 
 the profitability of media companies reflected secular as well as 
@@ -274,7 +268,7 @@ deterioration that was in store for the industry. (But give me a
 few years and I'll probably convince myself that I did.)
 
      The fact is that newspaper, television, and magazine 
-properties have begun to resemble <i>businesses</i> more than <i>franchises</i> 
+properties have begun to resemble businesses more than franchises 
 in their economic behavior. Let's take a quick look at the 
 characteristics separating these two classes of enterprise, keeping 
 in mind, however, that many operations fall in some middle ground 
@@ -318,8 +312,8 @@ simplified, but relevant, math.
 
      A few years ago the conventional wisdom held that a newspaper, 
 television or magazine property would forever increase its earnings 
-at 6% or so annually and would do so <i>without the employment of 
-additional capital</i>, for the reason that depreciation charges would 
+at 6% or so annually and would do so without the employment of 
+additional capital, for the reason that depreciation charges would 
 roughly match capital expenditures and working capital requirements 
 would be minor. Therefore, reported earnings (before amortization 
 of intangibles) were also freely-distributable earnings, which 
@@ -391,7 +385,7 @@ better economic characteristics than those possessed by the average
 American business. But gone are the days of bullet-proof franchises 
 and cornucopian economics.
 
-<b>Twenty Years in a Candy Store</b>
+Twenty Years in a Candy Store
 
      We've just passed a milestone: Twenty years ago, on January 3, 
 1972, Blue Chip Stamps (then an affiliate of Berkshire and later 
@@ -458,7 +452,7 @@ foods:
      Slice of Pie (Wrapped)        Whole Pie
      Milky Way Candy Bar           Milky Way Ice Cream Bar
 
-     What - you are sure to ask - is the tax status of a <i>melted</i> 
+     What - you are sure to ask - is the tax status of a melted 
 Milky Way ice cream bar? In that androgynous form, does it more 
 resemble an ice cream bar or a candy bar that has been left in the 
 sun?  It's no wonder that Brad Sherman, Chairman of California's 
@@ -474,7 +468,7 @@ Equally important, ownership of See's has taught us much about the
 evaluation of franchises. We've made significant money in certain 
 common stocks because of the lessons we learned at See's.
 
-<b>H. H. Brown</b>
+H. H. Brown
 
      We made a sizable acquisition in 1991 - the H. H. Brown 
 Company - and behind this business is an interesting history. In 
@@ -603,15 +597,15 @@ American Express. We are not interested, however, in receiving
 suggestions about purchases we might make in the general stock 
 market.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      Shown below is an updated version of our usual table 
 presenting key figures for the property-casualty insurance 
 industry:
-<i>
+
           Yearly Change    Combined Ratio    Yearly Change   Inflation Rate 
            in Premiums   After Policyholder   in Incurred     Measured by  
-           Written (%)       Dividends         Losses (%)   GDP Deflator (%)</i>
+           Written (%)       Dividends         Losses (%)   GDP Deflator (%)
           -------------  ------------------  -------------  ----------------
 1981 .....      3.8            106.0              6.5             10.0
 1982 .....      3.7            109.6              8.4              6.2
@@ -772,14 +766,14 @@ opportunities. Mike Goldberg has accomplished wonders with this
 operation since he took charge and it has become a very valuable 
 asset, albeit one that can't be appraised with any precision.
 
-<b>Marketable Common Stocks</b>
+Marketable Common Stocks
 
      On the next page we list our common stock holdings having a 
 value of over $100 million. A small portion of these investments 
 belongs to subsidiaries of which Berkshire owns less than 100%.
-<i>
+
                                                          12/31/91
-   Shares   Company                                  Cost       Market</i>
+   Shares   Company                                  Cost       Market
    ------   -------                               ----------  ----------
                                                       (000s omitted)
  3,000,000  Capital Cities/ABC, Inc. ............ $  517,500  $1,300,500
@@ -789,7 +783,7 @@ belongs to subsidiaries of which Berkshire owns less than 100%.
 24,000,000  The Gillette Company ................    600,000   1,347,000
 31,247,000  Guinness PLC ........................    264,782     296,755
  1,727,765  The Washington Post Company .........      9,731     336,050
- 5,000,000  Wells Fargo &amp; Company                    289,431     290,000
+ 5,000,000  Wells Fargo & Company                    289,431     290,000
 
      As usual the list reflects our Rip Van Winkle approach to 
 investing. Guinness is a new position. But we held the other seven 
@@ -855,9 +849,9 @@ one's risk by spreading too much between enterprises about which
 one knows little and has no reason for special confidence. . . . 
 One's knowledge and experience are definitely limited and there are 
 seldom more than two or three enterprises at any given time in 
-which I personally feel myself entitled to put <i>full</i> confidence."
+which I personally feel myself entitled to put full confidence."
 
-<b>Mistake Du Jour</b>
+Mistake Du Jour
 
      In the 1989 annual report I wrote about "Mistakes of the First 
 25 Years" and promised you an update in 2015. My experiences in the 
@@ -902,11 +896,11 @@ surrendered to my distaste for holding small positions and sold the
 
      I wish I could give you a halfway rational explanation for my 
 amateurish behavior vis-a-vis Fannie Mae.  But there isn't one. 
-What I <i>can</i> give you is an estimate as of yearend 1991 of the 
-approximate gain that Berkshire <i>didn't</i> make because of your 
+What I can give you is an estimate as of yearend 1991 of the 
+approximate gain that Berkshire didn't make because of your 
 Chairman's mistake: about $1.4 billion.
 
-<b>Fixed-Income Securities</b>
+Fixed-Income Securities
 
      We made several significant changes in our fixed-income 
 portfolio during 1991. As I noted earlier, our Gillette preferred 
@@ -1001,7 +995,7 @@ the industry, in aggregate, has posted a net loss since its birth
 after Kitty Hawk.  Airline managers need brains, guts, and 
 experience - and Seth possesses all three of these attributes.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      About 97.7% of all eligible shares participated in Berkshire's 
 1991 shareholder-designated contributions program. Contributions 
@@ -1132,6 +1126,5 @@ of wits.
                                     Warren E. Buffett
 February 28, 1992                   Chairman of the Board
  
-</pre>
-</body>
-</html>
+
+

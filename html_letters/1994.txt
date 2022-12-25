@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1994</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1994
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
 
      Our gain in net worth during 1994 was $1.45 billion or 13.9%.  
@@ -52,7 +46,7 @@ dramatically.
 
      Nevertheless, we will stick with the approach that got us 
 here and try not to relax our standards.  Ted Williams, in 
-<u>The Story of My Life</u>, explains why:  "My argument is, to be 
+The Story of My Life, explains why:  "My argument is, to be 
 a good hitter, you've got to get a good ball to hit.  It's the 
 first rule in the book.  If I have to bite at stuff that is out 
 of my happy zone, I'm not a .344 hitter.  I might only be a .250 
@@ -147,7 +141,7 @@ businesses we own will continue to increase in value at a
 satisfactory rate.
 
 
-<b>Book Value and Intrinsic Value</b>
+Book Value and Intrinsic Value
 
      We regularly report our per-share book value, an easily 
 calculable number, though one of limited use.  Just as regularly, 
@@ -231,10 +225,10 @@ value was close to double its book value.
 
      In the table below we trace the book value of Scott Fetzer, 
 as well as its earnings and dividends, since our purchase.
-<i>  
+  
                        (1)                                 (4)
                     Beginning      (2)         (3)        Ending
-Year                Book Value   Earnings   Dividends   Book Value</i>
+Year                Book Value   Earnings   Dividends   Book Value
 ----                ----------   --------   ---------   ----------
                                    (In $ Millions)      (1)+(2)-(3)
 
@@ -306,10 +300,10 @@ accountants would disagree with us).  They are merely a way for
 us to reduce the carrying value of Scott Fetzer on our books so 
 that the figure will eventually match the net worth that Scott 
 Fetzer actually employs in its business.
-<i>
+
                       Beginning     Purchase-Premium      Ending
                        Purchase         Charge to        Purchase
-Year                   Premium     Berkshire Earnings    Premium</i>
+Year                   Premium     Berkshire Earnings    Premium
 ----                  ---------    ------------------    --------
                                      (In $ Millions)
 
@@ -360,7 +354,7 @@ picture on our desks.  You can make book that our scorn for a
 mandatory retirement age will grow stronger every year.
 
 
-<b>Intrinsic Value and Capital Allocation</b>
+Intrinsic Value and Capital Allocation
 
      Understanding intrinsic value is as important for managers 
 as it is for investors.  When managers are making capital 
@@ -448,7 +442,7 @@ economics, and that are run by managers whom we like, admire and
 trust.
 
 
-<b>Compensation</b>
+Compensation
 
      At Berkshire, we try to be as logical about compensation as 
 about capital allocation.  For example, we compensate Ralph Schey 
@@ -543,7 +537,7 @@ to Ronald Reagan's creed:  "It's probably true that hard work
 never killed anyone, but I figure why take the chance."
 
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table on the next page shows the main sources of 
 Berkshire's reported earnings.  In this presentation, purchase-
@@ -557,7 +551,7 @@ investors and managers than one utilizing GAAP, which requires
 purchase premiums to be charged off, business-by-business.  The 
 total earnings we show in the table are, of course, identical to 
 the GAAP total in our audited financial statements.
-<i>
+
 				         
 			
                                                          Berkshire's Share  
@@ -567,7 +561,7 @@ the GAAP total in our audited financial statements.
                                   -------------------   -------------------
                                     1994       1993       1994       1993 
                                   --------   --------   --------   --------
-                                               (000s omitted)</i>
+                                               (000s omitted)
  
 Operating Earnings:
   Insurance Group:
@@ -598,10 +592,10 @@ Tax Accruals Caused by
 Total Earnings - All Entities ..  $662,197 $1,189,718   $494,798   $688,121 	
                                   ========  =========   ========   ========
 
-<i>* Includes Dexter's earnings only from the date it was acquired, 
+* Includes Dexter's earnings only from the date it was acquired, 
   November 7, 1993.
 
-**Excludes interest expense of Finance Businesses.</i>
+**Excludes interest expense of Finance Businesses.
 
 
      A large amount of information about these businesses is given 
@@ -613,7 +607,7 @@ I think about the company.  Our intent is to supply you with the
 financial information that we would wish you to give us if our 
 positions were reversed.
 
-<b>"Look-Through" Earnings</b>
+"Look-Through" Earnings
 
      In past reports, we've discussed look-through earnings, which 
 we believe more accurately portray the earnings of Berkshire than 
@@ -665,7 +659,7 @@ GEICO Corp. ...................    50.2%      48.4%          63(3)     76(3)
 The Gillette Company ..........    10.8%      10.9%          51        44	  
 PNC Bank Corp. ................     8.3%       ---           10(2)    --- 
 The Washington Post Company ...    15.2%      14.8%          18        15	  
-Wells Fargo &amp; Company .........    13.3%      12.2%          73        53(2)
+Wells Fargo & Company .........    13.3%      12.2%          73        53(2)
                                                           ------    ------
 Berkshire's share of undistributed 
    earnings of major investees                            $ 492      $422 	
@@ -683,7 +677,7 @@ Reported operating earnings of Berkshire                    606       478
      (4) The tax rate used is 14%, which is the rate Berkshire pays 
          on the dividends it receives
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      As we've explained in past reports, what counts in our 
 insurance business is, first, the amount of "float" we develop and, 
@@ -823,7 +817,7 @@ from a large Southern California earthquake, they might well be
 accompanied by a major drop in the value of our holdings in See's, 
 Wells Fargo and Freddie Mac.
 
-     All things considered, we believe our worst-case <i>insurance</i> 
+     All things considered, we believe our worst-case insurance 
 loss from a super-cat is now about $600 million after-tax, an 
 amount that would slightly exceed Berkshire's annual earnings from 
 other sources.  If you are not comfortable with this level of 
@@ -852,14 +846,14 @@ be highly volatile, this operation possesses an intrinsic value
 that exceeds its book value by a large amount - larger, in fact, 
 than is the case at any other Berkshire business.
 
-<b>Common Stock Investments</b>
+Common Stock Investments
 
      Below we list our common stockholdings having a value of over 
 $300 million.  A small portion of these investments belongs to 
 subsidiaries of which Berkshire owns less than 100%.
-<i>
+
                                                          12/31/94
-  Shares     Company                                 Cost         Market</i>
+  Shares     Company                                 Cost         Market
   ------     -------                              ----------    ----------
                                                        (000s omitted)
  27,759,941  American Express Company. .......... $  723,919    $  818,918
@@ -872,7 +866,7 @@ subsidiaries of which Berkshire owns less than 100%.
  24,000,000  The Gillette Company ...............    600,000     1,797,000
  19,453,300  PNC Bank Corporation ...............    503,046       410,951	
   1,727,765  The Washington Post Company ........      9,731       418,983
-  6,791,218  Wells Fargo &amp; Company ..............    423,680       984,727
+  6,791,218  Wells Fargo & Company ..............    423,680       984,727
 
      Our investments continue to be few in number and simple in 
 concept:  The truly big investment idea can usually be explained in 
@@ -890,7 +884,7 @@ enduring, the payoff is the same as if you had correctly analyzed
 an investment alternative characterized by many constantly shifting 
 and complex variables.
 
-     We try to <i>price,</i> rather than <i>time,</i> purchases.  In our view, it 
+     We try to price, rather than time, purchases.  In our view, it 
 is folly to forego buying shares in an outstanding business whose 
 long-term future is predictable, because of short-term worries 
 about an economy or a stock market that we know to be 
@@ -956,7 +950,7 @@ what they were then.  Nevertheless, I find that a long-term
 familiarity with a company and its products is often helpful in 
 evaluating it.
 
-<b>Mistake Du Jour</b>
+Mistake Du Jour
 
      Mistakes occur at the time of decision.  We can only make our 
 mistake-du-jour award, however, when the foolishness of the 
@@ -1056,7 +1050,7 @@ diminution of value had already been reflected.
 at the upcoming annual meeting.  Should Seth wish to consult with 
 us, however, we will be pleased to be of any help that we can.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      Two CEO's who have done great things for Berkshire 
 shareholders retired last year:  Dan Burke of Capital Cities/ABC 
@@ -1084,11 +1078,11 @@ requirements aren't met, we urge that both new shareholders and old
 read the description of our shareholder-designated contributions 
 program that appears on pages 50-51.
 
-     <i>To participate in future programs, you must make sure your 
+     To participate in future programs, you must make sure your 
 shares are registered in the name of the actual owner, not in the 
 nominee name of a broker, bank or depository.  Shares not so 
 registered on August 31, 1995 will be ineligible for the 1995 
-program.</i>
+program.
 
                      * * * * * * * * * * * *
 
@@ -1200,6 +1194,5 @@ all smoke.
                                             Warren E. Buffett
 March 7, 1995                               Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+

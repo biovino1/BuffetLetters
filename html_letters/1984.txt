@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1984</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1984
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Our gain in net worth during 1984 was $152.6 million, or 
 $133 per share.  This sounds pretty good but actually its 
@@ -47,7 +41,7 @@ Munger, my partner in general management, and I do not have any
 such ideas at present, but our experience has been that they pop 
 up occasionally. (Hows that for a strategic plan?)
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table on the following page shows the sources of 
 Berkshires reported earnings.  Berkshires net ownership 
@@ -69,7 +63,7 @@ important.)
 the specific businesses but, for reasons outlined in the Appendix 
 to my letter in the 1983 annual report, is set forth as a 
 separate item.
-<i>
+
                                                     (000s omitted)
                               ----------------------------------------------------------
                                                                          Net Earnings
@@ -77,7 +71,7 @@ separate item.
                               --------------------------------------  ------------------
                                     Total          Berkshire Share     Berkshire Share
                               ------------------  ------------------  ------------------
-                                1984      1983      1984      1983      1984      1983</i>
+                                1984      1983      1984      1983      1984      1983
                               --------  --------  --------  --------  --------  --------
 Operating Earnings:
   Insurance Group:  
@@ -107,9 +101,9 @@ Sales of securities and
 Total Earnings - all entities $200,549  $147,878  $191,293  $136,074  $148,896  $112,166
                               ========  ========  ========  ========  ========  ========
 
-<i>(1) 1983 figures are those for October through December.
+(1) 1983 figures are those for October through December.
 (2) 1984 and 1983 are not comparable; major assets were                       
-    transferred in the mid-year 1983 merger of Blue Chip Stamps.</i>
+    transferred in the mid-year 1983 merger of Blue Chip Stamps.
 
      Sharp-eyed shareholders will notice that the amount of the 
 special GEICO distribution and its location in the table have 
@@ -141,7 +135,7 @@ equivalent to a dividend.
 GEICO distribution last year to you, both in the applicable 
 quarterly report and in this section of the annual report.  
 Additionally, we emphasized the transaction to our auditors, 
-Peat, Marwick, Mitchell &amp; Co. Both the Omaha office of Peat 
+Peat, Marwick, Mitchell & Co. Both the Omaha office of Peat 
 Marwick and the reviewing Chicago partner, without objection, 
 concurred with our dividend presentation.
 
@@ -274,16 +268,16 @@ marketable equities.  All numbers exclude the interests
 attributable to minority shareholders of Wesco and Nebraska 
 Furniture Mart.
 
-<i>
+
 No. of Shares                                           Cost       Market
 -------------                                        ----------  ----------
-                                                         (000s omitted)</i>
+                                                         (000s omitted)
     690,975    Affiliated Publications, Inc. .......  $  3,516    $  32,908
     740,400    American Broadcasting Companies, Inc.    44,416       46,738
   3,895,710    Exxon Corporation ...................   173,401      175,307
   4,047,191    General Foods Corporation ...........   149,870      226,137
   6,850,000    GEICO Corporation ...................    45,713      397,300
-  2,379,200    Handy &amp; Harman ......................    27,318       38,662
+  2,379,200    Handy & Harman ......................    27,318       38,662
     818,872    Interpublic Group of Companies, Inc.      2,570       28,149
     555,949    Northwest Industries                     26,581       27,242
   2,553,488    Time, Inc. ..........................    89,327      109,162
@@ -315,7 +309,7 @@ businesses are Nebraska Furniture Mart, Sees, Buffalo Evening
 News, and the Insurance Group, to which we will give some special 
 attention here.
 
-<b>Nebraska Furniture Mart</b>
+Nebraska Furniture Mart
 
      Last year I introduced you to Mrs. B (Rose Blumkin) and her 
 family.  I told you they were terrific, and I understated the 
@@ -401,14 +395,14 @@ her word.  That made for an even exchange.
      You and I are fortunate to be in partnership with the 
 Blumkin family.
 
-<b>Sees Candy Shops, Inc.</b>
+Sees Candy Shops, Inc.
 
      Below is our usual recap of Sees performance since the time 
 of purchase by Blue Chip Stamps:
-<i>
+
   52-53 Week Year                     Operating     Number of    Number of
     Ended About           Sales        Profits      Pounds of   Stores Open
-    December 31         Revenues     After Taxes   Candy Sold   at Year End</i>
+    December 31         Revenues     After Taxes   Candy Sold   at Year End
 -------------------   ------------   -----------   ----------   -----------
 1984 ..............   $135,946,000   $13,380,000   24,759,000       214
 1983 (53 weeks) ...    133,531,000    13,699,000   24,651,000       207
@@ -486,7 +480,7 @@ poundage.  Prices in 1985 should average 6% - 7% above those of
 1984.  Assuming no change in same-store volume, profits should 
 show a moderate gain.
 
-<b>Buffalo Evening News</b>
+Buffalo Evening News
 
      Profits at the News in 1984 were considerably greater than 
 we expected.  As at Sees, excellent progress was made in 
@@ -601,14 +595,14 @@ standards.  Charlie and I believe that newspapers are very
 special institutions in society.  We are proud of the News, and 
 intend an even greater pride to be justified in the years ahead.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      Shown below is an updated version of our usual table listing 
 two key figures for the insurance industry:
-<i>
+
                                     Yearly Change       Combined Ratio
                                      in Premiums      after Policy-holder
-                                     Written (%)           Dividends</i>
+                                     Written (%)           Dividends
                                     -------------     -------------------
 1972 ..............................     10.2                  96.2
 1973 ..............................      8.0                  99.2
@@ -775,7 +769,7 @@ returns that have been by far the best in the insurance industry.
 I applaud and appreciate the efforts and talents of these three 
 outstanding managers.
 
-<b>Errors in Loss Reserving</b>
+Errors in Loss Reserving
 
      Any shareholder in a company with important interests in the 
 property/casualty insurance business should have some 
@@ -850,21 +844,21 @@ estimates for losses that occurred in the earlier years.
 However, many claims from the earlier years have been settled so 
 that our one-year-later estimate contains less guess work than 
 our earlier estimate:
-<i>
+
                 Underwriting Results       Corrected Figures
                     as Reported            After One Years
      Year              to You                 Experience
-     ----       --------------------       -----------------</i>
+     ----       --------------------       -----------------
      1980           $  6,738,000             $ 14,887,000
      1981              1,478,000               (1,118,000)
      1982            (21,462,000)             (25,066,000)
      1983            (33,192,000)             (50,974,000)
      1984            (45,413,000)                  ?
 
-     <i>Our structured settlement and loss-reserve assumption 
+     Our structured settlement and loss-reserve assumption 
      businesses are not included in this table.  Important 
      additional information on loss reserve experience appears 
-     on pages 43-45.</i>
+     on pages 43-45.
 
      To help you understand this table, here is an explanation of 
 the most recent figures: 1984s reported pre-tax underwriting 
@@ -974,7 +968,7 @@ state regulators become better at prompt identification and
 termination of insolvent insurers, but progress on that front has 
 been slow.
 
-<b>Washington Public Power Supply System</b>
+Washington Public Power Supply System
 
      From October, 1983 through June, 1984 Berkshires insurance 
 subsidiaries continuously purchased large quantities of bonds of 
@@ -992,8 +986,8 @@ destroy an otherwise strong credit position arising from
 guarantees by Bonneville Power Administration.
 
      Despite these important negatives, Charlie and I judged the 
-risks <i>at the time we purchased the bonds and at the prices 
-Berkshire paid</i> (much lower than present prices) to be 
+risks at the time we purchased the bonds and at the prices 
+Berkshire paid (much lower than present prices) to be 
 considerably more than compensated for by prospects of profit.
 
      As you know, we buy marketable stocks for our insurance 
@@ -1183,7 +1177,7 @@ bond purchases appear decidedly superior to other business
 opportunities will we engage in them.  Those occasions are likely 
 to be few and far between.
 
-<b>Dividend Policy</b>
+Dividend Policy
 
      Dividend policy is often reported to shareholders, but 
 seldom explained.  A company will say something like, Our goal 
@@ -1240,9 +1234,9 @@ position of exceptional financial comfort, etc.  But we believe
 there is only one valid reason for retention.  Unrestricted 
 earnings should be retained only when there is a reasonable 
 prospect - backed preferably by historical evidence or, when 
-appropriate, by a thoughtful analysis of the future - that <i>for 
+appropriate, by a thoughtful analysis of the future - that for 
 every dollar retained by the corporation, at least one dollar of 
-market value will be created for owners.</i>  This will happen only 
+market value will be created for owners.  This will happen only 
 if the capital retained produces incremental earnings equal to, 
 or above, those generally available to investors.
 
@@ -1418,7 +1412,7 @@ circumstances could produce major amounts of profitable business
 for us.  Of course, this result is no sure thing, but prospects 
 for it are far better than they have been for many years.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      This is the spot where each year I run my small business 
 wanted ad.  In 1984 John Loomis, one of our particularly 
@@ -1529,6 +1523,5 @@ previous annual reports.  Quite simply, they are tops in both
 ability and integrity.  We will have more to say about this 
 investment in next years report.
 
-</pre>
-</body>
-</html>
+
+

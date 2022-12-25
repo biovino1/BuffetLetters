@@ -1,26 +1,20 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<meta content="Microsoft Word 97" name="Generator"/>
-<title>Chairman's Letter - 1986</title>
-<meta content="C:\Program Files\Microsoft Office\Office\html.dot" name="Template"/>
-</head>
-<body link="#0000ff" vlink="#800080">
-<b><p align="CENTER">BERKSHIRE HATHAWAY INC.</p></b> 
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:
-</b>
+
+
+
+
+
+Chairman's Letter - 1986
+
+
+
+BERKSHIRE HATHAWAY INC. 
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
      Our gain in net worth during 1986 was $492.5 million, or 
 26.1%.  Over the last 22 years (that is, since present management 
 took over), our per-share book value has grown from $19.46 to 
@@ -89,7 +83,7 @@ Our hero wasted no words: "Hes a forty-four, medium.")
 
      Charlie and I know that the right players will make almost 
 any team manager look good.  We subscribe to the philosophy of 
-Ogilvy &amp; Mathers founding genius, David Ogilvy: "If each of us 
+Ogilvy & Mathers founding genius, David Ogilvy: "If each of us 
 hires people who are smaller than we are, we shall become a 
 company of dwarfs.  But, if each of us hires people who are 
 bigger than we are, we shall become a company of giants."
@@ -171,8 +165,8 @@ possible only if, before too long, we come up with a few very big
 (and good) ideas.  Charlie and I cant promise results, but we do 
 promise you that we will keep our efforts focused on our goals.
 
-<b>Sources of Reported Earnings
-</b>
+Sources of Reported Earnings
+
      The table on the next page shows the major sources of 
 Berkshires reported earnings.  This table differs in several 
 ways from the one presented last year.  We have added four new 
@@ -219,7 +213,7 @@ much additional information about our businesses.  I urge you to
 read those sections, as well as Charlie Mungers letter to Wesco 
 shareholders, describing the various businesses of that 
 subsidiary, which starts on page 50.
-<i>
+
                                                (000s omitted) 
                                  ------------------------------------------
                                                          Berkshire's Share 
@@ -228,7 +222,7 @@ subsidiary, which starts on page 50.
                                    Pre-Tax Earnings     minority interests)
                                  -------------------    -------------------
                                    1986       1985        1986       1985 
-</i>                                 --------   --------    --------   --------
+                                 --------   --------    --------   --------
 Operating Earnings: 
   Insurance Group: 
     Underwriting ............... $(55,844)  $(44,230)   $(29,864)  $(23,569)
@@ -266,7 +260,7 @@ operation, whose results I will discuss in a later section.
 Fechheimer also will be discussed separately.  Our other major 
 businesses performed as follows:
 
-   <b>o</b> Operating results at The Buffalo News continue to reflect a 
+   o Operating results at The Buffalo News continue to reflect a 
 truly superb managerial job by Stan Lipsey.  For the third year 
 in a row, man-hours worked fell significantly and other costs 
 were closely controlled.  Consequently, our operating margins 
@@ -327,7 +321,7 @@ during its dark days of financial reversals and litigation, have
 not in the least been lessened by prosperity.  Charlie and I are 
 grateful to them.
 
-   <b>o</b> The amazing Blumkins continue to perform business miracles 
+   o The amazing Blumkins continue to perform business miracles 
 at Nebraska Furniture Mart.  Competitors come and go (mostly go), 
 but Mrs. B. and her progeny roll on.  In 1986 net sales increased 
 10.2% to $132 million.  Ten years ago sales were $44 million and, 
@@ -354,7 +348,7 @@ yet to reach their peak.  Please file this fact away to consult
 before you mark your ballot at the 2024 annual meeting of 
 Berkshire.
 
-   <b>o</b> At Sees, sales trends improved somewhat from those of 
+   o At Sees, sales trends improved somewhat from those of 
 recent years.  Total pounds sold rose about 2%. (For you 
 chocaholics who like to fantasize, one statistic: we sell over 
 12,000 tons annually.) Same-store sales, measured in pounds, were 
@@ -382,7 +376,7 @@ keeping it alive and well at Sees.
 will continue to increase prices very modestly, merely matching 
 prospective cost increases.
 
-   <b>o</b> World Book is the largest of 17 Scott Fetzer operations 
+   o World Book is the largest of 17 Scott Fetzer operations 
 that joined Berkshire at the beginning of 1986.  Last year I 
 reported to you enthusiastically about the businesses of Scott 
 Fetzer and about Ralph Schey, its manager.  A years experience 
@@ -418,7 +412,7 @@ active salespeople are teachers or former teachers, and another
 themselves as educators, and they do a terrific job.  If you 
 dont have a World Book set in your house, I recommend one.
 
-   <b>o</b> Kirby likewise recorded its fourth straight year of unit 
+   o Kirby likewise recorded its fourth straight year of unit 
 volume gains.  Worldwide, unit sales grew 4% from 1985 and 33% 
 from 1982.  While the Kirby product is more expensive than most 
 cleaners, it performs in a manner that leaves cheaper units far 
@@ -447,8 +441,8 @@ businesses described in this section can be characterized as
 having very strong market positions, very high returns on capital 
 employed, and the best of operating managements.
 
-<b>The Fechheimer Bros. Co.
-</b>
+The Fechheimer Bros. Co.
+
      Every year in Berkshires annual report I include a 
 description of the kind of business that we would like to buy.  
 This "ad" paid off in 1986.
@@ -566,19 +560,19 @@ the operation.  We prefer large transactions: in the unusual case
 we might do something as small as $50 million (or even smaller), 
 but our preference is for commitments many times that size.
 
-<b>Insurance Operations
-</b>
+Insurance Operations
+
      We present our usual table of industry figures, expanded 
 this year to include data about incurred losses and the GNP 
 inflation index.  The contrast in 1986 between the growth in 
 premiums and growth in incurred losses will show you why 
 underwriting results for the year improved materially:
-<i>
+
                               Statutory
           Yearly Change    Combined Ratio    Yearly Change   Inflation Rate 
            in Premiums   After Policyholder   in Incurred     Measured by 
            Written (%)        Dividends        Losses (%)   GNP Deflator (%)
-</i>          -------------  ------------------  -------------  ----------------
+          -------------  ------------------  -------------  ----------------
 1981 .....     3.8              106.0             6.5             9.7
 1982 .....     4.4              109.8             8.4             6.4
 1983 .....     4.6              112.0             6.8             3.9
@@ -817,11 +811,11 @@ fellow responsible for investments at Berkshire, to chronicle
 Lous performance at GEICO.  Only my ownership of a controlling 
 block of Berkshire stock makes me secure enough to give you the 
 following figures, comparing the overall return of the equity 
-portfolio at GEICO to that of the Standard &amp; Poors 500:
-<i>
-     Year                   GEICOs Equities      S&amp;P 500
+portfolio at GEICO to that of the Standard & Poors 500:
+
+     Year                   GEICOs Equities      S&P 500
      ----                   ----------------      -------
-</i>     1980 ..................       23.7%           32.3%
+     1980 ..................       23.7%           32.3%
      1981 ..................        5.4            (5.0)
      1982 ..................       45.8            21.4
      1983 ..................       36.0            22.4
@@ -838,8 +832,8 @@ collectively, were close to risk-free.
      In sum, GEICO is an exceptional business run by exceptional 
 managers.  We are fortunate to be associated with them.
 
-<b>Marketable Securities
-</b>
+Marketable Securities
+
      During 1986, our insurance companies purchased about $700 
 million of tax-exempt bonds, most having a maturity of 8 to 12 
 years.  You might think that this commitment indicates a 
@@ -957,13 +951,13 @@ equities. All positions with a market value of over $25 million
 are listed, and the interests attributable to minority 
 shareholdings of Wesco Financial Corp. and Nebraska Furniture 
 Mart are excluded.
-<i>
+
 No. of Shares                                      Cost       Market
 -------------                                   ----------  ----------
                                                     (000s omitted)
-</i>  2,990,000    Capital Cities/ABC, Inc. .......  $515,775   $  801,694
+  2,990,000    Capital Cities/ABC, Inc. .......  $515,775   $  801,694
   6,850,000    GEICO Corporation ..............    45,713      674,725
-  2,379,200    Handy &amp; Harman .................    27,318       46,989
+  2,379,200    Handy & Harman .................    27,318       46,989
     489,300    Lear Siegler, Inc. .............    44,064       44,587
   1,727,765    The Washington Post Company ....     9,731      269,531
                                                 ----------  ----------
@@ -1006,8 +1000,8 @@ comfortable, it produces decent results, and it lets our managers
 and those of our investees run their businesses free of 
 distractions.
 
-<b>NHP, Inc.
-</b>
+NHP, Inc.
+
      Last year we paid $23.7 million for about 50% of NHP, Inc., 
 a developer, syndicator, owner and manager of multi-family rental 
 housing.  Should all executive stock options that have been 
@@ -1075,8 +1069,8 @@ led by Rod Heller, chief executive of NHP.  About 60 major
 corporations also continue to hold small interests, none larger 
 than 2%.
 
-<b>Taxation
-</b>
+Taxation
+
      The Tax Reform Act of 1986 affects our various businesses in 
 important and divergent ways.  Although we find much to praise in 
 the Act, the net financial effect for Berkshire is negative: our 
@@ -1092,7 +1086,7 @@ on personal capital gains from 20% to 28%.
 
      Here are the main tax changes that affect Berkshire:
 
-   <b>o</b> The tax rate on corporate ordinary income is scheduled to 
+   o The tax rate on corporate ordinary income is scheduled to 
 decrease from 46% in 1986 to 34% in 1988.  This change obviously 
 affects us positively - and it also has a significant positive 
 effect on two of our three major investees, Capital Cities/ABC 
@@ -1177,7 +1171,7 @@ five years - either higher tax rates or higher inflation rates
 are almost certain to materialize.  And it would not surprise us 
 to see both.
 
-   <b>o</b> Corporate capital gains tax rates have been increased from 
+   o Corporate capital gains tax rates have been increased from 
 28% to 34%, effective in 1987.  This change will have an 
 important adverse effect on Berkshire because we expect much of 
 our gain in business value in the future, as in the past, to 
@@ -1200,7 +1194,7 @@ rather than the current 34% rate.  This rule is expected to change
 soon.  The moment it does, about $73 million will disappear from 
 our GAAP net worth and be added to the deferred tax account.
 
-   <b>o</b> Dividend and interest income received by our insurance 
+   o Dividend and interest income received by our insurance 
 companies will be taxed far more heavily under the new law.  
 First, all corporations will be taxed on 20% of the dividends 
 they receive from other domestic corporations, up from 15% under 
@@ -1219,7 +1213,7 @@ law.  My best guess is that these changes alone will eventually
 reduce the earning power of our insurance operation by at least 
 10% from what we could previously have expected.
 
-   <b>o</b> The new tax law also materially changes the timing of tax 
+   o The new tax law also materially changes the timing of tax 
 payments by property/casualty insurance companies.  One new rule 
 requires us to discount our loss reserves in our tax returns, a 
 change that will decrease deductions and increase taxable income.  
@@ -1266,7 +1260,7 @@ will probably not be passed along to customers to the degree that
 they would in a typical price-competitive industry.  Insurers, in 
 other words, will themselves bear much of the new tax burdens.
 
-   <b>o</b> A partial offset to these burdens is a "fresh start" 
+   o A partial offset to these burdens is a "fresh start" 
 adjustment that occurred on January 1, 1987 when our December 31, 
 1986 loss reserve figures were converted for tax purposes to the 
 newly-required discounted basis. (In our reports to you, however, 
@@ -1289,7 +1283,7 @@ is a one-time benefit, whereas the negative impact of the other
 insurance-related tax changes is not only ongoing but, in 
 important respects, will become more severe as time passes.
 
-   <b>o</b> The General Utilities Doctrine was repealed by the new tax 
+   o The General Utilities Doctrine was repealed by the new tax 
 law. This means that in 1987 and thereafter there will be a 
 double tax on corporate liquidations, one at the corporate level 
 and another at the shareholder level.  In the past, the tax at 
@@ -1317,9 +1311,9 @@ insurers.  As I have noted, the new law will hurt Berkshires
 results, but the negative impact is impossible to quantify with 
 any precision.
 
-<b>Miscellaneous
-</b>
-     <font size="-2">We bought a corporate jet last year.</font>  What you have heard about such 
+Miscellaneous
+
+     We bought a corporate jet last year.  What you have heard about such 
 planes is true: they are very expensive and a luxury in 
 situations like ours where little travel to out-of-the-way places 
 is required.  And planes not only cost a lot to operate, they cost 
@@ -1378,476 +1372,476 @@ favor, and go see her.
 
 
                                          Warren E. Buffett
-February 27, 1987                        Chairman of the Board</pre>
-<b><u><font size="2"><p align="JUSTIFY">Appendix</p>
-</font></u><p align="CENTER">Purchase-Price Accounting Adjustments and the "Cash Flow" Fallacy</p>
-</b><p align="CENTER"> </p>
-<p align="JUSTIFY">	First a short quiz: below are abbreviated 1986 statements of earnings for two companies. Which business is the more valuable?</p>
-<table border="0" cellpadding="2" cellspacing="0" width="585">
-<tr><td height="13" valign="TOP" width="29%">
-<p></p></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td colspan="5" height="13" valign="BOTTOM" width="34%">
-<u><font size="2"><p align="RIGHT">Company O</p></font></u></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td colspan="4" height="13" valign="BOTTOM" width="19%">
-<u><font size="2"><p align="RIGHT">Company N</p></font></u></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td colspan="6" height="25" valign="TOP" width="72%"><p></p></td>
-<td colspan="5" height="25" valign="TOP" width="24%">
-<font size="2"><p align="CENTER">(000s Omitted)</p></font></td>
-<td colspan="2" height="25" valign="TOP" width="5%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Revenues.</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%">
-<font size="2"><p align="RIGHT">$677,240</p></font></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%">
-<font size="2"><p align="RIGHT">$677,240</p></font></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%"><p></p></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="22" valign="TOP" width="29%">
-<font size="2"><p>Costs of Goods Sold:</p></font></td>
-<td height="22" valign="TOP" width="11%"><p></p></td>
-<td height="22" valign="BOTTOM" width="11%"><p></p></td>
-<td height="22" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="22" valign="BOTTOM" width="11%"><p></p></td>
-<td height="22" valign="BOTTOM" width="4%"><p></p></td>
-<td height="22" valign="BOTTOM" width="10%"><p></p></td>
-<td height="22" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="22" valign="BOTTOM" width="4%"><p></p></td>
-<td height="22" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Historical costs, excluding depreciation.</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<font size="2"><p align="RIGHT">$341,170</p></font></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">$341,170</p></font></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Special non-cash inventory costs.</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">4,979</p></font></td>
-<td height="13" valign="BOTTOM" width="5%">
-<sup><font size="2"><p>(1)</p></font></sup></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Depreciation of plant and equipment ...</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<font size="2"><p align="RIGHT">8,301</p></font></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">13,355</p></font></td>
-<td height="13" valign="BOTTOM" width="5%">
-<sup><font size="2"><p>(2)</p></font></sup></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p> </p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%">
-<u><font size="2"><p align="RIGHT">349,471</p></font></u></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%">
-<u><font size="2"><p align="RIGHT">359,504</p></font></u></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="18" valign="TOP" width="29%"><p></p></td>
-<td height="18" valign="TOP" width="11%"><p></p></td>
-<td height="18" valign="BOTTOM" width="11%"><p></p></td>
-<td height="18" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="18" valign="TOP" width="11%">
-<font size="2"><p align="RIGHT">$327,769</p></font></td>
-<td height="18" valign="BOTTOM" width="4%"><p></p></td>
-<td height="18" valign="BOTTOM" width="10%"><p></p></td>
-<td height="18" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="18" valign="TOP" width="4%">
-<font size="2"><p align="RIGHT">$317,736</p></font></td>
-<td height="18" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Gross Profit .</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Selling &amp; Admin. Expense........</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<font size="2"><p align="RIGHT">$260,286</p></font></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">$260,286</p></font></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Amortization of Goodwill .........</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<p align="RIGHT">   ______</p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">____<u>595</u></p></font></td>
-<td height="13" valign="BOTTOM" width="5%">
-<sup><font size="2"><p>(3)</p></font></sup></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%"><p></p></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%">
-<u><font size="2"><p align="RIGHT">260,286</p></font></u></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%">
-<u><font size="2"><p align="RIGHT">260,881</p></font></u></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Operating Profit .....................</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="TOP" width="11%">
-<font size="2"><p align="RIGHT">$ 67,483</p></font></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="TOP" width="4%">
-<font size="2"><p align="RIGHT">$ 56,855</p></font></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Other Income, Net .................</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%">
-<u><font size="2"><p align="RIGHT">4,135</p></font></u></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%">
-<u><font size="2"><p align="RIGHT">4,135</p></font></u></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Pre-Tax Income ......................</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="TOP" width="11%">
-<font size="2"><p align="RIGHT">$ 71,618</p></font></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="TOP" width="4%">
-<font size="2"><p align="RIGHT">$ 60,990</p></font></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="30" valign="TOP" width="29%">
-<font size="2"><p>Applicable Income Tax:</p></font></td>
-<td height="30" valign="TOP" width="11%"><p></p></td>
-<td height="30" valign="BOTTOM" width="11%"><p></p></td>
-<td height="30" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="30" valign="BOTTOM" width="11%"><p></p></td>
-<td height="30" valign="BOTTOM" width="4%"><p></p></td>
-<td height="30" valign="BOTTOM" width="10%"><p></p></td>
-<td height="30" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="30" valign="BOTTOM" width="4%"><p></p></td>
-<td height="30" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Historical deferred and current tax .</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<font size="2"><p align="RIGHT">$ 31,387</p></font></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">$ 31,387</p></font></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%">
-<font size="2"><p>Non-Cash Inter-period Allocation Adjustment .............</p></font></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%">
-<p align="RIGHT">   ______</p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%">
-<font size="2"><p align="RIGHT">_____<u>998</u></p></font></td>
-<td height="13" valign="BOTTOM" width="5%">
-<sup><font size="2"><p>(4)</p></font></sup></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-<tr><td height="13" valign="TOP" width="29%"><p></p></td>
-<td height="13" valign="TOP" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td height="13" valign="BOTTOM" width="11%"><p></p></td>
-<td colspan="3" height="13" valign="BOTTOM" width="11%">
-<u><font size="2"><p align="RIGHT">31,387</p></font></u></td>
-<td height="13" valign="BOTTOM" width="4%"><p></p></td>
-<td height="13" valign="BOTTOM" width="10%"><p></p></td>
-<td height="13" valign="BOTTOM" width="5%"><p></p></td>
-<td colspan="2" height="13" valign="BOTTOM" width="4%">
-<u><font size="2"><p align="RIGHT">32,385</p></font></u></td>
-<td height="13" valign="BOTTOM" width="3%"><p></p></td>
-</tr>
-</table>
-<pre>Net Income <font size="1">............ </font>                         $40,231              $28,605
-                                              =======              =======</pre>
-<i><font size="1"><p align="JUSTIFY">(Numbers (1) through (4) designate items discussed later in this section.)</p>
-</font></i><font size="2"><p align="JUSTIFY">	As you've probably guessed, Companies O and N are the same business - Scott Fetzer. In the "O" (for "old") column we have shown what the company's 1986 GAAP earnings would have been if we had not purchased it; in the "N" (for "new") column we have shown Scott Fetzer's GAAP earnings as actually reported by Berkshire.</p>
-<p align="JUSTIFY">	It should be emphasized that the two columns depict identical economics - i.e., the same sales, wages, taxes, etc. And both "companies" generate the same amount of cash for owners. Only the accounting is different.</p>
-<p align="JUSTIFY">	So, fellow philosophers, which column presents truth? Upon which set of numbers should managers and investors focus?</p>
-<p align="JUSTIFY">	Before we tackle those questions, let's look at what produces the disparity between O and N. We will simplify our discussion in some respects, but the simplification should not produce any inaccuracies in analysis or conclusions.</p>
-<p align="JUSTIFY">	The contrast between O and N comes about because we paid an amount for Scott Fetzer that was different from its stated net worth. Under GAAP, such differences - such premiums or discounts - must be accounted for by "purchase-price adjustments." In Scott Fetzer's case, we paid $315 million for net assets that were carried on its books at $172.4 million. So we paid a premium of $142.6 million.</p>
-<p align="JUSTIFY">	The first step in accounting for any premium paid is to adjust the carrying value of current assets to current values. In practice, this requirement usually does not affect receivables, which are routinely carried at current value, but often affects inventories. Because of a $22.9 million LIFO reserve and other accounting intricacies, Scott Fetzer's inventory account was carried at a $37.3 million discount from current value. So, making our first accounting move, we used $37.3 million of our $142.6 million premium to increase the carrying value of the inventory.</p>
-<p align="JUSTIFY">	Assuming any premium is left after current assets are adjusted, the next step is to adjust fixed assets to current value. In our case, this adjustment also required a few accounting acrobatics relating to deferred taxes. Since this has been billed as a simplified discussion, I will skip the details and give you the bottom line: $68.0 million was added to fixed assets and $13.0 million was eliminated from deferred tax liabilities. After making this $81.0 million adjustment, we were left with $24.3 million of premium to allocate.</p>
-<p align="JUSTIFY">	Had our situation called for them two steps would next have been required: the adjustment of intangible assets other than Goodwill to current fair values, and the restatement of liabilities to current fair values, a requirement that typically affects only long-term debt and unfunded pension liabilities. In Scott Fetzer's case, however, neither of these steps was necessary.</p>
-<p align="JUSTIFY">	The final accounting adjustment we needed to make, after recording fair market values for all assets and liabilities, was the assignment of the residual premium to Goodwill (technically known as "excess of cost over the fair value of net assets acquired"). This residual amounted to $24.3 million. Thus, the balance sheet of Scott Fetzer immediately before the acquisition, which is summarized below in column O, was transformed by the purchase into the balance sheet shown in column N. In real terms, both balance sheets depict the same assets and liabilities - but, as you can see, certain figures differ significantly.</p></font>
-<p align="CENTER"><center><table border="0" cellpadding="7" cellspacing="0" width="514">
-<tr><td height="14" valign="TOP" width="58%">
-<p></p></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">Company O</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">Company N</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%"><p></p></td>
-<td colspan="2" height="14" valign="TOP" width="42%">
-<font size="2"><p align="CENTER">(000s Omitted)</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<b><font size="2"><p align="JUSTIFY">Assets</p></font></b></td>
-<td height="14" valign="TOP" width="19%"><p></p></td>
-<td height="14" valign="TOP" width="23%"><p></p></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Cash and Cash Equivalents ...</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">$ 3,593</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">$ 3,593</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Receivables, net ..</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">90,919</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">90,919</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Inventories </p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">77,489</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">114,764</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Other .</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">5,954</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">5,954</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Total Current Assets ..</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">177,955</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">215,230</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Property, Plant, and Equipment, net .</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">80,967</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">148,960</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p>Investments in and Advances to Unconsolidated Subsidiaries and Joint Ventures </p></font></td>
-<td height="14" valign="BOTTOM" width="19%">
-<font size="2"><p align="RIGHT">93,589</p></font></td>
-<td height="14" valign="BOTTOM" width="23%">
-<font size="2"><p align="RIGHT">93,589</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Other Assets, including Goodwill .</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">9,836</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">34,210</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%"><p></p></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">$362,347</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">$491,989</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<b><font size="2"><p align="JUSTIFY">Liabilities</p></font></b></td>
-<td height="14" valign="TOP" width="19%"><p></p></td>
-<td height="14" valign="TOP" width="23%"><p></p></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p>Notes Payable and Current Portion of Long-term Debt </p></font></td>
-<td height="14" valign="BOTTOM" width="19%">
-<font size="2"><p align="RIGHT">$ 4,650</p></font></td>
-<td height="14" valign="BOTTOM" width="23%">
-<font size="2"><p align="RIGHT">$ 4,650</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Accounts Payable ...</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">39,003</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">39,003</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Accrued Liabilities ..</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">84,939</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">84,939</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Total Current Liabilities ..</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">128,592</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">128,592</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Long-term Debt and Capitalized Leases .</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">34,669</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">34,669</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Deferred Income Taxes ..</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">17,052</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">4,075</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Other Deferred Credits </p></font></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">9,657</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">9,657</p></font></u></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Total Liabilities </p></font></td>
-<td height="14" valign="TOP" width="19%">
-<font size="2"><p align="RIGHT">189,970</p></font></td>
-<td height="14" valign="TOP" width="23%">
-<font size="2"><p align="RIGHT">176,993</p></font></td>
-</tr>
-<tr><td height="14" valign="TOP" width="58%">
-<font size="2"><p align="JUSTIFY">Shareholders' Equity ...</p></font></td>
-<td height="14" valign="TOP" width="19%">
-<u><font size="2"><p align="RIGHT">172,377</p></font></u></td>
-<td height="14" valign="TOP" width="23%">
-<u><font size="2"><p align="RIGHT">314,996</p></font></u></td>
-</tr>
-</table>
-</center></p>
-<pre align="CENTER">                                                         $362,347       $491,989
-                                                         ========       ========</pre>
-<font size="2"><p align="JUSTIFY"> </p>
-<p align="JUSTIFY">	The higher balance sheet figures shown in column N produce the lower income figures shown in column N of the earnings statement presented earlier. This is the result of the asset write-ups and of the fact that some of the written-up assets must be depreciated or amortized. The higher the asset figure, the higher the annual depreciation or amortization charge to earnings must be. The charges that flowed to the earnings statement because of the balance sheet write-ups were numbered in the statement of earnings shown earlier:</p>
-<ol>
-<p align="JUSTIFY"><li>$4,979,000 for non-cash inventory costs resulting, primarily, from reductions that Scott Fetzer made in its inventories during 1986; charges of this kind are apt to be small or non-existent in future years.</li></p></ol>
-<ol start="2">
-<p align="JUSTIFY"><li>$5,054,000 for extra depreciation attributable to the write-up of fixed assets; a charge approximating this amount will probably be made annually for 12 more years.</li></p></ol>
-<ol start="3">
-<p align="JUSTIFY"><li>$595,000 for amortization of Goodwill; this charge will be made annually for 39 more years in a slightly larger amount because our purchase was made on January 6 and, therefore, the 1986 figure applies to only 98% of the year.</li></p></ol>
-<ol start="4">
-<p align="JUSTIFY"><li>$998,000 for deferred-tax acrobatics that are beyond my ability to explain briefly (or perhaps even non-briefly); a charge approximating this amount will probably be made annually for 12 more years.</li></p></ol>
-<p align="JUSTIFY">	It is important to understand that none of these newly-created accounting costs, totaling $11.6 million, are deductible for income tax purposes. The "new" Scott Fetzer pays exactly the same tax as the "old" Scott Fetzer would have, even though the GAAP earnings of the two entities differ greatly. And, in respect to operating earnings, that would be true in the future also. However, in the unlikely event that Scott Fetzer sells one of its businesses, the tax consequences to the "old" and "new" company might differ widely.</p>
-<p align="JUSTIFY">	By the end of 1986 the difference between the net worth of the "old" and "new" Scott Fetzer had been reduced from $142.6 million to $131.0 million by means of the extra $11.6 million that was charged to earnings of the new entity. As the years go by, similar charges to earnings will cause most of the premium to disappear, and the two balance sheets will converge. However, the higher land values and most of the higher inventory values that were established on the new balance sheet will remain unless land is disposed of or inventory levels are further reduced.</p>
-<p align="CENTER">* * *</p>
-<p align="JUSTIFY">	What does all this mean for owners? Did the shareholders of Berkshire buy a business that earned $40.2 million in 1986 or did they buy one earning $28.6 million? Were those $11.6 million of new charges a real economic cost to us? Should investors pay more for the stock of Company O than of Company N? And, if a business is worth some given multiple of earnings, was Scott Fetzer worth considerably more the day before we bought it than it was worth the following day?</p>
-<p align="JUSTIFY">	If we think through these questions, we can gain some insights about what may be called "owner earnings." These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges such as Company N's items (1) and (4) less </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume. (If the business requires additional working capital to maintain its competitive position and unit volume, the increment also should be included in </font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> . However, businesses following the LIFO inventory method usually do not require additional working capital if unit volume does not change.)
-<p align="JUSTIFY"> </p>
-<p align="JUSTIFY"> </p>
-<p align="JUSTIFY"> </p>
-<p align="JUSTIFY">Our owner-earnings equation does not yield the deceptively precise figures provided by GAAP, since</p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> must be a guess - and one sometimes very difficult to make. Despite this problem, we consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes - both for investors in buying stocks and for managers in buying entire businesses. We agree with Keynes's observation: "I would rather be vaguely right than precisely wrong."
-<p align="JUSTIFY">The approach we have outlined produces "owner earnings" for Company O and Company N that are identical, which means valuations are also identical, just as common sense would tell you should be the case. This result is reached because the sum of (a) and (b) is the same in both columns O and N, and because</p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> is necessarily the same in both cases.
-<p align="JUSTIFY">And what do Charlie and I, as owners and managers, believe is the correct figure for the owner earnings of Scott Fetzer? Under current circumstances, we believe </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> is very close to the "old" company's (b) number of $8.3 million and much below the "new" company's (b) number of $19.9 million. Therefore, we believe that owner earnings are far better depicted by the reported earnings in the O column than by those in the N column. In other words, we feel owner earnings of Scott Fetzer are considerably larger than the GAAP figures that we report.
-<p align="JUSTIFY">That is obviously a happy state of affairs. But calculations of this sort usually do not provide such pleasant news. Most managers probably will acknowledge that they need to spend something more than (b) on their businesses over the longer term just to hold their ground in terms of both unit volume and competitive position. When this imperative exists - that is, when </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> exceeds (b) - GAAP earnings overstate owner earnings. Frequently this overstatement is substantial. The oil industry has in recent years provided a conspicuous example of this phenomenon. Had most major oil companies spent only (b) each year, they would have guaranteed their shrinkage in real terms.
-<p align="JUSTIFY">All of this points up the absurdity of the "cash flow" numbers that are often set forth in Wall Street reports. These numbers routinely include (a) plus (b) - but do not subtract </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> . Most sales brochures of investment bankers also feature deceptive presentations of this kind. These imply that the business being offered is the commercial counterpart of the Pyramids - forever state-of-the-art, never needing to be replaced, improved or refurbished. Indeed, if all U.S. corporations were to be offered simultaneously for sale through our leading investment bankers - and if the sales brochures describing them were to be believed - governmental projections of national plant and equipment spending would have to be slashed by 90%.
-<p align="JUSTIFY">"Cash Flow", true, may serve as a shorthand of some utility in descriptions of certain real estate businesses or other enterprises that make huge initial outlays and only tiny outlays thereafter. A company whose only holding is a bridge or an extremely long-lived gas field would be an example. But "cash flow" is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them, </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> is always significant. To be sure, businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment - or the business decays. 
-<p align="JUSTIFY">Why, then, are "cash flow" numbers so popular today? In answer, we confess our cynicism: we believe these numbers are frequently used by marketers of businesses and securities in attempts to justify the unjustifiable (and thereby to sell what should be the unsalable). When (a) - that is, GAAP earnings - looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn't add (b) without subtracting </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> : though dentists correctly claim that if you ignore your teeth they'll go away, the same is not true for </font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> . The company or investor believing that the debt-servicing ability or the equity valuation of an enterprise can be measured by totaling (a) and (b) while ignoring </font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> is headed for certain trouble.
-<p align="CENTER">* * *</p>
-<p align="JUSTIFY">	To sum up: in the case of both Scott Fetzer and our other businesses, we feel that (b) on an historical-cost basis - i.e., with both amortization of intangibles and other purchase-price adjustments excluded - is quite close in amount to </p></font><font face="Symbol" size="2">(</font><font size="2"> c</font><font face="Symbol" size="2">)</font><font size="2"> . (The two items are not identical, of course. For example, at See's we annually make capitalized expenditures that exceed depreciation by $500,000 to $1 million, simply to hold our ground competitively.) Our conviction about this point is the reason we show our amortization and other purchase-price adjustment items separately in the table on page 8 and is also our reason for viewing the earnings of the individual businesses as reported there as much more closely approximating owner earnings than the GAAP figures.
-<p align="JUSTIFY">	Questioning GAAP figures may seem impious to some. After all, what are we paying the accountants for if it is not to deliver us the "truth" about our business. But the accountants' job is to record, not to evaluate. The evaluation job falls to investors and managers.</p>
-<p align="JUSTIFY">	Accounting numbers, of course, are the language of business and as such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Charlie and I would be lost without these numbers: they invariably are the starting point for us in evaluating our own businesses and those of others. Managers and owners need to remember, however, that accounting is but an aid to business thinking, never a substitute for it.</p>
-<p align="JUSTIFY"> </p></font></body>
-</html>
+February 27, 1987                        Chairman of the Board
+Appendix
+Purchase-Price Accounting Adjustments and the "Cash Flow" Fallacy
+ 
+	First a short quiz: below are abbreviated 1986 statements of earnings for two companies. Which business is the more valuable?
+
+
+
+
+
+Company O
+
+
+Company N
+
+
+
+
+(000s Omitted)
+
+
+
+Revenues.
+
+
+
+
+$677,240
+
+
+
+
+$677,240
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costs of Goods Sold:
+
+
+
+
+
+
+
+
+
+
+
+Historical costs, excluding depreciation.
+
+
+$341,170
+
+
+
+
+$341,170
+
+
+
+
+
+Special non-cash inventory costs.
+
+
+
+
+
+
+4,979
+
+(1)
+
+
+
+
+Depreciation of plant and equipment ...
+
+
+8,301
+
+
+
+
+13,355
+
+(2)
+
+
+
+
+ 
+
+
+
+
+349,471
+
+
+
+
+359,504
+
+
+
+
+
+
+
+$327,769
+
+
+
+
+$317,736
+
+
+
+Gross Profit .
+
+
+
+
+
+
+
+
+
+
+
+Selling & Admin. Expense........
+
+
+$260,286
+
+
+
+
+$260,286
+
+
+
+
+
+Amortization of Goodwill .........
+
+
+   ______
+
+
+
+
+____595
+
+(3)
+
+
+
+
+
+
+
+
+260,286
+
+
+
+
+260,881
+
+
+
+Operating Profit .....................
+
+
+
+
+$ 67,483
+
+
+
+
+$ 56,855
+
+
+
+Other Income, Net .................
+
+
+
+
+4,135
+
+
+
+
+4,135
+
+
+
+Pre-Tax Income ......................
+
+
+
+
+$ 71,618
+
+
+
+
+$ 60,990
+
+
+
+Applicable Income Tax:
+
+
+
+
+
+
+
+
+
+
+
+Historical deferred and current tax .
+
+
+$ 31,387
+
+
+
+
+$ 31,387
+
+
+
+
+
+Non-Cash Inter-period Allocation Adjustment .............
+
+
+   ______
+
+
+
+
+_____998
+
+(4)
+
+
+
+
+
+
+
+
+31,387
+
+
+
+
+32,385
+
+
+
+Net Income ............                          $40,231              $28,605
+                                              =======              =======
+(Numbers (1) through (4) designate items discussed later in this section.)
+	As you've probably guessed, Companies O and N are the same business - Scott Fetzer. In the "O" (for "old") column we have shown what the company's 1986 GAAP earnings would have been if we had not purchased it; in the "N" (for "new") column we have shown Scott Fetzer's GAAP earnings as actually reported by Berkshire.
+	It should be emphasized that the two columns depict identical economics - i.e., the same sales, wages, taxes, etc. And both "companies" generate the same amount of cash for owners. Only the accounting is different.
+	So, fellow philosophers, which column presents truth? Upon which set of numbers should managers and investors focus?
+	Before we tackle those questions, let's look at what produces the disparity between O and N. We will simplify our discussion in some respects, but the simplification should not produce any inaccuracies in analysis or conclusions.
+	The contrast between O and N comes about because we paid an amount for Scott Fetzer that was different from its stated net worth. Under GAAP, such differences - such premiums or discounts - must be accounted for by "purchase-price adjustments." In Scott Fetzer's case, we paid $315 million for net assets that were carried on its books at $172.4 million. So we paid a premium of $142.6 million.
+	The first step in accounting for any premium paid is to adjust the carrying value of current assets to current values. In practice, this requirement usually does not affect receivables, which are routinely carried at current value, but often affects inventories. Because of a $22.9 million LIFO reserve and other accounting intricacies, Scott Fetzer's inventory account was carried at a $37.3 million discount from current value. So, making our first accounting move, we used $37.3 million of our $142.6 million premium to increase the carrying value of the inventory.
+	Assuming any premium is left after current assets are adjusted, the next step is to adjust fixed assets to current value. In our case, this adjustment also required a few accounting acrobatics relating to deferred taxes. Since this has been billed as a simplified discussion, I will skip the details and give you the bottom line: $68.0 million was added to fixed assets and $13.0 million was eliminated from deferred tax liabilities. After making this $81.0 million adjustment, we were left with $24.3 million of premium to allocate.
+	Had our situation called for them two steps would next have been required: the adjustment of intangible assets other than Goodwill to current fair values, and the restatement of liabilities to current fair values, a requirement that typically affects only long-term debt and unfunded pension liabilities. In Scott Fetzer's case, however, neither of these steps was necessary.
+	The final accounting adjustment we needed to make, after recording fair market values for all assets and liabilities, was the assignment of the residual premium to Goodwill (technically known as "excess of cost over the fair value of net assets acquired"). This residual amounted to $24.3 million. Thus, the balance sheet of Scott Fetzer immediately before the acquisition, which is summarized below in column O, was transformed by the purchase into the balance sheet shown in column N. In real terms, both balance sheets depict the same assets and liabilities - but, as you can see, certain figures differ significantly.
+
+
+
+
+Company O
+
+Company N
+
+
+
+(000s Omitted)
+
+
+Assets
+
+
+
+
+Cash and Cash Equivalents ...
+
+$ 3,593
+
+$ 3,593
+
+
+Receivables, net ..
+
+90,919
+
+90,919
+
+
+Inventories 
+
+77,489
+
+114,764
+
+
+Other .
+
+5,954
+
+5,954
+
+
+Total Current Assets ..
+
+177,955
+
+215,230
+
+
+Property, Plant, and Equipment, net .
+
+80,967
+
+148,960
+
+
+Investments in and Advances to Unconsolidated Subsidiaries and Joint Ventures 
+
+93,589
+
+93,589
+
+
+Other Assets, including Goodwill .
+
+9,836
+
+34,210
+
+
+
+$362,347
+
+$491,989
+
+
+Liabilities
+
+
+
+
+Notes Payable and Current Portion of Long-term Debt 
+
+$ 4,650
+
+$ 4,650
+
+
+Accounts Payable ...
+
+39,003
+
+39,003
+
+
+Accrued Liabilities ..
+
+84,939
+
+84,939
+
+
+Total Current Liabilities ..
+
+128,592
+
+128,592
+
+
+Long-term Debt and Capitalized Leases .
+
+34,669
+
+34,669
+
+
+Deferred Income Taxes ..
+
+17,052
+
+4,075
+
+
+Other Deferred Credits 
+
+9,657
+
+9,657
+
+
+Total Liabilities 
+
+189,970
+
+176,993
+
+
+Shareholders' Equity ...
+
+172,377
+
+314,996
+
+
+
+                                                         $362,347       $491,989
+                                                         ========       ========
+ 
+	The higher balance sheet figures shown in column N produce the lower income figures shown in column N of the earnings statement presented earlier. This is the result of the asset write-ups and of the fact that some of the written-up assets must be depreciated or amortized. The higher the asset figure, the higher the annual depreciation or amortization charge to earnings must be. The charges that flowed to the earnings statement because of the balance sheet write-ups were numbered in the statement of earnings shown earlier:
+
+$4,979,000 for non-cash inventory costs resulting, primarily, from reductions that Scott Fetzer made in its inventories during 1986; charges of this kind are apt to be small or non-existent in future years.
+
+$5,054,000 for extra depreciation attributable to the write-up of fixed assets; a charge approximating this amount will probably be made annually for 12 more years.
+
+$595,000 for amortization of Goodwill; this charge will be made annually for 39 more years in a slightly larger amount because our purchase was made on January 6 and, therefore, the 1986 figure applies to only 98% of the year.
+
+$998,000 for deferred-tax acrobatics that are beyond my ability to explain briefly (or perhaps even non-briefly); a charge approximating this amount will probably be made annually for 12 more years.
+	It is important to understand that none of these newly-created accounting costs, totaling $11.6 million, are deductible for income tax purposes. The "new" Scott Fetzer pays exactly the same tax as the "old" Scott Fetzer would have, even though the GAAP earnings of the two entities differ greatly. And, in respect to operating earnings, that would be true in the future also. However, in the unlikely event that Scott Fetzer sells one of its businesses, the tax consequences to the "old" and "new" company might differ widely.
+	By the end of 1986 the difference between the net worth of the "old" and "new" Scott Fetzer had been reduced from $142.6 million to $131.0 million by means of the extra $11.6 million that was charged to earnings of the new entity. As the years go by, similar charges to earnings will cause most of the premium to disappear, and the two balance sheets will converge. However, the higher land values and most of the higher inventory values that were established on the new balance sheet will remain unless land is disposed of or inventory levels are further reduced.
+* * *
+	What does all this mean for owners? Did the shareholders of Berkshire buy a business that earned $40.2 million in 1986 or did they buy one earning $28.6 million? Were those $11.6 million of new charges a real economic cost to us? Should investors pay more for the stock of Company O than of Company N? And, if a business is worth some given multiple of earnings, was Scott Fetzer worth considerably more the day before we bought it than it was worth the following day?
+	If we think through these questions, we can gain some insights about what may be called "owner earnings." These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges such as Company N's items (1) and (4) less ( c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume. (If the business requires additional working capital to maintain its competitive position and unit volume, the increment also should be included in ( c) . However, businesses following the LIFO inventory method usually do not require additional working capital if unit volume does not change.)
+ 
+ 
+ 
+Our owner-earnings equation does not yield the deceptively precise figures provided by GAAP, since( c) must be a guess - and one sometimes very difficult to make. Despite this problem, we consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes - both for investors in buying stocks and for managers in buying entire businesses. We agree with Keynes's observation: "I would rather be vaguely right than precisely wrong."
+The approach we have outlined produces "owner earnings" for Company O and Company N that are identical, which means valuations are also identical, just as common sense would tell you should be the case. This result is reached because the sum of (a) and (b) is the same in both columns O and N, and because( c) is necessarily the same in both cases.
+And what do Charlie and I, as owners and managers, believe is the correct figure for the owner earnings of Scott Fetzer? Under current circumstances, we believe ( c) is very close to the "old" company's (b) number of $8.3 million and much below the "new" company's (b) number of $19.9 million. Therefore, we believe that owner earnings are far better depicted by the reported earnings in the O column than by those in the N column. In other words, we feel owner earnings of Scott Fetzer are considerably larger than the GAAP figures that we report.
+That is obviously a happy state of affairs. But calculations of this sort usually do not provide such pleasant news. Most managers probably will acknowledge that they need to spend something more than (b) on their businesses over the longer term just to hold their ground in terms of both unit volume and competitive position. When this imperative exists - that is, when ( c) exceeds (b) - GAAP earnings overstate owner earnings. Frequently this overstatement is substantial. The oil industry has in recent years provided a conspicuous example of this phenomenon. Had most major oil companies spent only (b) each year, they would have guaranteed their shrinkage in real terms.
+All of this points up the absurdity of the "cash flow" numbers that are often set forth in Wall Street reports. These numbers routinely include (a) plus (b) - but do not subtract ( c) . Most sales brochures of investment bankers also feature deceptive presentations of this kind. These imply that the business being offered is the commercial counterpart of the Pyramids - forever state-of-the-art, never needing to be replaced, improved or refurbished. Indeed, if all U.S. corporations were to be offered simultaneously for sale through our leading investment bankers - and if the sales brochures describing them were to be believed - governmental projections of national plant and equipment spending would have to be slashed by 90%.
+"Cash Flow", true, may serve as a shorthand of some utility in descriptions of certain real estate businesses or other enterprises that make huge initial outlays and only tiny outlays thereafter. A company whose only holding is a bridge or an extremely long-lived gas field would be an example. But "cash flow" is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them, ( c) is always significant. To be sure, businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment - or the business decays. 
+Why, then, are "cash flow" numbers so popular today? In answer, we confess our cynicism: we believe these numbers are frequently used by marketers of businesses and securities in attempts to justify the unjustifiable (and thereby to sell what should be the unsalable). When (a) - that is, GAAP earnings - looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn't add (b) without subtracting ( c) : though dentists correctly claim that if you ignore your teeth they'll go away, the same is not true for ( c) . The company or investor believing that the debt-servicing ability or the equity valuation of an enterprise can be measured by totaling (a) and (b) while ignoring ( c) is headed for certain trouble.
+* * *
+	To sum up: in the case of both Scott Fetzer and our other businesses, we feel that (b) on an historical-cost basis - i.e., with both amortization of intangibles and other purchase-price adjustments excluded - is quite close in amount to ( c) . (The two items are not identical, of course. For example, at See's we annually make capitalized expenditures that exceed depreciation by $500,000 to $1 million, simply to hold our ground competitively.) Our conviction about this point is the reason we show our amortization and other purchase-price adjustment items separately in the table on page 8 and is also our reason for viewing the earnings of the individual businesses as reported there as much more closely approximating owner earnings than the GAAP figures.
+	Questioning GAAP figures may seem impious to some. After all, what are we paying the accountants for if it is not to deliver us the "truth" about our business. But the accountants' job is to record, not to evaluate. The evaluation job falls to investors and managers.
+	Accounting numbers, of course, are the language of business and as such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Charlie and I would be lost without these numbers: they invariably are the starting point for us in evaluating our own businesses and those of others. Managers and owners need to remember, however, that accounting is but an aid to business thinking, never a substitute for it.
+ 
+

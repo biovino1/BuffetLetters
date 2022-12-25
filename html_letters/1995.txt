@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1995</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1995
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
 
      Our gain in net worth during 1995 was $5.3 billion, or 
@@ -105,21 +99,21 @@ strong attachment to Berkshire.  Second, Charlie and I have had
 considerable experience in allocating capital and try to go at 
 that job rationally and objectively.  The giant disadvantage we 
 face is size:  In the early years, we needed only good ideas, but 
-now we need good <i>big</i> ideas.  Unfortunately, the difficulty of 
+now we need good big ideas.  Unfortunately, the difficulty of 
 finding these grows in direct proportion to our financial 
 success, a problem that increasingly erodes our strengths.
 
      I will have more to say about Berkshire's prospects later in 
 this report, when I discuss our proposed recapitalization.
 
-<b>Acquisitions</b>  
+Acquisitions  
 
      It may seem strange that we exult over a year in which we 
 made three acquisitions, given that we have regularly used these 
 pages to question the acquisition activities of most managers.  
 Rest assured, Charlie and I haven't lost our skepticism:  We 
 believe most deals do damage to the shareholders of the acquiring 
-company.  Too often, the words from <i>HMS Pinafore</i> apply:  "Things 
+company.  Too often, the words from HMS Pinafore apply:  "Things 
 are seldom what they seem, skim milk masquerades as cream."  
 Specifically, sellers and their representatives invariably 
 present financial projections having more entertainment value 
@@ -143,7 +137,7 @@ also picks the time of sale - a time when the business is likely
 to be walking "just fine."
 
      Even so, we do have a few advantages, perhaps the greatest 
-being that we <i>don't</i> have a strategic plan.  Thus we feel no need 
+being that we don't have a strategic plan.  Thus we feel no need 
 to proceed in an ordained direction (a course leading almost 
 invariably to silly purchase prices) but can instead simply 
 decide what makes sense for our owners.  In doing that, we always 
@@ -154,7 +148,7 @@ Our practice of making this comparison - acquisitions against
 passive investments - is a discipline that managers focused 
 simply on expansion seldom use.
 
-     Talking to <i>Time Magazine</i> a few years back, Peter Drucker got 
+     Talking to Time Magazine a few years back, Peter Drucker got 
 to the heart of things:  "I will tell you a secret: Dealmaking 
 beats working.  Dealmaking is exciting and fun, and working is 
 grubby.  Running anything is primarily an enormous amount of 
@@ -205,7 +199,7 @@ the outcome?  Said the executive sadly, "When we started, we were
 getting 100% of our earnings from the original business.  After 
 ten years, we were getting 150%."
 
-<b>Helzberg's Diamond Shops</b>
+Helzberg's Diamond Shops
 
      A few years back, management consultants popularized a 
 technique called "management by walking around" (MBWA).  At 
@@ -276,7 +270,7 @@ giving birth to her second son at the start of the Christmas
 season.  Susan has proved to be a terrific leader in the two 
 years since her promotion.
 
-<b>R.C. Willey Home Furnishings</b>  
+R.C. Willey Home Furnishings  
 
      It was Nebraska Furniture Mart's Irv Blumkin who did the 
 walking around in the case of R.C. Willey, long the leading home 
@@ -319,7 +313,7 @@ meanwhile beckoned in every conceivable way to try a stream of
 new merchants.  In retailing, to coast is to fail.
 
      In contrast to this have-to-be-smart-every-day business, 
-there is what I call the have-to-be-smart-<i>once</i> business.  For 
+there is what I call the have-to-be-smart-once business.  For 
 example, if you were smart enough to buy a network TV station 
 very early in the game, you could put in a shiftless and backward 
 nephew to run things, and the business would still do well for 
@@ -332,7 +326,7 @@ bankruptcy.
 blessed with terrific managers who love to compete and have done 
 so successfully for decades.  Like the CEOs of our other 
 operating units, they will operate autonomously:  We want them to 
-feel that the businesses they run are <i>theirs.</i>  This means no 
+feel that the businesses they run are theirs.  This means no 
 second-guessing by Charlie and me.  We avoid the attitude of the 
 alumnus whose message to the football coach is "I'm 100% with you 
 - win or tie."  Our basic goal as an owner is to behave with our 
@@ -347,7 +341,7 @@ Bill and Sheldon associated with us, and we hope that we can
 acquire other businesses that bring with them managers of similar 
 caliber.
 
-<b>GEICO Corporation</b>
+GEICO Corporation
 
      Right after yearend, we completed the purchase of 100% of 
 GEICO, the seventh largest auto insurer in the United States, 
@@ -359,8 +353,8 @@ before, it's worth a short recap here.
 not because I cared about the degree it offered, but because I 
 wanted to study under Ben Graham, then teaching there.  The time 
 I spent in Ben's classes was a personal high, and quickly induced 
-me to learn all I could about my hero.  I turned first to <i>Who's 
-Who in America,</i> finding there, among other things, that Ben was 
+me to learn all I could about my hero.  I turned first to Who's 
+Who in America, finding there, among other things, that Ben was 
 Chairman of Government Employees Insurance Company, to me an 
 unknown company in an unfamiliar industry.
 
@@ -394,7 +388,7 @@ who always supported me 100% - was successful.  But I was then a
 skinny, unpolished 20-year-old who looked about 17, and my pitch 
 usually failed.  Undaunted, I wrote a short report late in 1951 
 about GEICO for "The Security I Like Best" column in The 
-<i>Commercial and Financial Chronicle,</i> a leading financial 
+Commercial and Financial Chronicle, a leading financial 
 publication of the time.  More important, I bought stock for my 
 own account.
 
@@ -414,7 +408,7 @@ $10,282.  At yearend, this holding was worth $13,125, more than
      You can see why GEICO was my first business love.  Furthermore, 
 just to complete this stroll down memory lane, I should add 
 that I earned most of the funds I used to buy GEICO shares by 
-delivering <i>The Washington Post,</i> the chief product of a 
+delivering The Washington Post, the chief product of a 
 company that much later made it possible for Berkshire to turn 
 $10 million into $500 million.
 
@@ -458,7 +452,7 @@ another 34 years.
 
      Lou runs investments just as ably.  Between 1980 and 1995, 
 the equities under Lou's management returned an average of 22.8% 
-annually vs. 15.7% for the S&amp;P.  Lou takes the same conservative, 
+annually vs. 15.7% for the S&P.  Lou takes the same conservative, 
 concentrated approach to investments that we do at Berkshire, and 
 it is an enormous plus for us to have him on board.  One point 
 that goes beyond Lou's GEICO work:  His presence on the scene 
@@ -491,7 +485,7 @@ generous with his time on a cold Saturday in 1951.  I've often
 thanked him privately, but it is fitting that I use this report 
 to thank him on behalf of Berkshire's shareholders.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      In addition to acquiring GEICO, we enjoyed other favorable 
 developments in insurance during 1995.
@@ -594,7 +588,7 @@ off profits.  And, of course, to obtain the replacement equity, we
 would have needed to sell many new shares of Berkshire.  The net 
 result - more shares, equal assets and lower earnings - would have 
 materially reduced the value of our stock.  So you can understand 
-why float wonderfully benefits a business - <i>if</i> it is obtained at a 
+why float wonderfully benefits a business - if it is obtained at a 
 low cost.
 
      Our acquisition of GEICO will immediately increase our float 
@@ -655,8 +649,8 @@ know, Berkshire moves quickly to seize investment and acquisition
 opportunities; in insurance we respond with the same exceptional 
 speed.  In another important point, large coverages don't frighten 
 us but, on the contrary, intensify our interest.  We have offered a 
-<i>policy</i> under which we could have lost $1 billion; the largest 
-coverage that a client <i>accepted</i> was $400 million.
+policy under which we could have lost $1 billion; the largest 
+coverage that a client accepted was $400 million.
 
      We will get hit from time to time with large losses.  Charlie 
 and I, however, are quite willing to accept relatively volatile 
@@ -711,7 +705,7 @@ balance sheet weren't adequate for ordinary claims, much less those
 likely to arise from asbestos and environmental problems; most of 
 his reinsurers had long since gone broke, leaving him holding the 
 sack.  But then the CEO brightened:  "Still, things could be a lot 
-worse," he said.  "It could be <i>my</i> money."  At Berkshire, it's <i>our</i> 
+worse," he said.  "It could be my money."  At Berkshire, it's our 
 money.
 
      Berkshire's other insurance operations, though relatively 
@@ -739,7 +733,7 @@ a business still better in quality, much improved in its growth
 prospects, and doubled in size.  More than ever, insurance is our 
 core strength.
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table below shows the main sources of Berkshire's reported 
 earnings.  In this presentation, purchase-premium charges are not 
@@ -753,14 +747,14 @@ business-by-business.  The total earnings we show in the table are,
 of course, identical to the GAAP total in our audited financial 
 statements.
 
-                                             <i>(in millions)
+                                             (in millions)
                                  ---------------------------------------
                                                        Berkshire's Share  
                                                         of Net Earnings  
                                                        (after taxes and  
                                   Pre-Tax Earnings    minority interests)
                                  ------------------   ------------------
-                                   1995      1994       1995      1994</i> 
+                                   1995      1994       1995      1994 
                                  --------  --------   --------  --------
 Operating Earnings:
   Insurance Group:
@@ -790,10 +784,10 @@ Decline in Value of
 Total Earnings - All Entities    $1,008.8    $662.2    $725.2    $494.8 
                                  =========  ========  ========  ========
 
-<i>(1) Includes R.C. Willey from June 29, 1995.        
+(1) Includes R.C. Willey from June 29, 1995.        
 (2) Includes Helzberg's from April 30, 1995.
 (3) Jewelry earnings were included in "Other" in 1994.
-(4) Excludes interest expense of Finance Businesses.</i>
+(4) Excludes interest expense of Finance Businesses.
 
      A large amount of information about these businesses is given 
 on pages 41-52, where you will also find our segment earnings 
@@ -860,15 +854,15 @@ them feeling this way, and so far we seem to have succeeded:
 Thinking back over the 1965-95 period, I can't recall that a single 
 key manager has left Berkshire to join another employer.
 
-<b>Common Stock Investments</b>
+Common Stock Investments
 
      Below we present our common stock investments.  Those with a 
 market value of more than $600 million are itemized.
-<i>									
+									
                                                            12/31/95
    Shares    Company                                    Cost      Market 
  ----------  -------                                  --------   --------
-                                                     (dollars in millions)</i>
+                                                     (dollars in millions)
  49,456,900  American Express Company .............   $1,392.7   $2,046.3
  20,000,000  Capital Cities/ABC, Inc. .............      345.0    2,467.5
 100,000,000  The Coca-Cola Company ................    1,298.9    7,425.0
@@ -876,7 +870,7 @@ market value of more than $600 million are itemized.
                 ("Freddie Mac") ...................      260.1    1,044.0
  34,250,000  GEICO Corp. ..........................       45.7    2,393.2
  48,000,000  The Gillette Company .................      600.0    2,502.0
-  6,791,218  Wells Fargo &amp; Company ................      423.7    1,466.9
+  6,791,218  Wells Fargo & Company ................      423.7    1,466.9
              Others ...............................    1,379.0    2,655.4
                                                       --------  ---------
              Total Common Stocks ..................   $5,745.1  $22,000.3
@@ -920,7 +914,7 @@ In 1967 I sold out at 48 per share.
      Oh well - we're happy to be once again a large owner of a 
 business with both unique assets and outstanding management.
 
-<b>Convertible Preferred Stocks</b>
+Convertible Preferred Stocks
 
      As many of you will remember, Berkshire made five private 
 purchases of convertible preferred stocks during the 1987-91 period 
@@ -930,7 +924,7 @@ particulars:
                                 Dividend    Year of                Market
      Company                      Rate      Purchase     Cost      Value 
      -------                    --------    --------    ------    --------
-                                                       <i>(dollars in millions)</i>
+                                                       (dollars in millions)
 					
 Champion International Corp. ... 9 1/4%       1989       $300      $388(1)
 First Empire State Corp. .......     9%       1991         40       110	
@@ -938,9 +932,9 @@ The Gillette Company ........... 8 3/4%       1989        600     2,502(2)
 Salomon Inc ....................     9%       1987        700       728(3)
 USAir Group, Inc. .............. 9 1/4%       1989        358       215
 
-<i>(1) Proceeds from sale of common we received through conversion in 1995.
+(1) Proceeds from sale of common we received through conversion in 1995.
 (2) 12/31/95 value of common we received through conversion in 1991.
-(3) Includes $140 we received in 1995 from partial redemption.</i> 
+(3) Includes $140 we received in 1995 from partial redemption. 
 
      In each case we had the option of sticking with these 
 preferreds as fixed-income securities or converting them into 
@@ -1070,7 +1064,7 @@ the fact that we are dealing with a weak credit.
      We feel much better about our USAir preferred than we did a 
 year ago, but your guess is as good as mine as to its ultimate 
 value.  (Indeed, considering my record with this investment, it's 
-fair to say that your guess may be <i>better</i> than mine.)  At yearend 
+fair to say that your guess may be better than mine.)  At yearend 
 we carried our preferred (in which there is no public market) at 
 60% of par, though USAir also has outstanding a junior preferred 
 that is significantly inferior to ours in all respects except 
@@ -1084,7 +1078,7 @@ our preferreds as a group have delivered us after-tax returns no
 more than equal to those we could have earned from the medium-term 
 fixed-income issues that they replaced.
 
-<b>A Proposed Recapitalization</b>
+A Proposed Recapitalization
 
      At the Annual Meeting you will be asked to approve a 
 recapitalization of Berkshire, creating two classes of stock.  If 
@@ -1165,8 +1159,8 @@ that gain an important answer to their immediate problems.
      In order to quickly triple small stakes, however, we would 
 have to just as quickly turn our present market capitalization of 
 $43 billion into $129 billion (roughly the market cap of General 
-Electric, America's most highly valued company).  <i>We can't come 
-close to doing that.</i> The very best we hope for is - on average - to 
+Electric, America's most highly valued company).  We can't come 
+close to doing that. The very best we hope for is - on average - to 
 double Berkshire's per-share intrinsic value every five years, and 
 we may well fall far short of that goal.
 
@@ -1180,7 +1174,7 @@ large capital base.
      The unit trusts that have recently surfaced fly in the face of 
 these goals.  They would be sold by brokers working for big 
 commissions, would impose other burdensome costs on their 
-shareholders, and would be marketed <i>en masse</i> to unsophisticated 
+shareholders, and would be marketed en masse to unsophisticated 
 buyers, apt to be seduced by our past record and beguiled by the 
 publicity Berkshire and I have received in recent years.  The sure 
 outcome:  a multitude of investors destined to be disappointed.
@@ -1196,8 +1190,8 @@ five years, its market price has grown still faster.  The stock, in
 other words, has outperformed the business.
 
      That kind of market overperformance cannot persist indefinitely, 
-neither for Berkshire nor any other stock.  <i>Inevitably, there 
-will be periods of underperformance as well.</i>  The price 
+neither for Berkshire nor any other stock.  Inevitably, there 
+will be periods of underperformance as well.  The price 
 volatility that results, though endemic to public markets, is 
 not to our liking.  What we would prefer instead is to have the 
 market price of Berkshire precisely track its intrinsic value.  
@@ -1216,7 +1210,7 @@ unit trusts - and that is the reason we are creating the B stock.
      We look forward to answering your questions about the 
 recapitalization at the Annual Meeting.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      Berkshire isn't the only American corporation utilizing the 
 new, exciting ABWA strategy.  At about 1:15 p.m. on July 14, 1995, 
@@ -1284,12 +1278,12 @@ friends with substantial holdings missed the deadline.  We had to
 deny their requests to be included because we can't make exceptions 
 for some shareholders while refusing to make them for others.
 
-     <i>To participate in future programs, you must own Class A shares 
+     To participate in future programs, you must own Class A shares 
 that are registered in the name of the actual owner, not the 
 nominee name of a broker, bank or depository.  Shares not so 
 registered on August 31, 1996, will be ineligible for the 1996 
 program.  When you get the form, return it promptly so that it does 
-not get put aside or forgotten.</i>
+not get put aside or forgotten.
 
                       * * * * * * * * * * * *
 
@@ -1414,6 +1408,6 @@ rare T-bone with a double order of hash browns.
                                              Warren E. Buffett
 March 1, 1996                                Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+
+

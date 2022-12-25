@@ -33,7 +33,7 @@ def get_links(url, headers):
     return links
 
 
-def get_html(url, links, headers):
+def html_to_text(url, links, headers):
     """=============================================================================================
     This function takes a url and list of sublinks that lead to html webpages and writes their
     text content to an individual file.
@@ -48,18 +48,19 @@ def get_html(url, links, headers):
         os.mkdir('html_letters')
 
     # Iterate over each webpage
-    for link in links:
+    for i, link in enumerate(links):
 
         # Get content of webpage, parse with beautiful soup
         request = requests.get(url+link, headers=headers, timeout=5)
         letter = BeautifulSoup(request.text, 'html.parser')
+        letter = letter.get_text()
 
         # Write to file as is
-        with open(f'html_letters/{link}', 'w', encoding='utf8') as file:
+        with open(f'html_letters/{i+1977}.txt', 'w', encoding='utf8') as file:
             file.write(str(letter))
 
 
-def get_pdf(url, links):
+def pdf_to_text(url, links):
     """=============================================================================================
     This function takes a url and list of sublinks that lead to pdf webpages and writes their text
     content to an individual file.
@@ -108,7 +109,7 @@ def main():
     # Get letters from html webpages
     url = 'https://www.berkshirehathaway.com/letters/'
     html_letters = links[:21]
-    #get_html(url, html_letters, headers)
+    html_to_text(url, html_letters, headers)
 
     # Some links to pdfs are behind another link - manually alter list of pdf links
     pdf_letters = links[27:]
@@ -117,7 +118,7 @@ def main():
     pdf_letters = more_pdf + pdf_letters
 
     # Get letters from pdf webpages (these pages don't require a user-agent)
-    get_pdf(url, pdf_letters)
+    pdf_to_text(url, pdf_letters)
 
 if __name__ == '__main__':
     main()

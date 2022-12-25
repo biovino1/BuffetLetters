@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1988</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1988
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Our gain in net worth during 1988 was $569 million, or 
 20.0%.  Over the last 24 years (that is, since present management 
@@ -105,7 +99,7 @@ this letter, delivers exactly what we look for: an outstanding
 business run by people we like, admire, and trust.  Its a great 
 way to start the year.
 
-<b>Accounting Changes</b>
+Accounting Changes
 
      We have made a significant accounting change that was 
 mandated for 1988, and likely will have another to make in 1990.  
@@ -123,7 +117,7 @@ creditors - and indeed they should.  After all, any manager of a
 subsidiary company would find himself in hot water if he reported 
 barebones GAAP numbers that omitted key information needed by his 
 boss, the parent corporations CEO.  Why, then, should the CEO 
-himself withhold information vitally useful to <i>his</i> bosses - the 
+himself withhold information vitally useful to his bosses - the 
 shareholder-owners of the corporation?
 
      What needs to be reported is data - whether GAAP, non-GAAP, 
@@ -269,7 +263,7 @@ approach and we want to supply the information they need.  In our
 own investing, we search for situations in which both approaches 
 give us the same answer.
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      In addition to supplying you with our new four-sector 
 accounting material, we will continue to list the major sources 
@@ -302,7 +296,7 @@ industry, yet Dave consistently achieves good returns on invested
 capital.  Though data is lacking to prove the point, I think it 
 is likely that his performance, both in 1988 and years past, 
 would rank him number one among his peers.
-<i>
+
                                                (000s omitted) 
                                  ------------------------------------------
                                                          Berkshire's Share 
@@ -310,7 +304,7 @@ would rank him number one among his peers.
                                                          (after taxes and 
                                    Pre-Tax Earnings     minority interests)
                                  -------------------    -------------------
-                                   1988       1987        1988       1987 </i>
+                                   1988       1987        1988       1987 
                                  --------   --------    --------   --------
 Operating Earnings:
   Insurance Group:
@@ -338,7 +332,7 @@ Sales of Securities ............  131,671     28,838      85,829     19,806
                                  --------   --------    --------   --------
 Total Earnings - All Entities .. $550,121   $310,514    $399,270   $234,552
 
-<i>*Excludes interest expense of Scott Fetzer Financial Group.</i>
+*Excludes interest expense of Scott Fetzer Financial Group.
 
      The earnings achieved by our operating businesses are 
 superb, whether measured on an absolute basis or against those of 
@@ -359,7 +353,7 @@ teach a new dog old tricks.
 
      Heres an update on our major non-insurance operations:
 
-   <b>o</b> At Nebraska Furniture Mart, Mrs. B (Rose Blumkin) and her 
+   o At Nebraska Furniture Mart, Mrs. B (Rose Blumkin) and her 
 cart roll on and on.  Shes been the boss for 51 years, having 
 started the business at 44 with $500. (Think what she would have 
 done with $1,000!) With Mrs. B, old age will always be ten years 
@@ -396,7 +390,7 @@ winning Blumkin team.  Its a joy to work with this family.  All
 its members have character that matches their extraordinary 
 abilities.
 
-   <b>o</b> Last year I stated unequivocally that pre-tax margins at 
+   o Last year I stated unequivocally that pre-tax margins at 
 The Buffalo News would fall in 1988.  That forecast would have 
 proved correct at almost any other newspaper our size or larger.  
 But Stan Lipsey - bless him - has managed to make me look 
@@ -420,7 +414,7 @@ were youngsters, and we have had great fun with the News in the
 Light, a top-flight editor, on the scene when we arrived and he 
 has made us proud of the paper ever since.
 
-   <b>o</b> Sees Candies sold a record 25.1 million pounds in 1988.  
+   o Sees Candies sold a record 25.1 million pounds in 1988.  
 Prospects did not look good at the end of October, but excellent 
 Christmas volume, considerably better than the record set in 
 1987, turned the tide.
@@ -438,7 +432,7 @@ are sold.
 five minutes after we bought the company.  Upon reviewing his 
 record, you may wonder what took us so long.
 
-   <b>o</b> At Fechheimer, the Heldmans - Bob, George, Gary, Roger and 
+   o At Fechheimer, the Heldmans - Bob, George, Gary, Roger and 
 Fred - are the Cincinnati counterparts of the Blumkins.  Neither 
 furniture retailing nor uniform manufacturing has inherently 
 attractive economics.  In these businesses, only exceptional 
@@ -452,13 +446,13 @@ a lot of heredity in that family.)
 Charlie and I have such confidence in the business savvy of the 
 Heldman family that we okayed the deal without even looking at 
 it.  There are very few managements anywhere - including those 
-running the top tier companies of the <u>Fortune 500</u> - in which we 
+running the top tier companies of the Fortune 500 - in which we 
 would exhibit similar confidence.
 
      Because of both this acquisition and some internal growth, 
 sales at Fechheimer should be up significantly in 1989.
 
-   <b>o</b> All of the operations managed by Ralph Schey - World Book, 
+   o All of the operations managed by Ralph Schey - World Book, 
 Kirby, and The Scott Fetzer Manufacturing Group - performed 
 splendidly in 1988.  Returns on the capital entrusted to Ralph 
 continue to be exceptional.
@@ -482,7 +476,7 @@ venture capital operation that has spawned sixteen Ohio-based
 companies and resurrected many others.  Both Ohio and Berkshire 
 are fortunate to have Ralph on their side.
 
-<b>Borsheims</b>
+Borsheims
 
      It was in 1983 that Berkshire purchased an 80% interest in 
 The Nebraska Furniture Mart.  Your Chairman blundered then by 
@@ -555,15 +549,15 @@ because they have deserved success.  Both families focus on
 whats right for the customer and that, inevitably, works out 
 well for them, also.  We couldnt have better partners.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      Shown below is an updated version of our usual table 
 presenting key figures for the insurance industry:
-<i>
+
                               Statutory
           Yearly Change    Combined Ratio    Yearly Change   Inflation Rate 
            in Premiums   After Policyholder   in Incurred     Measured by 
-           Written (%)        Dividends        Losses (%)   GNP Deflator (%)</i>
+           Written (%)        Dividends        Losses (%)   GNP Deflator (%)
           -------------  ------------------  -------------  ----------------
 1981 .....     3.8              106.0             6.5              9.6
 1982 .....     3.7              109.6             8.4              6.4
@@ -696,7 +690,7 @@ their recognition that they are far underreserved. in the
 meantime, we will retain our talented professionals, protect our 
 capital, and try not to make major mistakes.
 
-<b>Marketable Securities</b>
+Marketable Securities
 
      In selecting marketable securities for our insurance 
 companies, we can choose among five major categories: (1) long-
@@ -712,14 +706,14 @@ alternatives we think we understand.  Our criteria have nothing
 to do with maximizing immediately reportable earnings; our goal, 
 rather, is to maximize eventual net worth.
 
-   <b>o</b> Below we list our common stock holdings having a value over 
+   o Below we list our common stock holdings having a value over 
 $100 million, not including arbitrage commitments, which will be 
 discussed later.  A small portion of these investments belongs to 
 subsidiaries of which Berkshire owns less than 100%.
-<i>
+
    Shares   Company                                    Cost       Market
    ------   -------                                 ----------  ----------
-                                                        (000s omitted) </i>
+                                                        (000s omitted) 
  3,000,000  Capital Cities/ABC, Inc. ..............  $517,500   $1,086,750
 14,172,500  The Coca-Cola Company .................   592,540      632,448
  2,400,000  Federal Home Loan Mortgage 
@@ -727,8 +721,8 @@ subsidiaries of which Berkshire owns less than 100%.
  6,850,000  GEICO Corporation .....................    45,713      849,400
  1,727,765  The Washington Post Company ...........     9,731      364,126
 
-<i>*Although  nominally a preferred stock, this security is 
- financially equivalent to a common stock.</i>
+*Although  nominally a preferred stock, this security is 
+ financially equivalent to a common stock.
 
      Our permanent holdings - Capital Cities/ABC, Inc., GEICO 
 Corporation, and The Washington Post Company - remain unchanged.  
@@ -794,7 +788,7 @@ that we are linked with the managers of our three permanent
 holdings.  They love their businesses, they think like owners, 
 and they exude integrity and ability.
 
-   <b>o</b> In 1988 we made major purchases of Federal Home Loan 
+   o In 1988 we made major purchases of Federal Home Loan 
 Mortgage Pfd. (Freddie Mac) and Coca Cola.  We expect to hold 
 these securities for a long time.  In fact, when we own portions 
 of outstanding businesses with outstanding managements, our 
@@ -815,7 +809,7 @@ convictions.  Therefore, when we find such a business, we want to
 participate in a meaningful way.  We agree with Mae West: Too 
 much of a good thing can be wonderful.
 
-   <b>o</b> We reduced our holdings of medium-term tax-exempt bonds by 
+   o We reduced our holdings of medium-term tax-exempt bonds by 
 about $100 million last year.  All of the bonds sold were 
 acquired after August 7, 1986. When such bonds are held by 
 property-casualty insurance companies, 15% of the tax-exempt 
@@ -856,7 +850,7 @@ over the life of our preferred.  However, the overwhelming
 portion of the preferreds value resides in its fixed-income 
 characteristics, not its equity characteristics.
 
-   <b>o</b> We have not lost our aversion to long-term bonds.  We will 
+   o We have not lost our aversion to long-term bonds.  We will 
 become enthused about such securities only when we become 
 enthused about prospects for long-term stability in the 
 purchasing power of money.  And that kind of stability isnt in 
@@ -875,7 +869,7 @@ annual report, and are pleased to tell you that this commitment
 has worked out about as expected.  At the time of purchase, most 
 of our bonds were yielding around 17% after taxes and carried no 
 ratings, which had been suspended.  Recently, the bonds were 
-rated AA- by Standard &amp; Poors.  They now sell at levels only 
+rated AA- by Standard & Poors.  They now sell at levels only 
 slightly below those enjoyed by top-grade credits.
 
      In the 1983 report, we compared the economics of our WPPSS 
@@ -891,7 +885,7 @@ hope that we run into some other large stigmatized issue, whose
 troubles have caused it to be significantly misappraised by the 
 market.
 
-<b>Arbitrage</b>
+Arbitrage
 
      In past reports we have told you that our insurance 
 subsidiaries sometimes engage in arbitrage as an alternative to 
@@ -930,12 +924,12 @@ the announced event wont happen.
 
      Some offbeat opportunities occasionally arise in the 
 arbitrage field.  I participated in one of these when I was 24 
-and working in New York for Graham-Newman Corp. Rockwood &amp; Co., 
+and working in New York for Graham-Newman Corp. Rockwood & Co., 
 a Brooklyn based chocolate products company of limited 
 profitability, had adopted LIFO inventory valuation in 1941 
 when cocoa was selling for 5¢ per pound.  In 1954 a 
 temporary shortage of cocoa caused the price to soar to over 
-60&amp;cent.  Consequently Rockwood wished to unload its valuable 
+60&cent.  Consequently Rockwood wished to unload its valuable 
 inventory - quickly, before the price dropped.  But if the cocoa 
 had simply been sold off, the company would have owed close to 
 a 50% tax on the proceeds.
@@ -987,7 +981,7 @@ financing glitches, etc.?
      Arcata Corp., one of our more serendipitous arbitrage 
 experiences, illustrates the twists and turns of the business.  
 On September 28, 1981 the directors of Arcata agreed in principle 
-to sell the company to Kohlberg, Kravis, Roberts &amp; Co. (KKR), 
+to sell the company to Kohlberg, Kravis, Roberts & Co. (KKR), 
 then and now a major leveraged-buy out firm.  Arcata was in the 
 printing and forest products businesses and had one other thing 
 going for it: In 1978 the U.S. Government had taken title to 
@@ -1165,7 +1159,7 @@ our view, often unwarranted - optimism of both buyers and
 lenders.  In our activities, we will heed the wisdom of Herb 
 Stein: If something cant go on forever, it will end.
 
-<b>Efficient Market Theory</b>
+Efficient Market Theory
 
      The preceding discussion about arbitrage makes a small 
 discussion of efficient market theory (EMT) also seem relevant.  
@@ -1180,8 +1174,8 @@ having prospects just as good as one selected by the brightest,
 most hard-working security analyst.  Amazingly, EMT was embraced 
 not only by academics, but by many investment professionals and 
 corporate managers as well.  Observing correctly that the market 
-was <i>frequently</i> efficient, they went on to conclude incorrectly 
-that it was <i>always</i> efficient.  The difference between these 
+was frequently efficient, they went on to conclude incorrectly 
+that it was always efficient.  The difference between these 
 propositions is night and day.
 
      In my opinion, the continuous 63-year arbitrage experience 
@@ -1248,7 +1242,7 @@ exercising discipline.  Investing in arbitrage situations, per
 se, is no better a strategy than selecting a portfolio by 
 throwing darts.
 
-<b>New York Stock Exchange Listing</b>
+New York Stock Exchange Listing
 
      Berkshires shares were listed on the New York Stock 
 Exchange on November 29, 1988.  On pages 50-51 we reproduce the 
@@ -1318,7 +1312,7 @@ uninteresting to those with short-term or unrealistic
 expectations - Berkshire shares should consistently sell at 
 prices reasonably related to business value.
 
-<b>David L. Dodd</b>
+David L. Dodd
 
      Dave Dodd, my friend and teacher for 38 years, died last 
 year at age 93.  Most of you dont know of him.  Yet any long-
@@ -1326,7 +1320,7 @@ time shareholder of Berkshire is appreciably wealthier because of
 the indirect influence he had upon our company.
 
      Dave spent a lifetime teaching at Columbia University, and 
-he co-authored <i>Security Analysis</i> with Ben Graham.  From the 
+he co-authored Security Analysis with Ben Graham.  From the 
 moment I arrived at Columbia, Dave personally encouraged and 
 educated me; one influence was as important as the other.  
 Everything he taught me, directly or through his book, made 
@@ -1357,7 +1351,7 @@ right from the start.
 principles taught by Dave and Ben Graham.  Our prosperity is the 
 fruit of their intellectual tree.
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      We hope to buy more businesses that are similar to the ones 
 we have, and we can use some help.  If you have a business that 
@@ -1417,7 +1411,7 @@ term investment, as we did at Salomon.
 
                              *  *  *
 
-     We received some good news a few weeks ago: Standard &amp; 
+     We received some good news a few weeks ago: Standard & 
 Poors raised our credit rating to AAA, which is the highest 
 rating it bestows.  Only 15 other U.S. industrial or property-
 casualty companies are rated AAA, down from 28 in 1980.
@@ -1476,6 +1470,5 @@ who doesnt know anything about carpet.
                                          Warren E. Buffett
 February 28, 1989                        Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+

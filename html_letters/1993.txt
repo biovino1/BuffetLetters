@@ -1,24 +1,18 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1993</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1993
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
 
      Our per-share book value increased 14.3% during 1993.  Over 
@@ -70,7 +64,7 @@ to fast-forward through this discussion:
             market, whereas equities held by our non-
             insurance subsidiaries or by the parent company 
             were carried at their aggregate cost or market, 
-            whichever was lower.  Now GAAP says that <i>all</i> 
+            whichever was lower.  Now GAAP says that all 
             common stocks should be carried at market, a 
             rule we began following in the fourth quarter 
             of 1993.  This change produced a gain in 
@@ -159,7 +153,7 @@ businesses and managers comparable to those we have.  Despite
 that difficulty, Charlie and I relish the search, and we are 
 happy to report an important success in 1993.
 
-<b>Dexter Shoe</b>
+Dexter Shoe
 
      What we did last year was build on our 1991 purchase of H. 
 H. Brown, a superbly-run manufacturer of work shoes, boots and 
@@ -173,7 +167,7 @@ nurses' shoes, but its business needed some fixing.  Again,
 results have surpassed our expectations.  So we promptly jumped 
 at the chance last year to acquire Dexter Shoe of Dexter, Maine, 
 which manufactures popular-priced men's and women's shoes.  
-Dexter, I can assure you, needs <i>no</i> fixing:  It is one of the 
+Dexter, I can assure you, needs no fixing:  It is one of the 
 best-managed companies Charlie and I have seen in our business 
 lifetimes.
 
@@ -260,7 +254,7 @@ for a few other owners of large private businesses.  So, if you
 have a business that might fit, let me hear from you.  Our 
 acquisition criteria are set forth in the appendix on page 22.
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table below shows the major sources of Berkshire's 
 reported earnings.  In this presentation, amortization of 
@@ -275,7 +269,7 @@ GAAP, which requires purchase-price adjustments to be made on a
 business-by-business basis.  The total net earnings we show in 
 the table are, of course, identical to the GAAP total in our 
 audited financial statements.
-<i>
+
                                                (000s omitted)               
                                  ------------------------------------------
                                                           Berkshire's Share  
@@ -284,7 +278,7 @@ audited financial statements.
                                     Pre-Tax Earnings     minority interests)  
                                  ----------------------  ------------------
                                     1993        1992       1993       1992 
-                                 ----------  ----------  --------  --------</i>
+                                 ----------  ----------  --------  --------
  
 Operating Earnings:
   Insurance Group:
@@ -293,14 +287,14 @@ Operating Earnings:
   H. H. Brown, Lowell, 
       and Dexter ...............     44,025*     27,883    28,829    17,340 	
   Buffalo News .................     50,962      47,863    29,696    28,163 
-  Commercial &amp; Consumer Finance      22,695      19,836    14,161    12,664 
+  Commercial & Consumer Finance      22,695      19,836    14,161    12,664 
   Fechheimer ...................     13,442      13,698     6,931     7,267 
   Kirby ........................     39,147      35,653    25,056    22,795 
   Nebraska Furniture Mart ......     21,540      17,110    10,398     8,072 
   Scott Fetzer Manufacturing Group   38,196      31,954    23,809    19,883 	
   See's Candies ................     41,150      42,357    24,367    25,501 
   World Book ...................     19,915      29,044    13,537    19,503 
-  Purchase-Price Accounting &amp; 
+  Purchase-Price Accounting & 
       Goodwill Charges .........    (17,033)    (12,087)  (13,996)  (13,070)	
   Interest Expense** ...........    (56,545)    (98,643)  (35,614)  (62,899)
   Shareholder-Designated 
@@ -314,12 +308,12 @@ Tax Accruals Caused by
                                  ----------  ----------  --------  --------
 Total Earnings - All Entities .. $1,189,718   $ 550,617  $688,121  $407,285 
 
-<i>* Includes Dexter's earnings only from the date it was acquired, 
+* Includes Dexter's earnings only from the date it was acquired, 
   November 7, 1993.
 
 **Excludes interest expense of Commercial and Consumer Finance 
   businesses.  In 1992 includes $22.5 million of premiums paid on 
-  the early redemption of debt.</i>
+  the early redemption of debt.
 
      A large amount of information about these businesses is given 
 on pages 38-49, where you will also find our segment earnings 
@@ -330,7 +324,7 @@ I think about the company.  Our intent is to supply you with the
 financial information that we would wish you to give us if our 
 positions were reversed.
 
-<b>"Look-Through" Earnings</b>
+"Look-Through" Earnings
 
      We've previously discussed look-through earnings, which we 
 believe more accurately portray the earnings of Berkshire than does 
@@ -353,7 +347,7 @@ risen to about $1.85 billion.
 
      That is a tough goal, but one that we expect you to hold us 
 to.  In the past, we've criticized the managerial practice of 
-shooting the arrow of performance and <i>then</i> painting the target, 
+shooting the arrow of performance and then painting the target, 
 centering it on whatever point the arrow happened to hit.  We will 
 instead risk embarrassment by painting first and shooting later.
 
@@ -366,7 +360,7 @@ because we are long on cash.  There's no use running if you're on
 the wrong road.
 
      The following table shows how we calculate look-through 
-earnings, though I warn you that the figures are necessarily <i>very</i> 
+earnings, though I warn you that the figures are necessarily very 
 rough.  (The dividends paid to us by these investees have been 
 included in the operating earnings itemized on page 8, mostly 
 under "Insurance Group:  Net Investment Income.") 
@@ -387,7 +381,7 @@ General Dynamics Corp. .......    13.9%     14.1%           25        11(2)
 The Gillette Company .........    10.9%     10.9%           44        38
 Guinness PLC .................     1.9%      2.0%            8         7
 The Washington Post Company ..    14.8%     14.6%           15        11
-Wells Fargo &amp; Company ........    12.2%     11.5%           53(2)     16(2)
+Wells Fargo & Company ........    12.2%     11.5%           53(2)     16(2)
 
 Berkshire's share of undistributed 
    earnings of major investees                            $439      $298
@@ -424,7 +418,7 @@ these shares.
 and therefore believe our look-through earnings to be a 
 conservative representation of Berkshire's true economic earnings.
 
-<b>Taxes</b>
+Taxes
 
      As our Cap Cities sale emphasizes, Berkshire is a substantial 
 payer of federal income taxes.  In aggregate, we will pay 1993 
@@ -498,7 +492,7 @@ compounds internally at a given rate than from a succession of
 investments compounding at the same rate.  But I suspect many 
 Berkshire shareholders figured that out long ago.
 
-<b>Insurance Operations</b>
+Insurance Operations
 
      At this point in the report we've customarily provided you 
 with a table showing the annual "combined ratio" of the insurance 
@@ -535,7 +529,7 @@ than it did then.
      Only by making an analysis that incorporates both underwriting 
 results and the current risk-free earnings obtainable from float 
 can one evaluate the true economics of the business that a 
-property-casualty insurer writes.  Of course, the <i>actual</i> investment 
+property-casualty insurer writes.  Of course, the actual investment 
 results that an insurer achieves from the use of both float and 
 stockholders' funds is also of major importance and should be 
 carefully examined when an investor is assessing managerial 
@@ -609,7 +603,7 @@ private insurers.
 year result that the super-cat business is a wonderful one, or even 
 a satisfactory one.  A simple example will illustrate the fallacy: 
 Suppose there is an event that occurs 25 times in every century.  
-If you annually give 5-for-1 odds against its occurrence <i>that</i> year, 
+If you annually give 5-for-1 odds against its occurrence that year, 
 you will have many more winning years than losers.  Indeed, you may 
 go a straight six, seven or more years without loss.  You also will 
 eventually go broke.
@@ -680,14 +674,14 @@ its results will be highly volatile, this operation possesses an
 intrinsic value that exceeds its book value by a large amount - 
 larger, in fact, than is the case at any other Berkshire business.
 
-<b>Common Stock Investments</b>
+Common Stock Investments
 
      Below we list our common stockholdings having a value of over 
 $250 million.  A small portion of these investments belongs to 
 subsidiaries of which Berkshire owns less than 100%.
-<i>
+
                                                            12/31/93
-  Shares    Company                                   Cost         Market</i>
+  Shares    Company                                   Cost         Market
   ------    -------                                ----------    ----------
                                                         (000s omitted)
  2,000,000  Capital Cities/ABC, Inc. ............. $  345,000    $1,239,000
@@ -699,7 +693,7 @@ subsidiaries of which Berkshire owns less than 100%.
 24,000,000  The Gillette Company .................    600,000     1,431,000
 38,335,000  Guinness PLC .........................    333,019       270,822
  1,727,765  The Washington Post Company. .........      9,731       440,148
- 6,791,218  Wells Fargo &amp; Company ................    423,680       878,614
+ 6,791,218  Wells Fargo & Company ................    423,680       878,614
 
      Considering the similarity of this year's list and the last, 
 you may decide your management is hopelessly comatose.  But we 
@@ -727,7 +721,7 @@ would exhibit if he owned all of that business.
      Earlier I mentioned the financial results that could have been 
 achieved by investing $40 in The Coca-Cola Co. in 1919.  In 1938, 
 more than 50 years after the introduction of Coke, and long after 
-the drink was firmly established as an American icon, <i>Fortune</i> did 
+the drink was firmly established as an American icon, Fortune did 
 an excellent story on the company.  In the second paragraph the 
 writer reported:  "Several times every year a weighty and serious 
 investor looks long and with profound respect at Coca-Cola's 
@@ -747,7 +741,7 @@ reinvested) turned into $3,277 by the end of 1938, a fresh $40 then
 invested in Coca-Cola stock would have grown to $25,000 by yearend 
 1993.
 
-     I can't resist one more quote from that 1938 <i>Fortune</i> story:  
+     I can't resist one more quote from that 1938 Fortune story:  
 "It would be hard to name any company comparable in size to Coca-
 Cola and selling, as Coca-Cola does, an unchanged product that can 
 point to a ten-year record anything like Coca-Cola's."  In the 55 
@@ -767,7 +761,7 @@ idea a year.  (Charlie says it's my turn.)
 diversification dogma.  Many pundits would therefore say the 
 strategy must be riskier than that employed by more conventional 
 investors.  We disagree.  We believe that a policy of portfolio 
-concentration may well <i>decrease</i> risk if it raises, as it should,  
+concentration may well decrease risk if it raises, as it should,  
 both the intensity with which an investor thinks about a business 
 and the comfort-level he must feel with its economic characteristics 
 before buying into it.  In stating this opinion, we define risk, 
@@ -793,8 +787,8 @@ becomes "riskier" at the lower price than it was at the higher
 price.  Would that description have then made any sense to someone 
 who was offered the entire company at a vastly-reduced price?
 
-     In fact, the true investor <i>welcomes</i> volatility.  Ben Graham 
-explained why in Chapter 8 of <i>The Intelligent Investor.</i>  There he 
+     In fact, the true investor welcomes volatility.  Ben Graham 
+explained why in Chapter 8 of The Intelligent Investor.  There he 
 introduced "Mr. Market," an obliging fellow who shows up every day 
 to either buy from you or sell to you, whichever you wish.  The 
 more manic-depressive this chap is, the greater the opportunities 
@@ -857,7 +851,7 @@ price histories.
 
      Is it really so difficult to conclude that Coca-Cola and 
 Gillette possess far less business risk over the long term than, 
-say, <i>any</i> computer company or retailer?  Worldwide, Coke sells about 
+say, any computer company or retailer?  Worldwide, Coke sells about 
 44% of all soft drinks, and Gillette has more than a 60% share (in 
 value) of the blade market.  Leaving aside chewing gum, in which 
 Wrigley is dominant, I know of no other significant businesses in 
@@ -939,7 +933,7 @@ nothing investor can actually out-perform most investment
 professionals.  Paradoxically, when "dumb" money acknowledges its 
 limitations, it ceases to be dumb.
 
-     On the other hand, if you are a know-<i>something</i> investor, able 
+     On the other hand, if you are a know-something investor, able 
 to understand business economics and to find five to ten sensibly-
 priced companies that possess important long-term competitive 
 advantages, conventional diversification makes no sense for you.  
@@ -951,12 +945,12 @@ and that present the least risk, along with the greatest profit
 potential.  In the words of the prophet Mae West:  "Too much of a 
 good thing can be wonderful."
 
-<b>Corporate Governance</b>
+Corporate Governance
 
      At our annual meetings, someone usually asks "What happens to 
 this place if you get hit by a truck?"  I'm glad they are still 
 asking the question in this form.  It won't be too long before the 
-query becomes:  "What happens to this place if you <i>don't</i> get hit by 
+query becomes:  "What happens to this place if you don't get hit by 
 a truck?"
 
      Such questions, in any event, raise a reason for me to discuss 
@@ -1093,7 +1087,7 @@ Most of our other directors are also significant owners of
 Berkshire stock, and each has a strong owner-orientation.  All in 
 all, we're prepared for "the truck."
 
-<b>Shareholder-Designated Contributions</b>
+Shareholder-Designated Contributions
 
      About 97% of all eligible shares participated in Berkshire's 
 1993 shareholder-designated contributions program.  Contributions 
@@ -1124,9 +1118,9 @@ help us implement the instructions that came from our 7,500
 registered shareholders.  I'd guess that the average corporate 
 program in which employee gifts are matched incurs far greater 
 administrative costs.  Indeed, our entire corporate overhead is 
-less than half the size of our charitable contributions.  <font size="-1"><i>(Charlie, 
+less than half the size of our charitable contributions.  (Charlie, 
 however, insists that I tell you that $1.4 million of our $4.9 million overhead is 
-attributable to our corporate jet, The Indefensible.)</i></font>
+attributable to our corporate jet, The Indefensible.)
 
      Below is a list showing the largest categories to which our 
 shareholders have steered their contributions.
@@ -1184,13 +1178,13 @@ Way, and produce roughly commensurate benefits for our businesses.
 
      We suggest that new shareholders read the description of our 
 shareholder-designated contributions program that appears on pages 
-50-51.  <i>To participate in future programs, you must make sure your 
+50-51.  To participate in future programs, you must make sure your 
 shares are registered in the name of the actual owner, not in the 
 nominee name of a broker, bank or depository.  Shares not so 
 registered on August 31, 1994 will be ineligible for the 1994 
-program.</i>
+program.
 
-<b>A Few Personal Items</b>
+A Few Personal Items
 
      Mrs. B - Rose Blumkin - had her 100th birthday on December 3, 
 1993.  (The candles cost more than the cake.)  That was a day on 
@@ -1211,7 +1205,7 @@ audited financial statements, checking real estate records, or
 getting any warranties.  In short, her word was good enough for us.
 
      Naturally, I was delighted to attend Mrs. B's birthday party. 
-After all, she's promised to attend <i>my</i> 100th.
+After all, she's promised to attend my 100th.
 
                      * * * * * * * * * * * *
 
@@ -1229,7 +1223,7 @@ stock, a structure that we've seen some managers abuse.
 
      All of our judgments about this investment have been validated 
 by events.  Kay's skills as a manager were underscored this past 
-year when she was elected by <i>Fortune's</i> Board of Editors to the 
+year when she was elected by Fortune's Board of Editors to the 
 Business Hall of Fame.  On behalf of our shareholders, Charlie and 
 I had long ago put her in Berkshire's Hall of Fame.
 
@@ -1283,7 +1277,7 @@ building Melville Corp. during his 23 year tenure as CEO.  Now, at
 low-key, relaxed style, but don't let that fool you.  When he 
 swings, the ball disappears far over the fence.
 
-<b>The Annual Meeting</b>
+The Annual Meeting
 
      This year the Annual Meeting will be held at the Orpheum 
 Theater in downtown Omaha at 9:30 a.m. on Monday, April 25, 1994.  
@@ -1350,6 +1344,5 @@ scalpers.
                                     Warren E. Buffett
 March 1, 1994                       Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+

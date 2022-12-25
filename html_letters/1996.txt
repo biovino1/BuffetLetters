@@ -1,27 +1,21 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1996</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<p align="CENTER">
-<b>Chairman's Letter</b>
-</p>
-<pre>  
 
 
-<b>To the Shareholders of Berkshire Hathaway Inc.:</b>
+
+
+
+Chairman's Letter - 1996
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+Chairman's Letter
+
+  
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Our gain in net worth during 1996 was $6.2 billion, or 36.1%.  Per-
 share book value, however, grew by less, 31.8%, because the number of 
@@ -29,14 +23,14 @@ Berkshire shares increased:  We issued stock in acquiring FlightSafety
 International and also sold new Class B shares.*   Over the last 32 years 
 (that is, since present management took over) per-share book value has 
 grown from $19 to $19,011, or at a rate of 23.8% compounded annually.
-<i>
+
  * Each Class B share has an economic interest equal to 1/30th of 
    that possessed by a Class A share, which is the new designation for  
    the only stock that Berkshire had outstanding before May 1996.  
    Throughout this report, we state all per-share figures in terms of
    "Class A equivalents," which are the sum of the Class A shares 
    outstanding and 1/30th of the Class B shares outstanding.
-</i>
+
      For technical reasons, we have restated our 1995 financial 
 statements, a matter that requires me to present one of my less-than-
 thrilling explanations of accounting arcana.  I'll make it brief.
@@ -45,10 +39,10 @@ thrilling explanations of accounting arcana.  I'll make it brief.
 subsidiary of Berkshire on January 2, 1996, whereas it was previously 
 classified as an investment.  From an economic viewpoint - taking into 
 account major tax efficiencies and other benefits we gained - the value 
-of the 51% of GEICO we owned at year-end 1995 <i>increased</i> significantly 
+of the 51% of GEICO we owned at year-end 1995 increased significantly 
 when we acquired the remaining 49% of the company two days later.  
 Accounting rules applicable to this type of "step acquisition," however, 
-required us to <i>write down</i> the value of our 51% at the time we moved to 
+required us to write down the value of our 51% at the time we moved to 
 100%.  That writedown - which also, of course, reduced book value - 
 amounted to $478.4 million.  As a result, we now carry our original 51% 
 of GEICO at a value that is both lower than its market value at the time 
@@ -129,7 +123,7 @@ These costs may be lower than those of any other large American
 corporation:  Our after-tax headquarters expense amounts to less than two 
 basis points (1/50th of 1%) measured against net worth.  Even so, Charlie 
 used to think this expense percentage outrageously high, blaming it on my 
-use of Berkshire's corporate jet,<i> The Indefensible</i>.  But Charlie has 
+use of Berkshire's corporate jet, The Indefensible.  But Charlie has 
 recently experienced a "counter-revelation":  With our purchase of 
 FlightSafety, whose major activity is the training of corporate pilots, 
 he now rhapsodizes at the mere mention of jets.
@@ -143,7 +137,7 @@ all of the gains Berkshire makes will end up with shareholders.  We are
 here to make money with you, not off you.
 
 
-<b>The Relationship of Intrinsic Value to Market Price</b>
+The Relationship of Intrinsic Value to Market Price
 
      In last year's letter, with Berkshire shares selling at $36,000, I 
 told you:  (1) Berkshire's gain in market value in recent years had 
@@ -189,7 +183,7 @@ one among large American corporations in the percentage of its shares
 held by owners with a long-term view.
 
 
-<b>Acquisitions of 1996</b>
+Acquisitions of 1996
 
      We made two acquisitions in 1996, both possessing exactly the 
 qualities we seek - excellent business economics and an outstanding 
@@ -282,7 +276,7 @@ us, just employ the tactic of the 76-year-old who persuaded a dazzling
 beauty of 25 to marry him.  "How did you ever get her to accept?" asked 
 his envious contemporaries.  The comeback:  "I told her I was 86."
 
-<b>                	* * * * * * * * * * * *</b>
+                	* * * * * * * * * * * *
 
      And now we pause for our usual commercial:  If you own a large 
 business with good economic characteristics and wish to become associated 
@@ -292,7 +286,7 @@ requirements are set forth on page 21.  If your company meets them - and
 if I fail to make the next birthday party you attend - give me a call.
 
 
-<b>Insurance Operations - Overview</b>
+Insurance Operations - Overview
 
      Our insurance business was terrific in 1996.  In both primary 
 insurance, where GEICO is our main unit, and in our "super-cat" 
@@ -371,7 +365,7 @@ of GEICO materially increases the probability that we can continue to
 obtain "free" funds in increasing amounts.
 
 
-<b>Super-Cat Insurance</b>
+Super-Cat Insurance
 
      As in the past three years, we once again stress that the good results 
 we are reporting for Berkshire stem in part from our super-cat business 
@@ -381,9 +375,9 @@ mega-catastrophes.  Since truly major catastrophes are rare occurrences,
 our super-cat business can be expected to show large profits in most years 
 - and to record a huge loss occasionally.  In other words, the 
 attractiveness of our super-cat business will take a great many years to 
-measure. <i> What you must understand, however, is that a truly terrible year 
+measure.  What you must understand, however, is that a truly terrible year 
 in the super-cat business is not a possibility - it's a certainty.  The 
-only question is when it will come.</i>
+only question is when it will come.
 
      I emphasize this lugubrious point because I would not want you to 
 panic and sell your Berkshire stock upon hearing that some large 
@@ -411,7 +405,7 @@ regularly repeat our cautions.
      We took on some major super-cat exposures during 1996.  At mid-year we 
 wrote a contract with Allstate that covers Florida hurricanes, and though 
 there are no definitive records that would allow us to prove this point, we 
-believe that to have<i> then</i> been the largest single catastrophe risk ever 
+believe that to have then been the largest single catastrophe risk ever 
 assumed by one company for its own account.  Later in the year, however, we 
 wrote a policy for the California Earthquake Authority that goes into 
 effect on April 1, 1997, and that exposes us to a loss more than twice that 
@@ -517,7 +511,7 @@ super-cat business losses, large though the maximums may sound, will not
 put a major dent in Berkshire's intrinsic value. 
 
 
-<b>Insurance - GEICO and Other Primary Operations</b>
+Insurance - GEICO and Other Primary Operations
 
      When we moved to total ownership of GEICO early last year, our 
 expectations were high - and they are all being exceeded.  That is true 
@@ -575,7 +569,7 @@ Tony, are based upon only two key variables:  (1) growth in voluntary auto
 policies and (2) underwriting profitability on "seasoned" auto business 
 (meaning policies that have been on the books for more than one year).  In 
 addition, we use the same yardsticks to calculate the annual contribution 
-to the company's profit-sharing plan. <i> Everyone</i> at GEICO knows what counts.
+to the company's profit-sharing plan.  Everyone at GEICO knows what counts.
 
      The GEICO plan exemplifies Berkshire's incentive compensation 
 principles:  Goals should be (1) tailored to the economics of the specific 
@@ -601,7 +595,7 @@ performance continues to improve, we will happily keep on making larger
 charts.
 
      Lou Simpson continues to manage GEICO's money in an outstanding 
-manner:  Last year, the equities in his portfolio outdid the S&amp;P 500 by 6.2 
+manner:  Last year, the equities in his portfolio outdid the S&P 500 by 6.2 
 percentage points.  In Lou's part of GEICO's operation, we again tie 
 compensation to performance - but to investment performance over a four-
 year period, not to underwriting results nor to the performance of GEICO as 
@@ -613,7 +607,7 @@ can be sure you will get paid commensurately even if the rest of the team
 bats .200.  In Lou and Tony, however, we are lucky to have Hall-of-Famers 
 in both key positions.
 
-<b>                	* * * * * * * * * * * *</b>
+                	* * * * * * * * * * * *
 
      Though they are, of course, smaller than GEICO, our other primary 
 insurance operations turned in equally stunning results last year.  
@@ -634,7 +628,7 @@ unmatched in the industry.  Don, Rod, Brad and John have all created
 significant value for Berkshire, and we believe there is more to come.
 
 
-<b>Taxes</b>
+Taxes
 
      In 1961, President Kennedy said that we should ask not what our 
 country can do for us, but rather ask what we can do for our country.  Last 
@@ -645,7 +639,7 @@ Treasury.
      Here's a little perspective on that figure:  If an equal amount had 
 been paid by only 2,000 other taxpayers, the government would have had a 
 balanced budget in 1996 without needing a dime of taxes - income or Social 
-Security or what have you - from <i>any</i> other American.  Berkshire 
+Security or what have you - from any other American.  Berkshire 
 shareholders can truly say, "I gave at the office."
 
      Charlie and I believe that large tax payments by Berkshire are 
@@ -654,7 +648,7 @@ at most only proportional to its contribution to ours.  Berkshire prospers
 in America as it would nowhere else.
 
 
-<b>Sources of Reported Earnings</b>
+Sources of Reported Earnings
 
      The table that follows shows the main sources of Berkshire's reported 
 earnings.  In this presentation, purchase-accounting adjustments are not 
@@ -670,13 +664,13 @@ total in our audited financial statements.
 
 
 
-<i>				                        (in millions)                       
+				                        (in millions)                       
                                          --------------------------------------
                                  			     Berkshire's Share
 				                              of Net Earnings  
 				                             (after taxes and  
 		                         Pre-tax Earnings   minority interests)  
-</i>                                         ----------------   -------------------
+                                         ----------------   -------------------
                                 	   1996    1995(1)     1996  	1995(1) 
                                          -------  --------   -------    -------
 Operating Earnings:
@@ -703,12 +697,12 @@ Sales of Securities......................2,484.5     194.1   1,605.5     125.0
                                          -------  --------  --------   -------
 Total Earnings - All Entities...........$3,705.9  $1,008.8  $2,488.6   $ 725.2 		
                                          =======  ========  ========   =======
-<i>
+
 (1) Before the GEICO-related restatement.	(3) Includes Helzberg's from
                                                       April 30, 1995.
 (2) Includes R.C. Willey from June 29, 1995.	(4) Excludes interest expense
                                                       of Finance Businesses.
-</i>
+
      In this section last year, I discussed three businesses that reported 
 a decline in earnings - Buffalo News, Shoe Group and World Book.  All, I'm 
 happy to say, recorded gains in 1996.
@@ -745,7 +739,7 @@ that corresponds to the way Charlie and I think about the company.  Our
 intent is to supply you with the financial information that we would wish 
 you to give us if our positions were reversed. 
 
-<b>"Look-Through" Earnings</b>
+"Look-Through" Earnings
 
      Reported earnings are a poor measure of economic progress at 
 Berkshire, in part because the numbers shown in the table presented 
@@ -787,7 +781,7 @@ Federal Home Loan Mortgage Corp.	  8.4%	                    77
 The Gillette Company............	  8.6%	                    73
 McDonald's Corporation..........  	  4.3%	                    38
 The Washington Post Company.....	 15.8%	                    27
-Wells Fargo &amp; Company...........	  8.0%	                    84 
+Wells Fargo & Company...........	  8.0%	                    84 
                                                                 ------
 Berkshire's share of undistributed earnings of major investees..   661 
 Hypothetical tax on these undistributed investee earnings(3)....   (93)	 
@@ -802,13 +796,13 @@ Reported operating earnings of Berkshire........................   954
              the dividends it receives
 
 
-<b>Common Stock Investments</b>
+Common Stock Investments
 
      Below we present our common stock investments.  Those with a market 
 value of more than $500 million are itemized.									
 
                                                      12/31/96
-<i>      Shares	Company	                         Cost*     Market</i>
+      Shares	Company	                         Cost*     Market
  ----------- ---------------------------------  --------  ---------
                                                (dollars in millions)
   49,456,900 American Express Company...........$1,392.7  $ 2,794.3
@@ -818,15 +812,15 @@ value of more than $500 million are itemized.
   48,000,000 The Gillette Company...............   600.0    3,732.0
   30,156,600 McDonald's Corporation............. 1,265.3    1,368.4
    1,727,765 The Washington Post Company........    10.6      579.0
-   7,291,418 Wells Fargo &amp; Company..............   497.8    1,966.9
+   7,291,418 Wells Fargo & Company..............   497.8    1,966.9
  	     Others............................. 1,934.5    3,295.4
                                                 --------  ---------
  	     Total Common Stocks................$7,910.2  $27,750.6
                                                 ========  =========
 
-<i>     * Represents tax-basis cost which, in aggregate, is $1.2 billion 
+     * Represents tax-basis cost which, in aggregate, is $1.2 billion 
           less than GAAP cost.
-</i>
+
      Our portfolio shows little change:  We continue to make more money 
 when snoring than when active.
 
@@ -889,7 +883,7 @@ that underlie Coke's competitive dominance and stunning economics - have
 remained constant through the years.
 
      I was recently studying the 1896 report of Coke (and you think that 
-<i>you</i> are behind in your reading!).  At that time Coke, though it was 
+you are behind in your reading!).  At that time Coke, though it was 
 already the leading soft drink, had been around for only a decade.  But 
 its blueprint for the next 100 years was already drawn.  Reporting sales 
 of $148,000 that year, Asa Candler, the company's president, said:  "We 
@@ -960,9 +954,9 @@ general look outstanding.  All too often, we've seen value stagnate in
 the presence of hubris or of boredom that caused the attention of 
 managers to wander.  That's not going to happen again at Coke and 
 Gillette, however - not given their current and prospective managements.
-<b>
+
                      * * * * * * * * * * * *
-</b>
+
      Let me add a few thoughts about your own investments.  Most 
 investors, both institutional and individual, will find that the best way 
 to own common stocks is through an index fund that charges minimal fees. 
@@ -1013,7 +1007,7 @@ purchasing other businesses, in whole or in part, that are not likely to
 be roiled by change and that possess important competitive advantages.
 
 
-<b>USAir</b>
+USAir
 
      When Richard Branson, the wealthy owner of Virgin Atlantic Airways, 
 was asked how to become a millionaire, he had a quick answer:  "There's 
@@ -1082,7 +1076,7 @@ aren't you smart?"  After reviewing my sorry performance with USAir, you
 may conclude he had a point.
 
 
-<b>Financings</b>
+Financings
 
      We wrote four checks to Salomon Brothers last year and in each case 
 were delighted with the work for which we were paying.  I've already 
@@ -1169,7 +1163,7 @@ performance.  In the case of the 1996 transactions at Salomon Brothers,
 we more than got our money's worth.
 
 
-<b>Miscellaneous</b>
+Miscellaneous
 
      Though it was a close decision, Charlie and I have decided to enter 
 the 20th Century.  Accordingly, we are going to put future quarterly and 
@@ -1196,7 +1190,7 @@ make no change in 1997.  Also, we will definitely keep delivering the
 annual report in its present form in addition to publishing it on the 
 Internet.
 
-<b>                     * * * * * * * * * * * *</b>
+                     * * * * * * * * * * * *
 
      About 97.2% of all eligible shares participated in Berkshire's 1996 
 shareholder-designated contributions program.  Contributions made were 
@@ -1212,14 +1206,14 @@ But if replies are received late, we have to reject them because we
 can't make exceptions for some shareholders while refusing to make them 
 for others.
 
-<i>     To participate in future programs, you must own Class A shares that 
+     To participate in future programs, you must own Class A shares that 
 are registered in the name of the actual owner, not the nominee name of a 
 broker, bank or depository.  Shares not so registered on August 31, 1997, 
 will be ineligible for the 1997 program.  When you get the form, return 
-it promptly so that it does not get put aside or forgotten.</i>
+it promptly so that it does not get put aside or forgotten.
 
 
-<b>The Annual Meeting</b>
+The Annual Meeting
 
      Our capitalist's version of Woodstock -the Berkshire Annual Meeting-
 will be held on Monday, May 5.  Charlie and I thoroughly enjoy this 
@@ -1244,8 +1238,8 @@ Hamburg, our CFO.  (In this company, no one gets by with doing only a
 single job.)
 
      Overcoming our legendary repugnance for activities even faintly 
-commercial, we will also have an abundant array of Berkshire products<i> for 
-sale</i> in the halls outside the meeting room.  Last year we broke all 
+commercial, we will also have an abundant array of Berkshire products for 
+sale in the halls outside the meeting room.  Last year we broke all 
 records, selling 1,270 pounds of See's candy, 1,143 pairs of Dexter 
 shoes, $29,000 of World Books and related publications, and 700 sets of 
 knives manufactured by our Quikut subsidiary.  Additionally, many 
@@ -1290,7 +1284,7 @@ walletectomy on you.
      My favorite steakhouse, Gorat's, was sold out last year on the 
 weekend of the annual meeting, even though it added an additional seating 
 at 4 p.m. on Sunday.  You can make reservations beginning on April 1st 
-<i>(but not earlier)</i> by calling 402-551-3733.  I will be at Gorat's on 
+(but not earlier) by calling 402-551-3733.  I will be at Gorat's on 
 Sunday after Borsheim's, having my usual rare T-bone and double order of 
 hashbrowns.  I can also recommend - this is the standard fare when Debbie 
 Bosanek, my invaluable assistant, and I go to lunch - the hot roast beef 
@@ -1322,6 +1316,6 @@ February 28, 1997				Chairman of the Board
 
 
  
-</pre>
-</body>
-</html>
+
+
+

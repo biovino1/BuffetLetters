@@ -1,23 +1,17 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1978</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
-<i>To the Shareholders of Berkshire Hathaway Inc.:</i>
+
+
+
+Chairman's Letter - 1978
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      First, a few words about accounting.  The merger with 
 Diversified Retailing Company, Inc. at yearend adds two new 
@@ -107,7 +101,7 @@ equity holdings are going to be worth considerably more money
 than we paid, and that investment gains will add significantly to 
 the operating returns of the insurance group.
 
-<i>Sources of Earnings</i>
+Sources of Earnings
 
      To give you a better picture of just where Berkshires 
 earnings are produced, we show below a table which requires a 
@@ -131,13 +125,13 @@ intricacies, the figures in the table should not be treated as
 holy writ, but rather viewed as close approximations of the 1977 
 and 1978 earnings contributions of our constituent businesses.
 
-<i>
+
                                                                          Net Earnings
                                    Earnings Before Income Taxes            After Tax
                               --------------------------------------  ------------------
                                     Total          Berkshire Share     Berkshire Share
                               ------------------  ------------------  ------------------
-(in thousands of dollars)       1978      1977      1978      1977      1978      1977</i>
+(in thousands of dollars)       1978      1977      1978      1977      1978      1977
                               --------  --------  --------  --------  --------  --------
 Total - all entities ......... $66,180   $57,089   $54,350   $42,234   $39,242   $30,393
                               ========  ========  ========  ========  ========  ========
@@ -182,7 +176,7 @@ Eastern Avenue, Los Angeles, California 90040, or to Mrs. Bette
 Deckard for Wesco Financial Corporation, 315 East Colorado 
 Boulevard, Pasadena, California 91109.
 
-<i>Textiles</i>
+Textiles
 
      Earnings of $1.3 million in 1978, while much improved from 
 1977, still represent a low return on the $17 million of capital 
@@ -224,7 +218,7 @@ investment.  As long as these conditions prevail - and we expect
 that they will - we intend to continue to support our textile 
 business despite more attractive alternative uses for capital.
 
-<i>Insurance Underwriting</i>
+Insurance Underwriting
 
      The number one contributor to Berkshires overall excellent 
 results in 1978 was the segment of National Indemnity Companys 
@@ -333,7 +327,7 @@ one than create one.  However, we will continue to try both
 approaches, since the rewards for success in this field can be 
 exceptional.
 
-<i>Insurance Investments</i>
+Insurance Investments
 
      We confess considerable optimism regarding our insurance 
 equity investments.  Of course, our enthusiasm for stocks is not 
@@ -407,11 +401,11 @@ attractiveness, we believe in buying worthwhile amounts.
 
 Equity holdings of our insurance companies with a market value of 
 over $8 million on December 31, 1978 were as follows:
-<i>
+
 No. of
 Shares      Company                                     Cost       Market
 ----------  -------                                  ----------  ----------
-                                                         (000s omitted)</i>
+                                                         (000s omitted)
   246,450   American Broadcasting Companies, Inc. ... $  6,082    $  8,626
 1,294,308   Government Employees Insurance Company
                Common Stock .........................    4,116       9,060
@@ -495,7 +489,7 @@ conditions undoubtedly will again preclude such bargain buying
 but, in the meantime, we will try to make the most of 
 opportunities.
 
-<i>Banking</i>
+Banking
 
      Under Gene Abegg and Pete Jeffrey, the Illinois National 
 Bank and Trust Company in Rockford continues to establish new 
@@ -524,7 +518,7 @@ than Gene Abegg.
 The most likely approach is to spin it off to Berkshire 
 shareholders some time in the second half of 1980.
 
-<i>Retailing</i>
+Retailing
 
      Upon merging with Diversified, we acquired 100% ownership of 
 Associated Retail Stores, Inc., a chain of about 75 popular 
@@ -558,6 +552,5 @@ like owners.  We are associated with some of the very best.
 
 March 26, 1979
 
-</pre>
-</body>
-</html>
+
+

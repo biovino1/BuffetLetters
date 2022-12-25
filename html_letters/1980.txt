@@ -1,23 +1,17 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1980</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
 
-<i>To the Shareholders of Berkshire Hathaway Inc.:</i>
+
+
+
+Chairman's Letter - 1980
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+
+To the Shareholders of Berkshire Hathaway Inc.:
 
      Operating earnings improved to $41.9 million in 1980 from 
 $36.0 million in 1979, but return on beginning equity capital 
@@ -34,7 +28,7 @@ positive nature peculiar, to a large extent, to our own
 operation, and one of a negative nature applicable to corporate 
 performance generally.  Lets look at the bright side first.
 
-<i>Non-Controlled Ownership Earnings</i>
+Non-Controlled Ownership Earnings
 
      When one company owns part of another company, appropriate 
 accounting procedures pertaining to that ownership interest must 
@@ -122,11 +116,11 @@ also owned small fractions of businesses with extraordinary
 reinvestment possibilities whose retained earnings had an 
 economic value to us far in excess of 100 cents on the dollar.
 
-     <i>The value to Berkshire Hathaway of retained earnings is not 
+     The value to Berkshire Hathaway of retained earnings is not 
 determined by whether we own 100%, 50%, 20% or 1% of the 
 businesses in which they reside.  Rather, the value of those 
 retained earnings is determined by the use to which they are put 
-and the subsequent level of earnings produced by that usage.</i>  
+and the subsequent level of earnings produced by that usage.  
 This is true whether we determine the usage, or whether managers 
 we did not hire - but did elect to join - determine that usage. 
 (Its the act that counts, not the actors.) And the value is in 
@@ -160,7 +154,7 @@ of their own businesses at a price under 50% of that needed to
 acquire the same earning power through the negotiated acquisition 
 of another enterprise.)
 
-<i>Long-Term Corporate Results</i>
+Long-Term Corporate Results
 
      As we have noted, we evaluate single-year corporate 
 performance by comparing operating earnings to shareholders 
@@ -211,7 +205,7 @@ not at all.
 
      So much for the good news.
 
-<i>Results for Owners</i>
+Results for Owners
 
      Unfortunately, earnings reported in corporate financial 
 statements are no longer the dominant variable that determines 
@@ -288,7 +282,7 @@ earnings are saved by a corporation; i.e., reinvested instead
 of paid as dividends.  But that would be true without inflation.  
 A thrifty wage earner, likewise, could achieve regular annual 
 increases in his total income without ever getting a pay increase 
-- <i>if</i> he were willing to take only half of his paycheck in cash 
+- if he were willing to take only half of his paycheck in cash 
 (his wage dividend) and consistently add the other half (his 
 retained earnings) to a savings account.  Neither this high-
 saving wage earner nor the stockholder in a high-saving 
@@ -297,9 +291,9 @@ of return on equity remains flat is truly indexed.
 
      For capital to be truly indexed, return on equity must rise, 
 i.e., business earnings consistently must increase in proportion 
-to the increase in the price level <i>without any need for the 
+to the increase in the price level without any need for the 
 business to add to capital - including working capital - 
-employed.</i>  (Increased earnings produced by increased investment 
+employed.  (Increased earnings produced by increased investment 
 dont count.) Only a few businesses come close to exhibiting this 
 ability.  And Berkshire Hathaway isnt one of them.
 
@@ -312,7 +306,7 @@ wish to transfer your investment in Berkshire into another form
 of investment, or into consumption, you also will face explicit 
 taxes.
 
-<i>Sources of Earnings</i>
+Sources of Earnings
 
      The table below shows the sources of Berkshires reported 
 earnings.  Berkshire owns about 60% of Blue Chip Stamps, which in 
@@ -329,13 +323,13 @@ statements that includes this item in the calculation of
 Earnings Before Realized Investment Gain.
 
 
-<i>
+
                                                                          Net Earnings
                                    Earnings Before Income Taxes            After Tax
                               --------------------------------------  ------------------
                                     Total          Berkshire Share     Berkshire Share
                               ------------------  ------------------  ------------------
-(in thousands of dollars)       1980      1979      1980      1979      1980      1979</i>
+(in thousands of dollars)       1980      1979      1980      1979      1980      1979
                               --------  --------  --------  --------  --------  --------
 Total Earnings - all entities $ 85,945  $ 68,632  $ 70,146  $ 56,427  $ 53,122  $ 42,817
                               ========  ========  ========  ========  ========  ========
@@ -387,22 +381,22 @@ Group earnings.
      We show below Berkshires proportional holdings in those 
 non-controlled businesses for which only distributed earnings 
 (dividends) are included in our own earnings.
-<i>
+
 No. of Shares                                            Cost       Market
 -------------                                         ----------  ----------
-                                                          (000s omitted)</i>
+                                                          (000s omitted)
   434,550 (a)  Affiliated Publications, Inc. ......... $  2,821    $ 12,222
   464,317 (a)  Aluminum Company of America ...........   25,577      27,685
   475,217 (b)  Cleveland-Cliffs Iron Company .........   12,942      15,894
 1,983,812 (b)  General Foods, Inc. ...................   62,507      59,889
 7,200,000 (a)  GEICO Corporation .....................   47,138     105,300
-2,015,000 (a)  Handy &amp; Harman ........................   21,825      58,435
+2,015,000 (a)  Handy & Harman ........................   21,825      58,435
   711,180 (a)  Interpublic Group of Companies, Inc. ..    4,531      22,135
-1,211,834 (a)  Kaiser Aluminum &amp; Chemical Corp. ......   20,629      27,569
+1,211,834 (a)  Kaiser Aluminum & Chemical Corp. ......   20,629      27,569
   282,500 (a)  Media General .........................    4,545       8,334
   247,039 (b)  National Detroit Corporation ..........    5,930       6,299
   881,500 (a)  National Student Marketing ............    5,128       5,895
-  391,400 (a)  Ogilvy &amp; Mather Intl. Inc. ...........    3,709       9,981
+  391,400 (a)  Ogilvy & Mather Intl. Inc. ...........    3,709       9,981
   370,088 (b)  Pinkertons, Inc. .....................   12,144      16,489
   245,700 (b)  R. J. Reynolds Industries .............    8,702      11,228
 1,250,525 (b)  SAFECO Corporation ....................   32,062      45,177
@@ -439,7 +433,7 @@ industry than it will by direct operating decisions we make
 concerning most companies over which we exercise managerial 
 control.
 
-<i>GEICO Corp.</i>
+GEICO Corp.
 
      Our largest non-controlled holding is 7.2 million shares of 
 GEICO Corp., equal to about a 33% equity interest.  Normally, an 
@@ -549,7 +543,7 @@ Jack Byrnes in the managerial world, or GEICOs in the business
 world.  What could be better than buying into a partnership with 
 both of them?
 
-<i>Insurance Industry Conditions</i>
+Insurance Industry Conditions
 
      The insurance industrys underwriting picture continues to 
 unfold about as we anticipated, with the combined ratio (see 
@@ -613,8 +607,8 @@ may be the sole factor that prevents such a sensible move.
 
      But the full implications flowing from massive unrealized 
 bond losses are far more serious than just the immobilization of 
-investment intellect.  For the source of funds to purchase <i>and 
-hold</i> those bonds is a pool of money derived from policyholders 
+investment intellect.  For the source of funds to purchase and 
+hold those bonds is a pool of money derived from policyholders 
 and claimants (with changing faces) - money which, in effect, is 
 temporarily on deposit with the insurer.  As long as this pool 
 retains its size, no bonds must be sold.  If the pool of funds 
@@ -679,10 +673,10 @@ institutional pride, or protection of stated net worth - to sell
 bonds at price levels forcing recognition of major losses might 
 find themselves frozen in investment posture for a decade or 
 longer.  But, as noted, thats only half of the problem.  
-<i>Companies that have made extensive commitments to long-term bonds 
+Companies that have made extensive commitments to long-term bonds 
 may have lost, for a considerable period of time, not only many 
 of their investment options, but many of their underwriting 
-options as well.</i>
+options as well.
 
      Our own position in this respect is satisfactory.  We 
 believe our net worth, valuing bonds of all insurers at amortized 
@@ -703,7 +697,7 @@ doesnt remove us from the hostile pricing environment now
 enveloping the entire property-casualty insurance industry.  It 
 just gives us more staying power and more options.
 
-<i>Insurance Operations</i>
+Insurance Operations
 
      The National Indemnity managers, led by Phil Liesche with 
 the usual able assistance of Roland Miller and Bill Lyons, outdid 
@@ -778,7 +772,7 @@ expect underwriting experience somewhat superior to that of the
 industry but, of course, so does most of the industry.  There 
 will be some disappointments.
 
-<i>Textile and Retail Operations</i>
+Textile and Retail Operations
 
      During the past year we have cut back the scope of our 
 textile business.  Operations at Waumbec Mills have been 
@@ -810,7 +804,7 @@ cash.  On March 7, 1981 Associated will celebrate its 50th
 birthday.  Ben has run the business (along with Leo Simon, his 
 partner from 1931 to 1966) in each of those fifty years.
 
-<i>Disposition of Illinois National Bank and Trust of Rockford</i>
+Disposition of Illinois National Bank and Trust of Rockford
 
      On December 31, 1980 we completed the exchange of 41,086 
 shares of Rockford Bancorp Inc. (which owns 97.7% of Illinois 
@@ -845,14 +839,14 @@ owned by 65 shareholders.  And all of those shareholders will
 have become Bancorp owners through a conscious affirmative 
 decision.
 
-<i>Financing</i>
+Financing
 
      In August we sold $60 million of 12 3/4% notes due August 1, 
 2005, with a sinking fund to begin in 1991.
 
-     The managing underwriters, Donaldson, Lufkin &amp; Jenrette 
+     The managing underwriters, Donaldson, Lufkin & Jenrette 
 Securities Corporation, represented by Bill Fisher, and Chiles, 
-Heider &amp; Company, Inc., represented by Charlie Heider, did an 
+Heider & Company, Inc., represented by Charlie Heider, did an 
 absolutely first-class job from start to finish of the financing.
 
      Unlike most businesses, Berkshire did not finance because of 
@@ -941,6 +935,5 @@ a special one, and I miss it.
                                           Warren E. Buffett
 February 27, 1981                         Chairman of the Board
 
-</pre>
-</body>
-</html>
+
+

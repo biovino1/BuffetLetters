@@ -1,27 +1,21 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136883390-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-136883390-1');
-</script>
-<html>
-<head>
-<title>Chairman's Letter - 1982</title>
-</head>
-<body>
-<p align="CENTER">
-<b>BERKSHIRE HATHAWAY INC.</b>
-</p>
-<pre>
+
+
+
+
+Chairman's Letter - 1982
+
+
+
+BERKSHIRE HATHAWAY INC.
+
+
 
                                                   March 3, 1983
 
 
 
-<i>To the Stockholders of Berkshire Hathaway Inc.:</i>
+To the Stockholders of Berkshire Hathaway Inc.:
 
      Operating earnings of $31.5 million in 1982 amounted to only 
 9.8% of beginning equity capital (valuing securities at cost), 
@@ -62,7 +56,7 @@ section, we believe our abandonment of the operating
 earnings/equity capital bullseye to be warranted.
 
 
-<i>Non-Reported Ownership Earnings</i>
+Non-Reported Ownership Earnings
 
      The appended financial statements reflect accounting 
 earnings that generally include our proportionate share of 
@@ -220,7 +214,7 @@ prospects rather than help them.  We currently are seeing early
 traces of this problem.
 
 
-<i>Long-Term Corporate Performance</i>
+Long-Term Corporate Performance
 
      Our gain in net worth during 1982, valuing equities held by 
 our insurance subsidiaries at market value (less capital gain 
@@ -272,7 +266,7 @@ have cash available, we simply will add to our holdings at even
 more favorable prices.
 
 
-<i>Sources of Reported Earnings</i>
+Sources of Reported Earnings
 
      The table below shows the sources of Berkshires reported 
 earnings.  In 1981 and 1982 Berkshire owned about 60% of Blue 
@@ -284,7 +278,7 @@ attributable to unusual sales of assets by any of the business
 entities are aggregated with securities transactions in the line 
 near the bottom of the table, and are not included in operating 
 earnings.
-<i>
+
                                                                          Net Earnings
                                    Earnings Before Income Taxes            After Tax
                               --------------------------------------  ------------------
@@ -292,7 +286,7 @@ earnings.
                               ------------------  ------------------  ------------------
                                 1982      1981      1982      1981      1982      1981
                               --------  --------  --------  --------  --------  --------
-                                                    (000s omitted)</i>
+                                                    (000s omitted)
 Operating Earnings:
   Insurance Group:
     Underwriting ............ $(21,558)  $ 1,478  $(21,558)  $ 1,478  $(11,345)  $   798
@@ -360,19 +354,19 @@ income segment of Insurance Group earnings.
      We show below Berkshires proportional holdings in those 
 non-controlled businesses for which only distributed earnings 
 (dividends) are included in our earnings.
-<i>
+
 No. of Shares
 or Share Equiv.                                          Cost       Market  
 ---------------                                       ----------  ----------
-                                                          (000s omitted)</i>
+                                                          (000s omitted)
    460,650 (a)   Affiliated Publications, Inc. ......  $  3,516    $ 16,929
-   908,800 (c)   Crum &amp; Forster .....................    47,144      48,962	
+   908,800 (c)   Crum & Forster .....................    47,144      48,962	
  2,101,244 (b)   General Foods, Inc. ................    66,277      83,680
  7,200,000 (a)   GEICO Corporation ..................    47,138     309,600
- 2,379,200 (a)   Handy &amp; Harman .....................    27,318      46,692
+ 2,379,200 (a)   Handy & Harman .....................    27,318      46,692
    711,180 (a)   Interpublic Group of Companies, Inc.     4,531      34,314
    282,500 (a)   Media General ......................     4,545      12,289
-   391,400 (a)   Ogilvy &amp; Mather Intl. Inc. ........     3,709      17,319
+   391,400 (a)   Ogilvy & Mather Intl. Inc. ........     3,709      17,319
  3,107,675 (b)   R. J. Reynolds Industries ..........   142,343     158,715
  1,531,391 (a)   Time, Inc. .........................    45,273      79,824
  1,868,600 (a)   The Washington Post Company ........    10,628     103,240
@@ -411,16 +405,16 @@ insurance area.  So commentary on developments in that industry
 is appropriate.
 
 
-<i>Insurance Industry Conditions</i>
+Insurance Industry Conditions
 
      We show below an updated table of the industry statistics we 
 utilized in last years annual report.  Its message is clear: 
 underwriting results in 1983 will not be a sight for the 
 squeamish.
-<i>
+
                       Yearly Change     Yearly Change      Combined Ratio
                        in Premiums       in Premiums        after Policy-
-                       Written (%)        Earned (%)      holder Dividends</i>
+                       Written (%)        Earned (%)      holder Dividends
                       -------------     -------------     ----------------
 1972 ................     10.2              10.9                96.2
 1973 ................      8.0               8.8                99.2
@@ -505,7 +499,7 @@ They may well be disastrous.
 emphasize special qualities of product or service.  This works 
 with candy bars (customers buy by brand name, not by asking for a 
 two-ounce candy bar) but doesnt work with sugar (how often do 
-you hear, Ill have a cup of coffee with cream and C &amp; H sugar, 
+you hear, Ill have a cup of coffee with cream and C & H sugar, 
 please).
 
      In many industries, differentiation simply cant be made 
@@ -669,7 +663,7 @@ premium volume, an amount considerably greater than all of the
 direct volume we produce.
 
 
-<i>Issuance of Equity</i>
+Issuance of Equity
 
      Berkshire and Blue Chip are considering merger in 1983.  If 
 it takes place, it will involve an exchange of stock based upon 
@@ -719,8 +713,8 @@ a substantially undervalued currency to make its purchase.
      Ironically, were the buyer to instead be a seller of its 
 entire business, it too could negotiate for, and probably get, 
 full intrinsic business value.  But when the buyer makes a 
-partial sale of itself - <i>and that is what the issuance of shares 
-to make an acquisition amounts to</i> - it can customarily get no 
+partial sale of itself - and that is what the issuance of shares 
+to make an acquisition amounts to - it can customarily get no 
 higher value set on its shares than the market chooses to grant 
 it.
 
@@ -754,7 +748,7 @@ managements follow:
          existing businesses shrink when shares are issued.  Were 
          Berkshire to issue shares tomorrow for an acquisition, 
          Berkshire would own everything that it now owns plus the 
-         new business, but <i>your</i> interest in such hard-to-match 
+         new business, but your interest in such hard-to-match 
          businesses as Sees Candy Shops, National Indemnity, 
          etc. would automatically be reduced.  If (1) your family 
          owns a 120-acre farm and (2)  you invite a neighbor with 
@@ -785,7 +779,7 @@ managements follow:
 owners when shares are issued for acquisitions.  One is to have a 
 true business-value-for-business-value merger, such as the 
 Berkshire-Blue Chip combination is intended to be.  Such a merger 
-attempts to be fair to shareholders of <i>both</i> parties, with each 
+attempts to be fair to shareholders of both parties, with each 
 receiving just as much as it gives in terms of intrinsic business 
 value.  The Dart Industries-Kraft and Nabisco Standard Brands 
 mergers appeared to be of this type, but they are the exceptions.  
@@ -798,7 +792,7 @@ situation, the use of stock as currency actually may enhance the
 wealth of the acquiring companys owners.  Many mergers were 
 accomplished on this basis in the 1965-69 period.  The results 
 were the converse of most of the activity since 1970: the 
-shareholders of the <i>acquired</i> company received very inflated 
+shareholders of the acquired company received very inflated 
 currency (frequently pumped up by dubious accounting and 
 promotional techniques) and were the losers of wealth through 
 such transactions.
@@ -939,7 +933,7 @@ equate activity with progress or corporate size with owner-
 wealth.
 
 
-<i>Miscellaneous</i>
+Miscellaneous
 
      This annual report is read by a varied audience, and it is 
 possible that some members of that audience may be helpful to us 
@@ -984,11 +978,11 @@ by-product will be the attainment of a consolidated tax position
 that will significantly enlarge our contribution base and give us 
 a potential for designating bigger per-share amounts in the 
 future.
-<i>
+
      If you wish to participate in future programs, we strongly 
 urge that you immediately make sure that your shares are 
 registered in the actual owners name, not a street or nominee 
-name.</i>  For new shareholders, a more complete description of the 
+name.  For new shareholders, a more complete description of the 
 program is on pages 62-63.
 
                          *  *  *  *  *
@@ -1034,6 +1028,5 @@ you need not worry about Berkshires future.
 
                                           Warren E. Buffett
                                           Chairman of the Board
-</pre>
-</body>
-</html>
+
+
