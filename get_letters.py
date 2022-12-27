@@ -1,13 +1,15 @@
 """================================================================================================
-This script accesses each 'Letter to Shareholders' from Berkshire Hathaway's online archive and
-writes them to individual text files.
+This script gets the text from each 'Letter to Shareholders' from Berkshire Hathaway's online
+archive, cleans them, and writes them all to one text file.
 
-12/24/22   Ben Iovino   BuffettLetters
+12/26/22   Ben Iovino   BuffettLetters
 ================================================================================================"""
 
 import os
+import re
 import requests
 import PyPDF2
+import nltk
 from bs4 import BeautifulSoup
 
 
@@ -28,9 +30,27 @@ def get_links(url, headers):
     links = []
     for link in soup.find_all('a'):
         links.append(link.get('href'))
-    links = links[1:-1]
+    links = links[1:-1]  # First and last links are irrelevant
 
     return links
+
+
+def clean_letter(text):
+    """=============================================================================================
+    This function takes a body of text and writes a cleaned version to a file.
+
+    :param text: string 
+    ============================================================================================="""
+
+    # Remove special characters
+    text = re.sub('[^a-zA-Z0-9\n\.]', ' ', text)
+
+    # Tokenize words to remove spaces and newline characters
+    text = ' '.join(nltk.word_tokenize(text))
+
+    # Append to file, each letter is one line in the same text file
+    with open('letters.txt', 'a', encoding='utf8') as file:
+        file.write(str(text)+'\n')
 
 
 def html_to_text(url, links, headers):
@@ -43,21 +63,16 @@ def html_to_text(url, links, headers):
     :param headers: headers used for requests
     ============================================================================================="""
 
-    # Create directory for html letters
-    if not os.path.exists('html_letters'):
-        os.mkdir('html_letters')
-
     # Iterate over each webpage
     for i, link in enumerate(links):
 
-        # Get content of webpage, parse with beautiful soup
+        # Get content of webpage, parse html with beautiful soup
         request = requests.get(url+link, headers=headers, timeout=5)
         letter = BeautifulSoup(request.text, 'html.parser')
         letter = letter.get_text()
 
-        # Write to file as is
-        with open(f'html_letters/{i+1977}.txt', 'w', encoding='utf8') as file:
-            file.write(str(letter))
+        # Clean and write to file
+        clean_letter(letter)
 
 
 def pdf_to_text(url, links):
@@ -68,10 +83,6 @@ def pdf_to_text(url, links):
     :param url: root url
     :param links: list of links leading to individual webpages
     ============================================================================================="""
-
-    # Create directory for pdf letters
-    if not os.path.exists('pdf_letters'):
-        os.mkdir('pdf_letters')
 
     # Iterate over each webpage
     for i, link in enumerate(links):
@@ -88,9 +99,8 @@ def pdf_to_text(url, links):
             for page in PdfReader.pages:
                 text += page.extract_text()
 
-        # Write text to file
-        with open(f'pdf_letters/{i+1998}.txt', 'w', encoding='utf8') as file:
-            file.write(text)
+        # Clean and write to text file, delete pdf file
+        clean_letter(text)
         os.remove('letter.pdf')
 
 
@@ -119,6 +129,7 @@ def main():
 
     # Get letters from pdf webpages (these pages don't require a user-agent)
     pdf_to_text(url, pdf_letters)
+
 
 if __name__ == '__main__':
     main()
