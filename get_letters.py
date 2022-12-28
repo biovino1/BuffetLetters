@@ -39,7 +39,7 @@ def clean_letter(text):
     """=============================================================================================
     This function takes a body of text and writes a cleaned version to a file.
 
-    :param text: string 
+    :param text: string
     ============================================================================================="""
 
     # Remove special characters
@@ -47,6 +47,12 @@ def clean_letter(text):
 
     # Tokenize words to remove spaces and newline characters
     text = ' '.join(nltk.word_tokenize(text))
+
+    # Letters have contractions separated - use re.sub to fix
+    regexes = ((" s ", "'s "), (" ve ", "'ve "), (" re ", "'re "),
+        (" m ", "'m"), (" ll ", "'ll "), (" t ", "'t "))
+    for reg in regexes:
+        text = re.sub(reg[0], reg[1], text)
 
     # Append to file, each letter is one line in the same text file
     with open('letters.txt', 'a', encoding='utf8') as file:
@@ -64,7 +70,7 @@ def html_to_text(url, links, headers):
     ============================================================================================="""
 
     # Iterate over each webpage
-    for i, link in enumerate(links):
+    for link in links:
 
         # Get content of webpage, parse html with beautiful soup
         request = requests.get(url+link, headers=headers, timeout=5)
@@ -85,7 +91,7 @@ def pdf_to_text(url, links):
     ============================================================================================="""
 
     # Iterate over each webpage
-    for i, link in enumerate(links):
+    for link in links:
 
         # Download pdf letters and extract text
         request = requests.get(url+link, stream=True, timeout=5)
