@@ -54,6 +54,11 @@ def clean_letter(text):
     for reg in regexes:
         text = re.sub(reg[0], reg[1], text)
 
+    # Some letters have graphs in beginning and letters after Buffett's - remove these
+    beg = re.search("To the Shareholders|To the Stockholders", text).span()[0]
+    end = re.search("Warren E. Buffett| Warren E. Buff ett", text).span()[1]
+    text = text[beg:end]
+
     # Append to file, each letter is one line in the same text file
     with open('letters.txt', 'a', encoding='utf8') as file:
         file.write(str(text)+'\n')
@@ -74,8 +79,8 @@ def html_to_text(url, links, headers):
 
         # Get content of webpage, parse html with beautiful soup
         request = requests.get(url+link, headers=headers, timeout=5)
-        letter = BeautifulSoup(request.text, 'html.parser')
-        letter = letter.get_text()
+        soup = BeautifulSoup(request.text, 'html.parser')
+        letter = soup.get_text()
 
         # Clean and write to file
         clean_letter(letter)
@@ -112,6 +117,7 @@ def pdf_to_text(url, links):
 
 def main():
     """=============================================================================================
+    This function defines a url and writes the text content from each of its links to a text file.
     ============================================================================================="""
 
     # Set user-agent hearder for requests (UA below sent by personal machine)
