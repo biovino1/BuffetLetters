@@ -8,7 +8,7 @@ archive, cleans them, and writes them all to one text file.
 import os
 import re
 import requests
-import PyPDF2
+import fitz
 import nltk
 from bs4 import BeautifulSoup
 
@@ -106,9 +106,9 @@ def pdf_to_text(url, links):
         # Extract text from pdf
         text = ''
         with open('letter.pdf', 'rb') as pdf:
-            PdfReader = PyPDF2.PdfReader(pdf)
-            for page in PdfReader.pages:
-                text += page.extract_text()
+            doc = fitz.open(pdf)
+            for page in doc:
+                text += page.get_text()
 
         # Clean and write to text file, delete pdf file
         clean_letter(text)
@@ -130,6 +130,7 @@ def main():
 
     # Get letters from html webpages
     url = 'https://www.berkshirehathaway.com/letters/'
+
     html_letters = links[:21]
     html_to_text(url, html_letters, headers)
 
