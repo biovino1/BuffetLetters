@@ -1,0 +1,2 @@
+# BuffettLetters
+Every year, Warren Buffett releases a 'Letter to Shareholders' to Berkshire Hathaway investors in which he covers the performance of the company and the market as a whole. The goal of this project is to determine similarity between these letters using various natural language processing techniques and maybe see if predictions can be made about the stock market the year following a letter is published.
