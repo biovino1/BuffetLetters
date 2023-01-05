@@ -50,7 +50,7 @@ def clean_letter(text):
 
     # Letters have contractions separated - use re.sub to fix
     regexes = ((" s ", "'s "), (" ve ", "'ve "), (" re ", "'re "),
-        (" m ", "'m"), (" ll ", "'ll "), (" t ", "'t "))
+        (" m ", "'m"), (" ll ", "'ll "), (" t ", "'t "), (" d ", "'d"))
     for reg in regexes:
         text = re.sub(reg[0], reg[1], text)
 
@@ -60,7 +60,7 @@ def clean_letter(text):
     text = text[beg:end]
 
     # Append to file, each letter is one line in the same text file
-    with open('letters.txt', 'a', encoding='utf8') as file:
+    with open('data/letters.txt', 'a', encoding='utf8') as file:
         file.write(str(text)+'\n')
 
 
@@ -124,13 +124,15 @@ def main():
     headers = {'User-Agent':
         'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0'}
 
+    # Create directory for data
+    os.makedirs('data/')
+
     # Get all links from url
     url = 'https://www.berkshirehathaway.com/letters/letters.html'
     links = get_links(url, headers)
 
     # Get letters from html webpages
     url = 'https://www.berkshirehathaway.com/letters/'
-
     html_letters = links[:21]
     html_to_text(url, html_letters, headers)
 
@@ -146,7 +148,7 @@ def main():
     # Download S&P 500 annual return since 1926
     url = 'https://www.slickcharts.com/sp500/returns/history.csv'
     request = requests.get(url, headers=headers, timeout=5)
-    with open('sp500.csv', 'wb') as file:
+    with open('data/sp500.csv', 'wb') as file:
         file.write(request.content)
 
 
