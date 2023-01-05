@@ -143,6 +143,12 @@ def main():
     # Get letters from pdf webpages (these pages don't require a user-agent)
     pdf_to_text(url, pdf_letters)
 
+    # Download S&P 500 annual return since 1926
+    url = 'https://www.slickcharts.com/sp500/returns/history.csv'
+    request = requests.get(url, headers=headers, timeout=5)
+    with open('sp500.csv', 'wb') as file:
+        file.write(request.content)
+
 
 if __name__ == '__main__':
     main()
