@@ -149,6 +149,7 @@ def main():
     url = 'https://www.slickcharts.com/sp500/returns/history.csv'
     request = requests.get(url, headers=headers, timeout=5)
     with open('data/sp500.csv', 'wb') as file:
+        file.write('year,performance\n'.encode('utf8'))
         file.write(request.content)
 
 
