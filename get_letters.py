@@ -1,9 +1,9 @@
-"""================================================================================================
-This script gets the text from each 'Letter to Shareholders' from Berkshire Hathaway's online
+"""This script gets the text from each 'Letter to Shareholders' from Berkshire Hathaway's online
 archive, cleans them, and writes them all to one text file.
 
-12/26/22   Ben Iovino   BuffettLetters
-================================================================================================"""
+__author__ = 'Ben Iovino'
+__date__ = '12/26/22'
+"""
 
 import os
 import re
@@ -13,14 +13,13 @@ import nltk
 from bs4 import BeautifulSoup
 
 
-def get_links(url, headers):
-    """=============================================================================================
-    This function takes a url and gathers all links. It returns a list of the desired links.
+def get_links(url: str, headers: dict) -> list:
+    """Returns a list of the desired links from the given url.
 
     :param url: root url
     :param headers: headers used for requests
     :return: list of links
-    ============================================================================================="""
+    """
 
     # Request url and parse html
     page = requests.get(url, headers=headers, timeout=5)
@@ -35,12 +34,11 @@ def get_links(url, headers):
     return links
 
 
-def clean_letter(text):
-    """=============================================================================================
-    This function takes a body of text and writes a cleaned version to a file.
+def clean_letter(text: str):
+    """Cleans and writes a body of text to a file.
 
     :param text: string
-    ============================================================================================="""
+    """
 
     # Remove special characters
     text = re.sub('[^a-zA-Z0-9\n\.]', ' ', text)
@@ -64,20 +62,16 @@ def clean_letter(text):
         file.write(str(text)+'\n')
 
 
-def html_to_text(url, links, headers):
-    """=============================================================================================
-    This function takes a url and list of sublinks that lead to html webpages and writes their
-    text content to an individual file.
+def html_to_text(url: str, links: list, headers: dict):
+    """Writes text content of a list of html webpages to individual text files.
 
     :param url: root url
     :param links: list of links leading to individual webpages
     :param headers: headers used for requests
-    ============================================================================================="""
+    """
 
-    # Iterate over each webpage
+    # Get content of webpage, parse html with beautiful soup
     for link in links:
-
-        # Get content of webpage, parse html with beautiful soup
         request = requests.get(url+link, headers=headers, timeout=5)
         soup = BeautifulSoup(request.text, 'html.parser')
         letter = soup.get_text()
@@ -86,19 +80,15 @@ def html_to_text(url, links, headers):
         clean_letter(letter)
 
 
-def pdf_to_text(url, links):
-    """=============================================================================================
-    This function takes a url and list of sublinks that lead to pdf webpages and writes their text
-    content to an individual file.
+def pdf_to_text(url: str, links: list):
+    """Writes text content of a list of pdf webpages to individual text files.
 
     :param url: root url
     :param links: list of links leading to individual webpages
-    ============================================================================================="""
+    """
 
-    # Iterate over each webpage
+    # Download pdf letters and extract text
     for link in links:
-
-        # Download pdf letters and extract text
         request = requests.get(url+link, stream=True, timeout=5)
         with open('/home/ben/Code/BuffettLetters/letter.pdf', 'wb') as file:
             file.write(request.content)
@@ -116,18 +106,16 @@ def pdf_to_text(url, links):
 
 
 def main():
-    """=============================================================================================
-    This function defines a url and writes the text content from each of its links to a text file.
-    ============================================================================================="""
+    """Defines a url and writes the text content from each of its links to a text file.
+    Some links are to html webpages, others are to pdfs.
+    """
 
     # Set user-agent hearder for requests (UA below sent by personal machine)
     headers = {'User-Agent':
         'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0'}
 
-    # Create directory for data
-    os.makedirs('data/')
-
     # Get all links from url
+    os.makedirs('data/')
     url = 'https://www.berkshirehathaway.com/letters/letters.html'
     links = get_links(url, headers)
 
